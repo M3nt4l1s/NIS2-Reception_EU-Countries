@@ -1,0 +1,3085 @@
+{
+  "celex": "32022L2555",
+  "countries": {
+    "at": {
+      "declared_complete": false,
+      "first_notification": "2009-12-08",
+      "iso": "at",
+      "iso3": "AUT",
+      "last_notification": "2025-12-23",
+      "measure_count": 8,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/85f4e7b6-2551-48e3-8880-e17c16e9fb91",
+          "entry_into_force": "2023-04-17",
+          "notified": "2009-12-08",
+          "oj_date": "1001-01-01",
+          "title": "§ 6 Abs. 1 Z 7 des Bundesgesetzes über den Zugang zu Informationen (Informationsfreiheitsgesetz – IFG); Stammfassung BGBl. I Nr. 5/2024, zuletzt geändert durch BGBl. I Nr. 52/2025",
+          "title_it": "§ 6, comma 1, punto 7, della legge federale sull’accesso alle informazioni (Legge sulla libertà di informazione – IFG); testo originale: Gazzetta ufficiale federale I n. 5/2024, modificato da ultimo dalla Gazzetta ufficiale federale I n. 52/2025",
+          "url": "https://ris.bka.gv.at/eli/bgbl/i/2024/5/P6/NOR40260540"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/86b2b65d-4289-4ba8-bac7-93c811b3103c",
+          "entry_into_force": null,
+          "notified": "2019-04-30",
+          "oj_date": "2019-04-24",
+          "title": "§ 9 des Verwaltungsstrafgesetzes 1991 (VStG), BGBl. Nr. 52/1991, zuletzt geändert durch BGBl. I Nr. 50/2025",
+          "title_it": "§ 9 della Legge sulle sanzioni amministrative del 1991 (VStG), Gazzetta ufficiale federale n. 52/1991, modificata da ultimo dalla Gazzetta ufficiale federale I n. 50/2025",
+          "url": "https://ris.bka.gv.at/eli/bgbl/1991/52/P9/NOR40095483"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5baeacac-5f64-431f-8252-09b700089ec4",
+          "entry_into_force": null,
+          "notified": "2020-09-01",
+          "oj_date": "2020-08-11",
+          "title": "§ 45 Abs. 3 und § 58 Abs. 2 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG; Stammfassung BGBl. Nr. 51/1991, zuletzt geändert durch BGBl. I Nr. 50/2025",
+          "title_it": "§ 45, comma 3, e § 58, comma 2, della Legge generale sul procedimento amministrativo del 1991 (AVG); testo originale pubblicato nella Gazzetta ufficiale federale n. 51/1991, modificato da ultimo dalla Gazzetta ufficiale federale I n. 50/2025",
+          "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ac9c6c72-18a0-4f16-9422-d296fc192dc3",
+          "entry_into_force": null,
+          "notified": "2021-01-18",
+          "oj_date": "1001-01-01",
+          "title": "Art. 49 Abs. 1 des Bundes-Verfassungsgesetz (B-VG); Stammfassung BGBl. Nr. 1/1930, zuletzt geändert durch BGBl. I Nr. 89/2024",
+          "title_it": "Art. 49, comma 1, della Legge costituzionale federale (B-VG); testo originario pubblicato nella Gazzetta ufficiale federale n. 1/1930, modificato da ultimo dalla Gazzetta ufficiale federale I n. 89/2024",
+          "url": "https://ris.bka.gv.at/eli/bgbl/1930/1/A49/NOR40152501"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/7da11b2c-6886-4868-b56d-dd24b6c0337b",
+          "entry_into_force": null,
+          "notified": "2022-02-23",
+          "oj_date": "1001-01-01",
+          "title": "§ 3 Z 1 sowie § 9 Abs. 1 des Bundesgesetzes über das Bundesgesetzblatt 2004 (Bundesgesetzblattgesetz – BGBlG), BGBl. I Nr. 100/2003, zuletzt geändert durch BGBl. I Nr. 88/2024",
+          "title_it": "§ 3, punto 1, e § 9, comma 1, della legge federale sulla Gazzetta ufficiale federale del 2004 (Legge sulla Gazzetta ufficiale federale – BGBlG), Gazzetta ufficiale federale I n. 100/2003, modificata da ultimo dalla Gazzetta ufficiale federale I n. 88/2024",
+          "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002988"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/067cbacb-edba-4ec8-b49f-789f6a034485",
+          "entry_into_force": "2019-07-18",
+          "notified": "2025-01-13",
+          "oj_date": "2019-07-17",
+          "title": "Verordnung des Bundesministers für EU, Kunst, Kultur und Medien zur Festlegung von Sicherheitsvorkehrungen und näheren Regelungen zu den Sektoren sowie zu Sicherheitsvorfällen nach dem Netz- und Informationssystemsicherheitsgesetz (Netz- und Informationssystemsicherheitsverordnung – NISV)",
+          "title_it": "Decreto del Ministro federale per l’Unione europea, l’arte, la cultura e i media che stabilisce le misure di sicurezza e le norme dettagliate relative ai settori, nonché agli incidenti di sicurezza ai sensi della legge sulla sicurezza delle reti e dei sistemi informativi (Decreto sulla sicurezza delle reti e dei sistemi informativi – NISV)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b00e4a52-daf4-48fa-bad9-e2292a4a7c0a",
+          "entry_into_force": "2018-12-29",
+          "notified": "2025-01-13",
+          "oj_date": "2018-12-28",
+          "title": "Bundesgesetz zur Gewährleistung eines hohen Sicherheitsniveaus von Netz- und Informationssystemen (Netz- und Informationssystemsicherheitsgesetz – NISG)",
+          "title_it": "Legge federale volta a garantire un elevato livello di sicurezza delle reti e dei sistemi informativi (Legge sulla sicurezza delle reti e dei sistemi informativi – NISG)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5a2619e2-8a98-4ba2-a226-5619a2dce63a",
+          "entry_into_force": null,
+          "notified": "2025-12-23",
+          "oj_date": "2025-12-23",
+          "title": "Bundesgesetz, mit dem das Bundesgesetz zur Gewährleistung eines hohen Cybersicherheitsniveaus von Netz- und Informationssystemen (Netz- und Informationssystemsicherheitsgesetz 2026 – NISG 2026) erlassen wird und das Telekommunikationsgesetz 2021 und das Gesundheitstelematikgesetz 2012 geändert werden",
+          "title_it": "Legge federale con cui viene emanata la legge federale volta a garantire un elevato livello di sicurezza informatica delle reti e dei sistemi informativi (Legge sulla sicurezza delle reti e dei sistemi informativi 2026 – NISG 2026) e che modifica la legge sulle telecomunicazioni del 2021 e la legge sulla telematica sanitaria del 2012",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 3,
+      "name": "Austria",
+      "status": "notified"
+    },
+    "be": {
+      "declared_complete": false,
+      "first_notification": "2024-05-21",
+      "iso": "be",
+      "iso3": "BEL",
+      "last_notification": "2024-10-04",
+      "measure_count": 2,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1d5ff658-b567-4710-b66b-ec0277d3e86e",
+          "entry_into_force": "2024-10-18",
+          "notified": "2024-05-21",
+          "oj_date": "2024-05-17",
+          "title": "Loi du 26 avril 2024 établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d’intérêt général pour la sécurité publique (loi NIS2)",
+          "title_it": "Legge del 26 aprile 2024 che istituisce un quadro normativo per la sicurezza informatica delle reti e dei sistemi informativi di interesse generale per la sicurezza pubblica (legge NIS2)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1124260b-51d8-4afe-9b1c-65f0d651f2fd",
+          "entry_into_force": "2024-10-18",
+          "notified": "2024-10-04",
+          "oj_date": "2024-06-24",
+          "title": "Arrêté royal du 9 juin 2024 exécutant la loi du 26 avril 2024 établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique",
+          "title_it": "Decreto reale del 9 giugno 2024 che attua la legge del 26 aprile 2024 che istituisce un quadro normativo per la sicurezza informatica delle reti e dei sistemi informativi di interesse generale per la sicurezza pubblica",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 2,
+      "name": "Belgio",
+      "status": "notified"
+    },
+    "bg": {
+      "declared_complete": false,
+      "first_notification": "2004-02-18",
+      "iso": "bg",
+      "iso3": "BGR",
+      "last_notification": "2004-02-18",
+      "measure_count": 1,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/9021d9a6-840c-4d0a-b03b-026ea415ea38",
+          "entry_into_force": "2026-02-02",
+          "notified": "2004-02-18",
+          "oj_date": "1994-12-30",
+          "title": "Закон за изменение и допълнение на Закона за киберсигурност",
+          "title_it": "Legge che modifica e integra la Legge sulla sicurezza informatica",
+          "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=241234"
+        }
+      ],
+      "measures_since_directive": 0,
+      "name": "Bulgaria",
+      "status": "not-notified"
+    },
+    "cy": {
+      "declared_complete": false,
+      "first_notification": "2025-05-05",
+      "iso": "cy",
+      "iso3": "CYP",
+      "last_notification": "2025-05-05",
+      "measure_count": 1,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d54444fa-4f2c-4b71-98e2-afac38b7195b",
+          "entry_into_force": "2025-04-25",
+          "notified": "2025-05-05",
+          "oj_date": "2025-04-25",
+          "title": "Ο Περί Ασφάλειας Δικτύων και Συστημάτων Πληροφοριών (Τροποποιητικός) Νόμος του 2025.",
+          "title_it": "Legge (di modifica) del 2025 sulla sicurezza delle reti e dei sistemi informativi.",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 1,
+      "name": "Cipro",
+      "status": "notified"
+    },
+    "cz": {
+      "declared_complete": false,
+      "first_notification": "2004-01-19",
+      "iso": "cz",
+      "iso3": "CZE",
+      "last_notification": "2025-10-29",
+      "measure_count": 83,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f9c61ee8-5506-49ac-943b-7fc7aaf4964f",
+          "entry_into_force": null,
+          "notified": "2004-01-19",
+          "oj_date": "1992-01-20",
+          "title": "Zákon č. 21/1992 Sb., o bankách",
+          "title_it": "Legge n. 21/1992, sulle banche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ede16215-9e02-4394-80c1-a18bf83ebbd3",
+          "entry_into_force": null,
+          "notified": "2004-01-19",
+          "oj_date": "1995-05-29",
+          "title": "Zákon č. 87/1995 Sb., o spořitelních a úvěrních družstvech a některých opatřeních s tím souvisejících a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 87/1995, relativa alle cooperative di risparmio e credito e ad alcune misure correlate, nonché recante integrazioni alla legge del Consiglio nazionale ceco n. 586/1992, relativa alle imposte sul reddito, come modificata da successive disposizioni normative",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/12f287ab-5a05-415c-abfc-39ca11817415",
+          "entry_into_force": null,
+          "notified": "2004-01-22",
+          "oj_date": "1992-12-31",
+          "title": "Zákon č. 634/1992 Sb., o ochraně spotřebitele",
+          "title_it": "Legge n. 634/1992, sulla tutela dei consumatori",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f286f87f-9c83-4577-8d0f-13e20cd01acb",
+          "entry_into_force": null,
+          "notified": "2004-01-29",
+          "oj_date": "2000-12-29",
+          "title": "Zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon)",
+          "title_it": "Legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici, nonché alla modifica di alcune leggi (Legge sull’energia)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/2174c4f8-762d-4b99-b5f4-c5031e9ba974",
+          "entry_into_force": null,
+          "notified": "2004-02-05",
+          "oj_date": "2000-08-11",
+          "title": "Zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů",
+          "title_it": "Legge n. 258/2000, sulla tutela della salute pubblica e sulla modifica di alcune leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/cb221bf0-e600-4a5f-9b8d-8f2340244702",
+          "entry_into_force": null,
+          "notified": "2004-02-18",
+          "oj_date": "2000-03-28",
+          "title": "Zákon č. 61/2000 Sb., o námořní plavbě",
+          "title_it": "Legge n. 61/2000, sulla navigazione marittima",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/67d651c1-5738-4fda-a86a-892f5cbf8b42",
+          "entry_into_force": null,
+          "notified": "2004-02-18",
+          "oj_date": "1994-12-30",
+          "title": "Zákon č. 266/1994 Sb., o dráhách",
+          "title_it": "Legge n. 266/1994, sulle ferrovie",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/384b1c58-d1b2-4734-a04c-783735905a81",
+          "entry_into_force": null,
+          "notified": "2004-02-18",
+          "oj_date": "2000-02-21",
+          "title": "Zákon č. 23/2000 Sb., kterým se mění zákon č. 266/1994 Sb., o dráhách",
+          "title_it": "Legge n. 23/2000, che modifica la legge n. 266/1994, sulle ferrovie",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/0fe22119-7b91-4e4a-a6b6-01f69acbcdfe",
+          "entry_into_force": null,
+          "notified": "2004-04-01",
+          "oj_date": "1997-03-28",
+          "title": "Zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů",
+          "title_it": "Legge n. 49/1997, relativa all'aviazione civile e recante modifiche e integrazioni alla legge n. 455/1991, relativa alle attività commerciali (legge sulle attività commerciali), e successive modifiche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/59758b5a-5f76-4bc0-b076-08d80f19c609",
+          "entry_into_force": null,
+          "notified": "2004-04-01",
+          "oj_date": "2000-02-22",
+          "title": "Zákon č. 29/2000 Sb., o poštovních službách a o zmene nekterých zákonu (zákon o poštovních službách)",
+          "title_it": "Legge n. 29/2000, relativa ai servizi postali e alla modifica di alcune leggi (legge sui servizi postali)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d675fdb8-9f0b-4ec6-b9cc-61fdf082ad83",
+          "entry_into_force": null,
+          "notified": "2004-04-14",
+          "oj_date": "2002-07-18",
+          "title": "Zákon č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů",
+          "title_it": "Legge n. 320/2002, recante modifiche e abrogazioni di alcune leggi in relazione alla cessazione dell'attività degli uffici distrettuali",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/84982327-12ae-4c9d-b611-1ec416d9fd80",
+          "entry_into_force": null,
+          "notified": "2004-04-20",
+          "oj_date": "2003-08-27",
+          "title": "Zákon č. 274/2003 Sb., kterým se mění některé zákony na úseku ochrany veřejného zdraví",
+          "title_it": "Legge n. 274/2003, che modifica alcune leggi in materia di tutela della salute pubblica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/21a7ae2a-0317-4849-a1d9-943ccd7fd98e",
+          "entry_into_force": null,
+          "notified": "2004-08-30",
+          "oj_date": "2004-04-30",
+          "title": "Zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu",
+          "title_it": "Legge n. 256/2004, relativa all'attività imprenditoriale nel mercato dei capitali",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/db7faa1b-dfdc-49c3-b7e2-01f999919add",
+          "entry_into_force": null,
+          "notified": "2004-08-30",
+          "oj_date": "1997-01-23",
+          "title": "Zákon č. 13/1997 Sb., o pozemních komunikacích",
+          "title_it": "Legge n. 13/1997, sulle strade",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/6ee78508-4864-4969-8e4d-e8a88f97beb2",
+          "entry_into_force": null,
+          "notified": "2004-11-23",
+          "oj_date": "2004-09-07",
+          "title": "Zákon č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti)",
+          "title_it": "Legge n. 480/2004, relativa ad alcuni servizi della società dell'informazione e alla modifica di alcune leggi (legge su alcuni servizi della società dell'informazione)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/3d990a03-8673-44c0-b7c5-adc455090e54",
+          "entry_into_force": null,
+          "notified": "2004-11-30",
+          "oj_date": "2004-09-24",
+          "title": "Zákon č. 500/2004 Sb., správní řád",
+          "title_it": "Legge n. 500/2004, Codice di procedura amministrativa",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1b760ca0-7aeb-4cc9-8de8-37be76ed1a52",
+          "entry_into_force": null,
+          "notified": "2005-01-07",
+          "oj_date": "2000-05-17",
+          "title": "Zákon č. 132/2000 Sb., o změně a zrušení některých zákonů souvisejících se zákonem o krajích, zákonem o obcích, zákonem o okresních úřadech a zákonem o hlavním městě Praze",
+          "title_it": "Legge n. 132/2000, recante modifiche e abrogazioni di alcune leggi relative alla legge sulle regioni, alla legge sui comuni, alla legge sugli uffici distrettuali e alla legge sulla città di Praga",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/0a05bd9c-4636-48c6-a98f-c594e5279b7c",
+          "entry_into_force": null,
+          "notified": "2005-01-07",
+          "oj_date": "2004-04-23",
+          "title": "Zákon č. 186/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Celní správě České republiky",
+          "title_it": "Legge n. 186/2004, che modifica alcune leggi in relazione all'adozione della legge sull'Amministrazione doganale della Repubblica Ceca",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/79893a90-7c5a-45af-98dc-d32287158f5e",
+          "entry_into_force": null,
+          "notified": "2005-04-19",
+          "oj_date": "2005-03-31",
+          "title": "Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích)",
+          "title_it": "Legge n. 127/2005, sulle comunicazioni elettroniche e sulla modifica di alcune leggi correlate (legge sulle comunicazioni elettroniche)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/35b4916f-12d5-4499-a4a3-0ee7062522e4",
+          "entry_into_force": null,
+          "notified": "2006-06-20",
+          "oj_date": "2006-05-26",
+          "title": "Zákon č. 225/2006 Sb., kterým se mění zákon č. 49/1997 Sb., o civilním letectví, a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů a některé další zákony",
+          "title_it": "Legge n. 225/2006, che modifica la legge n. 49/1997, sull’aviazione civile, e che modifica e integra la legge n. 455/1991 R., sull’attività commerciale (legge sulle attività commerciali), come modificata da successive disposizioni normative, e alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d99d5884-9f19-4db7-88fd-12a6f4dd8240",
+          "entry_into_force": null,
+          "notified": "2006-06-21",
+          "oj_date": "2006-05-05",
+          "title": "Zákon č. 181/2006 Sb., kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 181/2006, che modifica la legge n. 266/1994 sulle ferrovie, come modificata da disposizioni successive, e la legge n. 200/1990, relativa alle contravvenzioni, e successive modifiche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/fbd2cc97-7da7-4d55-ba68-7530331ebf4d",
+          "entry_into_force": null,
+          "notified": "2008-07-07",
+          "oj_date": "2008-06-30",
+          "title": "Zákon č. 230/2008 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 230/2008, che modifica la legge n. 256/2004, relativa alle attività sul mercato dei capitali, e successive modifiche, nonché altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a009031b-dc79-4146-adba-d28acbb71c21",
+          "entry_into_force": null,
+          "notified": "2008-10-13",
+          "oj_date": "2008-08-21",
+          "title": "Zákon č. 310/2008 Sb., kterým se mění zákon č. 61/2000 Sb., o námořní plavbě, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 310/2008, che modifica la legge n. 61/2000 sulla navigazione marittima, come modificata da disposizioni successive",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/389dfbd6-8fee-431f-b21f-3e51b572f351",
+          "entry_into_force": null,
+          "notified": "2009-06-11",
+          "oj_date": "2009-06-04",
+          "title": "Zákon č. 158/2009 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a o změně některých zákonů",
+          "title_it": "Legge n. 158/2009, che modifica la legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici e che modifica alcune leggi (legge sull’energia), e successive modifiche, e recante modifiche ad alcune leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/08efe408-8aa1-4d1c-a878-c3b5069879d6",
+          "entry_into_force": null,
+          "notified": "2009-07-10",
+          "oj_date": "2009-02-09",
+          "title": "Zákon č. 40/2009 Sb., trestní zákoník",
+          "title_it": "Legge n. 40/2009, Codice penale",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/699ad340-3477-4b1c-9455-c8fe9e4cb097",
+          "entry_into_force": null,
+          "notified": "2009-12-08",
+          "oj_date": "1001-01-01",
+          "title": "Zákon č. 301/2009 Sb., kterým se mění zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, zákon č. 216/2002 Sb., o ochraně státních hranic České republiky a o změně některých zákonů (zákon o ochraně státních hranic), ve znění pozdějších předpisů, zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 159/1999 Sb., o některých podmínkách podnikání v oblasti cestovního ruchu a o změně zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, a zákon č. 247/2000 Sb., o získávání a zdokonalování odborné způsobilosti k řízení motorových vozidel a o změnách některých zákonů, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 301/2009, che modifica la legge n. 49/1997, sull’aviazione civile e che modifica e integra la legge n. 455/1991 R., sull’attività commerciale (legge sulle attività commerciali), e successive modifiche, la legge n. 216/2002, sulla protezione dei confini di Stato della Repubblica Ceca e sulla modifica di alcune leggi (legge sulla protezione dei confini di Stato), come modificata da disposizioni successive, la legge n. 634/1992, sulla tutela dei consumatori, e successive modifiche, la legge n. 634/2004, sulle tasse amministrative, e successive modifiche, Legge n. 258/2000 R., sulla tutela della salute pubblica e sulla modifica di alcune leggi correlate, e successive modifiche, Legge n. 159/1999, relativa ad alcune condizioni per l’esercizio di attività nel settore del turismo e che modifica la legge n. 40/1964, il Codice civile, come successivamente modificato, e la legge n. 455/1991, sulla gestione delle attività commerciali (legge sulle attività commerciali), come successivamente modificata, e la legge n. 247/2000, relativa all’acquisizione e al perfezionamento delle qualifiche professionali per la guida di veicoli a motore e alle modifiche di alcune leggi, come successivamente modificata",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b690e75b-d8ec-4472-8dbe-1a22a3877bf9",
+          "entry_into_force": null,
+          "notified": "2011-06-24",
+          "oj_date": "2011-06-06",
+          "title": "Zákon č. 152/2011 Sb., kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 152/2011, che modifica la legge n. 13/1997 sulle vie di comunicazione terrestri, come modificata da normative successive, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/65dfbfd7-1ae9-4cd0-8b6f-b25e197da3e7",
+          "entry_into_force": null,
+          "notified": "2011-07-18",
+          "oj_date": "2011-07-15",
+          "title": "Zákon č. 188/2011 Sb., kterým se mění zákon č. 189/2004 Sb., o kolektivním investování, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 188/2011, che modifica la legge n. 189/2004, relativa agli investimenti collettivi, e successive modifiche, nonché altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5b303ec6-25c6-4b7c-b88a-2455f66a94b3",
+          "entry_into_force": null,
+          "notified": "2011-08-02",
+          "oj_date": "2011-07-19",
+          "title": "Zákon č. 211/2011 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 211/2011, che modifica la legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici e che modifica alcune leggi (legge sull’energia), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/058afc7e-2b9d-4636-86e9-2db37d4a4174",
+          "entry_into_force": null,
+          "notified": "2012-01-02",
+          "oj_date": "2011-12-08",
+          "title": "Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách)",
+          "title_it": "Legge n. 372/2011, relativa ai servizi sanitari e alle condizioni per la loro erogazione (Legge sui servizi sanitari)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/eb6fcddd-9def-4228-93b5-9f82769cc7a8",
+          "entry_into_force": null,
+          "notified": "2012-02-01",
+          "oj_date": "2011-12-22",
+          "title": "Zákon č. 418/2011 Sb., o trestní odpovědnosti právnických osob a řízení proti nim",
+          "title_it": "Legge n. 418/2011, sulla responsabilità penale delle persone giuridiche e sui procedimenti a loro carico",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/cae58cae-8373-415f-927b-d9a5a2075774",
+          "entry_into_force": null,
+          "notified": "2012-06-27",
+          "oj_date": "2012-06-13",
+          "title": "Zákon č. 196/2012 Sb., kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, a některé další zákony",
+          "title_it": "Legge n. 196/2012, che modifica la legge n. 13/1997 sulle vie di comunicazione terrestri, come modificata da norme successive, e alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/60ce9579-f736-4f02-abf2-a981188acade",
+          "entry_into_force": null,
+          "notified": "2012-10-31",
+          "oj_date": "2012-05-30",
+          "title": "Zákon č. 165/2012 Sb., o podporovaných zdrojích energie a o změně některých zákonů",
+          "title_it": "Legge n. 165/2012, sulle fonti energetiche sostenute e sulla modifica di alcune leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1825edf2-c4fc-470c-a6b9-61ac8e645c85",
+          "entry_into_force": null,
+          "notified": "2013-04-05",
+          "oj_date": "2012-03-22",
+          "title": "Zákon č. 89/2012 Sb., občanský zákoník",
+          "title_it": "Legge n. 89/2012, Codice civile",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/7fff25d1-8b1f-49a5-bd14-bbdda79f590b",
+          "entry_into_force": null,
+          "notified": "2013-04-26",
+          "oj_date": "2012-07-19",
+          "title": "Zákon č. 255/2012 Sb., o kontrole (kontrolní řád)",
+          "title_it": "Legge n. 255/2012, sul controllo (regolamento di controllo)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/426bc10a-5a39-4ed5-bf12-349ee9ec0eab",
+          "entry_into_force": null,
+          "notified": "2013-12-13",
+          "oj_date": "2013-09-30",
+          "title": "Zákon č. 303/2013 Sb., kterým se mění některé zákony v souvislosti s přijetím rekodifikace soukromého práva",
+          "title_it": "Legge n. 303/2013, che modifica alcune leggi in relazione all'adozione della ricodificazione del diritto privato",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/32003c47-1ec9-4728-863e-2e00a69b1bba",
+          "entry_into_force": null,
+          "notified": "2015-05-19",
+          "oj_date": "2015-04-17",
+          "title": "Zákon č. 86/2015 Sb., kterým se mění zákon č. 279/2003 Sb., o výkonu zajištění majetku a věcí v trestním řízení a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 86/2015, che modifica la legge n. 279/2003, relativa all’esecuzione del sequestro conservativo di beni e oggetti nei procedimenti penali e alla modifica di alcune leggi, come modificata da successive disposizioni, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b25c1d7f-960f-49d9-b301-95270218199f",
+          "entry_into_force": null,
+          "notified": "2015-06-30",
+          "oj_date": "2015-06-05",
+          "title": "Zákon č. 131/2015 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 131/2015, che modifica la legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici e che modifica alcune leggi (legge sull’energia), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/564443e9-0056-43ad-b913-6a66448507da",
+          "entry_into_force": null,
+          "notified": "2015-09-17",
+          "oj_date": "2015-07-01",
+          "title": "Zákon č. 165/2015 Sb., kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 165/2015, che modifica la legge n. 40/2009, Codice penale, e successive modifiche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/86754892-83a0-42c5-9ad0-46cab3c1c842",
+          "entry_into_force": null,
+          "notified": "2015-09-17",
+          "oj_date": "2014-08-29",
+          "title": "Zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti)",
+          "title_it": "Legge n. 181/2014, sulla sicurezza informatica e sulla modifica delle leggi correlate (legge sulla sicurezza informatica)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/6ca44aef-57eb-4ce0-bc08-cfe613e242ee",
+          "entry_into_force": null,
+          "notified": "2015-12-08",
+          "oj_date": "2015-10-14",
+          "title": "Zákon č. 268/2015 Sb., kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 268/2015, che modifica la legge n. 13/1997, sulle vie di comunicazione terrestri, e successive modifiche, la legge n. 361/2000, relativa alla circolazione sulle strade e alle modifiche di alcune leggi (legge sulla circolazione stradale), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/0ba01f8c-ffcf-48fe-b1b6-e25e7dc8bbc9",
+          "entry_into_force": null,
+          "notified": "2016-10-04",
+          "oj_date": "2016-06-13",
+          "title": "Zákon č. 183/2016 Sb., kterým se mění zákon č. 418/2011 Sb., o trestní odpovědnosti právnických osob a řízení proti nim, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 183/2016, che modifica la legge n. 418/2011, relativa alla responsabilità penale delle persone giuridiche e ai procedimenti a loro carico, come modificata da successive disposizioni legislative",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/804c972f-20dc-416a-b1d6-ba3b27076857",
+          "entry_into_force": null,
+          "notified": "2016-10-31",
+          "oj_date": "2016-10-03",
+          "title": "Zákon č. 319/2016 Sb., kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 319/2016, che modifica la legge n. 266/1994 sulle ferrovie, e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5fccc31e-5e4c-45aa-b399-27cb412df211",
+          "entry_into_force": null,
+          "notified": "2017-03-13",
+          "oj_date": "2016-12-30",
+          "title": "Zákon č. 460/2016 Sb., kterým se mění zákon č. 89/2012 Sb., občanský zákoník, a další související zákony",
+          "title_it": "Legge n. 460/2016, che modifica la legge n. 89/2012, il Codice civile, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5a211e8d-76e8-41b6-8570-ebe58070cc0a",
+          "entry_into_force": null,
+          "notified": "2017-07-21",
+          "oj_date": "2017-07-14",
+          "title": "Zákon č. 204/2017 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 204/2017, che modifica la legge n. 256/2004, relativa alle attività sul mercato dei capitali, e successive modifiche, nonché altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a0ccee69-fa1d-4437-a8f9-e1129ac12792",
+          "entry_into_force": null,
+          "notified": "2017-07-24",
+          "oj_date": "2017-06-28",
+          "title": "Zákon č. 183/2017 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o odpovědnosti za přestupky a řízení o nich a zákona o některých přestupcích",
+          "title_it": "Legge n. 183/2017, che modifica alcune leggi in relazione all'adozione della legge sulla responsabilità per le infrazioni amministrative e sui relativi procedimenti e della legge su alcune infrazioni amministrative",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/bb3711a4-8d94-43a4-9ed8-e95f3932118a",
+          "entry_into_force": null,
+          "notified": "2017-08-11",
+          "oj_date": "2016-08-03",
+          "title": "Zákon č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich",
+          "title_it": "Legge n. 250/2016, sulla responsabilità per le infrazioni amministrative e sui relativi procedimenti",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/87535f18-9146-41c9-bbd7-715c66886798",
+          "entry_into_force": null,
+          "notified": "2018-02-07",
+          "oj_date": "2017-07-14",
+          "title": "Zákon č. 205/2017 Sb., kterým se mění zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění zákona č. 104/2017 Sb., a některé další zákony",
+          "title_it": "Legge n. 205/2017, che modifica la legge n. 181/2014, sulla sicurezza informatica e sulla modifica delle leggi correlate (legge sulla sicurezza informatica), come modificata dalla legge n. 104/2017, e alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/92889a01-e2ad-4f01-bc52-80a48e951dac",
+          "entry_into_force": null,
+          "notified": "2018-05-31",
+          "oj_date": "2017-04-05",
+          "title": "Zákon č. 104/2017 Sb., kterým se mění zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), a některé další zákony",
+          "title_it": "Legge n. 104/2017, che modifica la legge n. 365/2000, relativa ai sistemi informativi della pubblica amministrazione e alla modifica di alcune altre leggi, come modificata da disposizioni successive, la legge n. 181/2014 R., relativa alla sicurezza informatica e alla modifica delle leggi correlate (legge sulla sicurezza informatica), e alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/345581cf-d1bd-4792-a220-b19d4e2ca1bd",
+          "entry_into_force": null,
+          "notified": "2018-05-31",
+          "oj_date": "2016-11-14",
+          "title": "Zákon č. 370/2016 Sb., kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 370/2016, che modifica la legge n. 13/1997 sulle vie di comunicazione terrestri, come modificata da normative successive",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b50d9827-9312-41dc-86df-7c22fbee06b6",
+          "entry_into_force": null,
+          "notified": "2018-05-31",
+          "oj_date": "2017-12-15",
+          "title": "Vyhláška č. 437/2017 Sb., o kritériích pro určení provozovatele základní služby",
+          "title_it": "Decreto n. 437/2017 della Raccolta delle leggi, relativo ai criteri per la designazione del gestore del servizio di base",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5140313e-56da-416f-b814-49a8d122962b",
+          "entry_into_force": null,
+          "notified": "2018-05-31",
+          "oj_date": "2018-05-28",
+          "title": "Vyhláška č. 82/2018 Sb., o bezpečnostních opatřeních, kybernetických bezpečnostních incidentech, reaktivních opatřeních, náležitos-tech podání v oblasti kybernetické bezpečnosti a likvidaci dat (vyhláška o kybernetické bezpečnosti)",
+          "title_it": "Decreto n. 82/2018 R., relativo alle misure di sicurezza, agli incidenti di sicurezza informatica, alle misure reattive, ai requisiti per la presentazione delle segnalazioni in materia di sicurezza informatica e alla distruzione dei dati (decreto sulla sicurezza informatica)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1f598d7b-90de-4404-bc10-828a70f5855e",
+          "entry_into_force": null,
+          "notified": "2019-04-30",
+          "oj_date": "2019-04-24",
+          "title": "Zákon č. 111/2019 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o zpracování osobních údajů",
+          "title_it": "Legge n. 111/2019, che modifica alcune leggi in relazione all'adozione della legge sul trattamento dei dati personali",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/181e4636-3e7e-11ea-ba6e-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2020-01-17",
+          "oj_date": "2019-12-31",
+          "title": "Zákon č. 367/2019 Sb., kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 367/2019, che modifica la legge n. 266/1994 sulle ferrovie, e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/56bf15e0-8615-11ea-812f-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2020-04-08",
+          "oj_date": "2020-01-17",
+          "title": "Zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů",
+          "title_it": "Legge n. 12/2020, relativa al diritto ai servizi digitali e alla modifica di alcune leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/38ac8dc6-ee78-11ea-991b-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2020-09-01",
+          "oj_date": "2020-08-11",
+          "title": "Zákon č. 339/2020 Sb., kterým se mění zákon č. 61/2000 Sb., o námořní plavbě, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 339/2020, che modifica la legge n. 61/2000 sulla navigazione marittima, come modificata da disposizioni successive",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/78bb5275-edf3-11eb-a71c-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2021-07-20",
+          "oj_date": "2020-12-23",
+          "title": "Vyhláška č. 573/2020 Sb., kterou se mění vyhláška č. 437/2017 Sb., o kritériích pro určení provozovatele základní služby",
+          "title_it": "Decreto n. 573/2020, che modifica il decreto n. 437/2017, relativo ai criteri per la designazione del gestore del servizio di base",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/68670631-edf3-11eb-a71c-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2021-07-20",
+          "oj_date": "2021-07-09",
+          "title": "Zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci",
+          "title_it": "Legge n. 261/2021, che modifica alcune leggi in relazione all'ulteriore digitalizzazione delle procedure degli enti pubblici",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a96d09e0-018b-11ec-8f47-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2021-08-06",
+          "oj_date": "2021-07-29",
+          "title": "Zákon 284/2021 Sb., kterým se mění některé zákony v souvislosti s přijetím stavebního zákona",
+          "title_it": "Legge n. 284/2021, che modifica alcune leggi in relazione all'adozione della legge sull'edilizia",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/cbb5f7d1-333b-11ec-bd8e-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2021-10-19",
+          "oj_date": "2021-09-30",
+          "title": "Zákon č. 353/2021 Sb., kterým se mění zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů, a některé další zákony",
+          "title_it": "Legge n. 353/2021, che modifica la legge n. 21/1992 sulle banche, e successive modifiche, e alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ea6e157e-d7c8-45a9-912b-5c18999b3cd5",
+          "entry_into_force": null,
+          "notified": "2021-11-01",
+          "oj_date": "2021-10-18",
+          "title": "Zákon č. 374/2021 Sb. , kterým se mění zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů, a některé další zákony",
+          "title_it": "Legge n. 374/2021, che modifica la legge n. 127/2005, sulle comunicazioni elettroniche e sulla modifica di alcune leggi correlate (legge sulle comunicazioni elettroniche), come modificata da disposizioni successive, e alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/8744a6b2-4b76-11ec-91ac-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2021-11-14",
+          "oj_date": "2021-10-08",
+          "title": "Zákon č. 362/2021 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 362/2021, che modifica la legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici e che modifica alcune leggi (legge sull’energia), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/aff44bcc-5102-11ec-91ac-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2021-11-23",
+          "oj_date": "2021-10-18",
+          "title": "Zákon č. 382/2021 Sb., kterým se mění zákon č. 165/2012 Sb., o podporovaných zdrojích energie a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 382/2021, che modifica la legge n. 165/2012, relativa alle fonti energetiche sostenute e alla modifica di alcune leggi, come modificata da disposizioni successive, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/bdd174d9-6f9a-11ec-9136-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2022-01-05",
+          "oj_date": "2021-11-30",
+          "title": "Zákon č. 426/2021 Sb., kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 426/2021, che modifica la legge n. 266/1994, sulle ferrovie, e successive modifiche, e la legge n. 634/2004, relativa alle tasse amministrative, e successive modifiche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/9dd0fd68-752d-11ec-9136-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2022-01-10",
+          "oj_date": "2021-11-23",
+          "title": "Zákon č. 417/2021 Sb., kterým se mění zákon č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, ve znění pozdějších předpisů, a některé další zákony",
+          "title_it": "Legge n. 417/2021, che modifica la legge n. 250/2016, relativa alla responsabilità per le infrazioni amministrative e ai relativi procedimenti, come modificata da successive disposizioni, nonché alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/2046436f-cd0c-11ec-a95f-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2022-05-04",
+          "oj_date": "2022-04-29",
+          "title": "Zákon č. 96/2022 Sb., kterým se mění některé zákony v oblasti finančního trhu zejména v souvislosti s implementací předpisů Evropské unie týkajících se unie kapitálových trhů",
+          "title_it": "Legge n. 96/2022, che modifica alcune leggi in materia di mercato finanziario, in particolare in relazione all’attuazione delle norme dell’Unione europea relative all’Unione dei mercati dei capitali",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/dddd8455-8899-450b-b87a-d1a4e36cc3cb",
+          "entry_into_force": null,
+          "notified": "2022-06-01",
+          "oj_date": "2022-05-27",
+          "title": "Zákon č. 130/2022 Sb., kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, zákon č. 45/2013 Sb., o obětech trestných činů a o změně některých zákonů (zákon o obětech trestných činů), ve znění pozdějších předpisů, a některé další zákony",
+          "title_it": "Legge n. 130/2022, che modifica la legge n. 40/2009, Codice penale, e successive modifiche, la legge n. 45/2013, relativa alle vittime di reati e alla modifica di alcune leggi (legge sulle vittime di reati), e successive modifiche, e alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d6a16829-3593-11ed-9c68-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2022-09-09",
+          "oj_date": "2022-08-05",
+          "title": "Zákon č. 226/2022 Sb., kterým se mění zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění pozdějších předpisů",
+          "title_it": "Legge n. 226/2022, che modifica la legge n. 181/2014, sulla sicurezza informatica e sulla modifica delle leggi correlate (legge sulla sicurezza informatica), come modificata da disposizioni successive",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4effe81f-3590-11ed-9c68-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2022-09-09",
+          "oj_date": "2000-06-21",
+          "title": "Zákon č. 158/2000 Sb., o vyhledávání, průzkumu a těžbě nerostných zdrojů z mořského dna za hranicemi pravomoci států a o změně některých zákonů",
+          "title_it": "Legge n. 158/2000, relativa alla prospezione, all'esplorazione e all'estrazione di risorse minerarie dal fondale marino al di fuori della giurisdizione degli Stati e alla modifica di alcune leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/939f8c96-7d17-11ed-9887-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2022-12-09",
+          "oj_date": "2022-12-07",
+          "title": "Zákon č. 374/2022 Sb., kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, a zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů",
+          "title_it": "Legge n. 374/2022, che modifica la legge n. 634/1992, sulla tutela dei consumatori, e successive modifiche, e la legge n. 89/2012, Codice civile, e successive modifiche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/66b192ca-13f6-11ee-806b-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2023-06-22",
+          "oj_date": "2023-01-23",
+          "title": "Zákon č. 19/2023 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 19/2023, che modifica la legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici e che modifica alcune leggi (legge sull’energia), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d710e52d-1702-45e9-9b92-d3e2bd411e83",
+          "entry_into_force": null,
+          "notified": "2023-07-12",
+          "oj_date": "2023-06-16",
+          "title": "Zákon č. 167/2023 Sb., kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 167/2023, che modifica la legge n. 258/2000, relativa alla tutela della salute pubblica e alla modifica di alcune leggi correlate, e successive modifiche, nonché altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a240a6a4-41e7-41a5-b264-73ba79d3e450",
+          "entry_into_force": null,
+          "notified": "2024-01-16",
+          "oj_date": "2023-12-31",
+          "title": "Zákon č. 469/2023 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 469/2023, che modifica la legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici e che modifica alcune leggi (legge sull’energia), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ce5f9e48-65ae-41da-ab10-f555a84322dd",
+          "entry_into_force": null,
+          "notified": "2025-05-20",
+          "oj_date": "2025-03-31",
+          "title": "Zákon č. 87/2025 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 87/2025, che modifica la legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici e che modifica alcune leggi (legge sull’energia), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/31395117-41fa-4029-839d-9fc52ae6fc2a",
+          "entry_into_force": null,
+          "notified": "2025-08-09",
+          "oj_date": "2025-08-05",
+          "title": "Zákon č. 270/2025 Sb., kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 270/2025, che modifica la legge n. 40/2009, Codice penale, e successive modifiche, la legge n. 141/1961, sul procedimento penale (Codice di procedura penale), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/24500fe6-ea06-4bb8-8708-376924decc5d",
+          "entry_into_force": null,
+          "notified": "2025-09-13",
+          "oj_date": "2025-06-30",
+          "title": "Zákon č. 223/2025 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 223/2025, che modifica la legge n. 458/2000, relativa alle condizioni di esercizio delle attività imprenditoriali e all’esercizio dell’amministrazione pubblica nei settori energetici e che modifica alcune leggi (legge sull’energia), e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5530fd26-a9e4-41b2-abe4-de42f3ff3e38",
+          "entry_into_force": null,
+          "notified": "2025-09-17",
+          "oj_date": "2025-08-04",
+          "title": "Zákon č. 265/2025 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o kybernetické bezpečnosti",
+          "title_it": "Legge n. 265/2025, che modifica alcune leggi in relazione all'adozione della legge sulla sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/cea3e83b-f6bc-46bf-9f6f-4ad853ea71b4",
+          "entry_into_force": null,
+          "notified": "2025-09-17",
+          "oj_date": "2025-06-11",
+          "title": "Zákon č. 264/2025 Sb., o kybernetické bezpečnosti",
+          "title_it": "Legge n. 264/2025, sulla sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4530ffe5-d7d0-49df-83f7-ff33bc56a760",
+          "entry_into_force": null,
+          "notified": "2025-09-17",
+          "oj_date": "2025-08-07",
+          "title": "Zákon č. 280/2025 Sb., kterým se mění některé zákony v oblasti finančního trhu v souvislosti s úpravou činnosti poboček zahraničních bank z jiných než členských států, úpravou některých přestupků a v souvislosti s posílením pravomocí orgánu dohledu a jeho nezávislosti",
+          "title_it": "Legge n. 280/2025, che modifica alcune leggi in materia di mercato finanziario in relazione alla regolamentazione dell'attività delle filiali di banche estere provenienti da paesi non membri dell'Unione europea, alla regolamentazione di alcune infrazioni e al rafforzamento dei poteri dell'autorità di vigilanza e della sua indipendenza",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/50951d3e-3710-4f1d-97a1-5d571f4c4c29",
+          "entry_into_force": null,
+          "notified": "2025-09-17",
+          "oj_date": "2025-05-06",
+          "title": "Zákon č. 130/2025 Sb., kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony",
+          "title_it": "Legge n. 130/2025, che modifica la legge n. 111/1994 sul trasporto stradale, e successive modifiche, e altre leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/0b227acb-7ab5-40c2-9af9-7795b9faadde",
+          "entry_into_force": null,
+          "notified": "2025-10-29",
+          "oj_date": "2025-10-14",
+          "title": "Vyhláška č. 408/2025 Sb., o regulovaných službách",
+          "title_it": "Decreto n. 408/2025, relativo ai servizi regolamentati",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/7b439b75-84a2-4b2c-aabf-39ed4b64093f",
+          "entry_into_force": null,
+          "notified": "2025-10-29",
+          "oj_date": "2025-10-14",
+          "title": "Vyhláška č. 409/2025 Sb., o bezpečnostních opatřeních poskytovatele regulované služby v režimu vyšších povinností",
+          "title_it": "Decreto n. 409/2025, relativo alle misure di sicurezza del fornitore di un servizio regolamentato soggetto a obblighi più rigorosi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5820ddd9-1aab-41fb-b5dc-cff76e0dc8d6",
+          "entry_into_force": null,
+          "notified": "2025-10-29",
+          "oj_date": "2025-10-14",
+          "title": "Vyhláška č. 410/2025 Sb., o bezpečnostních opatřeních poskytovatele regulované služby v režimu nižších povinností",
+          "title_it": "Decreto n. 410/2025, relativo alle misure di sicurezza dei fornitori di servizi regolamentati nel regime di obblighi ridotti",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 13,
+      "name": "Cechia",
+      "status": "notified"
+    },
+    "de": {
+      "declared_complete": false,
+      "first_notification": "2024-10-22",
+      "iso": "de",
+      "iso3": "DEU",
+      "last_notification": "2026-06-04",
+      "measure_count": 20,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ddfbcb55-06ac-4da4-a913-10abb707bb45",
+          "entry_into_force": "2024-09-19",
+          "notified": "2024-10-22",
+          "oj_date": "2024-09-10",
+          "title": "Saarland Verwaltungsvorschrift zur Umsetzung der NIS-2 Richtlinie in der saarländischen Landesverwaltung",
+          "title_it": "Regolamento amministrativo del Saarland relativo all'attuazione della direttiva NIS-2 nell'amministrazione regionale del Saarland",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/23d54d3a-f444-49c7-bbf4-946919225c34",
+          "entry_into_force": "2024-07-05",
+          "notified": "2024-10-22",
+          "oj_date": "2024-07-29",
+          "title": "Sachsen: Gesetz zur Änderung des Sächsischen Informationssicherheitsgesetzes und Gesetz zur Neuordnung der Informationssicherheit im Freistaat Sachsen",
+          "title_it": "Sassonia: legge che modifica la legge sulla sicurezza delle informazioni della Sassonia e legge sulla riorganizzazione della sicurezza delle informazioni nello Stato Libero di Sassonia",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f248a2c0-cdb6-4031-b755-56fe6f94ab11",
+          "entry_into_force": "2025-10-18",
+          "notified": "2024-10-22",
+          "oj_date": "2024-10-15",
+          "title": "Gesetz zur Änderung des Bayerischen Digitalgesetzes und des Gesetzes über die Bayerische Landesstiftung",
+          "title_it": "Legge che modifica la Legge bavarese sul digitale e la Legge sulla Fondazione statale bavarese",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/578a135b-1c93-4713-9ee4-521e97083c69",
+          "entry_into_force": "2024-10-17",
+          "notified": "2024-11-04",
+          "oj_date": "2024-10-25",
+          "title": "MINISTERIALBLATT der Landesregierung von Rheinland-Pfalz",
+          "title_it": "Gazzetta ufficiale del governo regionale della Renania-Palatinato",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/9e100549-60ba-42b8-b2f7-27370a13ecb8",
+          "entry_into_force": "2018-06-15",
+          "notified": "2024-12-04",
+          "oj_date": "2018-06-06",
+          "title": "Thüringer Datenschutzgesetz",
+          "title_it": "Legge sulla protezione dei dati della Turingia",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/beca2b2c-5c0a-4b3b-b1f6-472259a0f421",
+          "entry_into_force": "2024-10-29",
+          "notified": "2024-12-04",
+          "oj_date": "2024-10-30",
+          "title": "Niedersachsen: Umsetzung der NIS-2-Richtlinie in Niedersachsen (NIS2UmsRdErl)*\nGem. RdErl. d. MI, d. StK u. d. übr. Min. v. 29.10.2024 – 01220-1000-0001 –",
+          "title_it": "Bassa Sassonia: Attuazione della direttiva NIS 2 nella Bassa Sassonia (NIS2UmsRdErl)*\nAi sensi della circolare del Ministero dell’Interno, del Ministero delle Finanze e degli altri ministeri del 29 ottobre 2024 – 01220-1000-0001 –",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f98e4733-2125-4d02-a046-d88392c432e4",
+          "entry_into_force": "2023-07-11",
+          "notified": "2025-01-13",
+          "oj_date": "2023-07-10",
+          "title": "Hessisches Gesetz zum Schutz der elektronischen Verwaltung (Hessisches IT-Sicherheitsgesetz - HITSiG",
+          "title_it": "Legge dell'Assia sulla protezione dell'amministrazione elettronica (Legge dell'Assia sulla sicurezza informatica - HITSiG)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1eba75f8-622b-4392-8699-4623b0520fa9",
+          "entry_into_force": "2025-01-20",
+          "notified": "2025-01-22",
+          "oj_date": "2025-01-20",
+          "title": "Gesetz über die elektronische Verwaltung im Land Brandenburg",
+          "title_it": "Legge sull'amministrazione elettronica nel Land di Brandeburgo",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d6bc4e6d-3ee3-4e80-864c-8452c4427434",
+          "entry_into_force": "2025-01-15",
+          "notified": "2025-01-22",
+          "oj_date": "2025-01-14",
+          "title": "Verwaltungsvorschrift zur Umsetzung der NIS-2-Richtlinie in der Freien Hansestadt Bremen (VV NIS2Ums FHB)",
+          "title_it": "Disposizione amministrativa relativa all'attuazione della direttiva NIS 2 nella Libera Città Anseatica di Brema (VV NIS2Ums FHB)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/c427e00f-f51d-48f5-949b-4a593f859f4e",
+          "entry_into_force": "2009-07-31",
+          "notified": "2025-01-30",
+          "oj_date": "2009-07-30",
+          "title": "Explanatory documents",
+          "title_it": "Documenti esplicativi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a0dc7725-574c-4f87-9a1a-00d50cd067fa",
+          "entry_into_force": "2024-12-24",
+          "notified": "2025-01-30",
+          "oj_date": "2024-12-23",
+          "title": "Gemeinsamer Runderlass zur Umsetzung europarechtlicher Vorgaben für die Gewährleistung eines hohen gemeinsamen Cybersicherheitsniveaus in der Union1",
+          "title_it": "Circolare congiunta sull’attuazione delle disposizioni del diritto dell’Unione europea volte a garantire un elevato livello comune di sicurezza informatica nell’Unione1",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/534b5167-d5d5-450c-9719-9f99e64fbdea",
+          "entry_into_force": "2024-10-30",
+          "notified": "2025-01-30",
+          "oj_date": "2024-10-30",
+          "title": "Umsetzung der NIS-2-Richtlinie in Niedersachsen; Bestimmung von Zuständigkeiten",
+          "title_it": "Attuazione della direttiva NIS 2 nella Bassa Sassonia; definizione delle competenze",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/31c61553-9490-4d75-bfef-d751cd846923",
+          "entry_into_force": "2016-05-30",
+          "notified": "2025-07-01",
+          "oj_date": "2025-06-24",
+          "title": "E-Government-Gesetz Berlin -\nEGovG Bln",
+          "title_it": "Legge sull'e-government di Berlino -\nEGovG Bln",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/084d4a06-ee9a-43ac-b61a-961f85a3cacc",
+          "entry_into_force": "2025-05-30",
+          "notified": "2025-07-01",
+          "oj_date": "2025-05-30",
+          "title": "Festsetzung gemäß § 21 Absatz 2 Nummer 4 EGovG Berlin zur Umsetzung der Richtlinie (EU) 2022/2555\n(im Folgenden NIS-2-Richtlinie)",
+          "title_it": "Disposizione ai sensi dell’articolo 21, comma 2, punto 4, della legge EGovG di Berlino relativa all’attuazione della direttiva (UE) 2022/2555\n(di seguito “direttiva NIS-2”)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ae3a0b09-2243-44d0-ba09-a2a151e44a82",
+          "entry_into_force": "2025-07-15",
+          "notified": "2025-08-05",
+          "oj_date": "2025-07-14",
+          "title": "Verordnung zur Umsetzung der NIS-2-Richtlinie im Land Brandenburg",
+          "title_it": "Regolamento per l'attuazione della direttiva NIS 2 nel Land di Brandeburgo",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ece87d57-b661-43fd-ad24-7f5cc0cfc631",
+          "entry_into_force": "2025-09-16",
+          "notified": "2025-10-16",
+          "oj_date": "2025-10-13",
+          "title": "Informations- und Cybersicherheitsstrategie für Schleswig-Holstein (ICS SH)",
+          "title_it": "Strategia per la sicurezza informatica e delle informazioni dello Schleswig-Holstein (ICS SH)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/00352923-eb98-4ccd-a5d5-8cabe8e8a614",
+          "entry_into_force": "2025-09-24",
+          "notified": "2025-10-16",
+          "oj_date": "2025-10-13",
+          "title": "Amtsblatt für Schleswig-Holstein - 2025 346 Informationssicherheitsleitlinie für die Landesverwaltung Schleswig-Holstein",
+          "title_it": "Gazzetta ufficiale dello Schleswig-Holstein - 2025 346 Linee guida sulla sicurezza delle informazioni per l'amministrazione regionale dello Schleswig-Holstein",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ec0bbb91-8059-44e4-8a3f-57847afa898c",
+          "entry_into_force": "2025-12-06",
+          "notified": "2025-12-08",
+          "oj_date": "2025-12-05",
+          "title": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "title_it": "Legge sull'attuazione della direttiva NIS 2 e sulla disciplina dei principi fondamentali della gestione della sicurezza delle informazioni nell'amministrazione federale",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b7ea5df2-f8de-4d3e-8447-692b51f01982",
+          "entry_into_force": "2026-01-15",
+          "notified": "2026-01-19",
+          "oj_date": "2026-01-14",
+          "title": "Gesetz zur Stärkung der Informationssicherheit des Landes Nordrhein-Westfalen (Informationssicherheitsgesetz\nNordrhein-Westfalen – InfoSiG NRW)",
+          "title_it": "Legge sul rafforzamento della sicurezza delle informazioni del Land Renania Settentrionale-Vestfalia (Legge sulla sicurezza delle informazioni\ndella Renania Settentrionale-Vestfalia – InfoSiG NRW)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/8185f0b5-9f99-44a5-b19a-61402e704fc1",
+          "entry_into_force": "2026-05-08",
+          "notified": "2026-06-04",
+          "oj_date": "2026-05-19",
+          "title": "Gesetz- und Verordnungsblatt\nfür Mecklenburg-Vorpommern",
+          "title_it": "Gazzetta ufficiale\ndel Meclemburgo-Pomerania Anteriore",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 20,
+      "name": "Germania",
+      "status": "notified"
+    },
+    "dk": {
+      "declared_complete": false,
+      "first_notification": "2004-01-29",
+      "iso": "dk",
+      "iso3": "DNK",
+      "last_notification": "2025-07-04",
+      "measure_count": 10,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/243c73a3-c07a-4197-84ea-c55923dccdaf",
+          "entry_into_force": "2024-12-31",
+          "notified": "2004-01-29",
+          "oj_date": "2000-12-29",
+          "title": "Bekendtgørelse om beredskab og krisestyring i telesektoren",
+          "title_it": "Decreto in materia di preparazione alle emergenze e gestione delle crisi nel settore delle telecomunicazioni",
+          "url": "https://www.retsinformation.dk/eli/lta/2025/622"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/28168148-8738-405c-bba0-ed431e852f8b",
+          "entry_into_force": "2018-12-29",
+          "notified": "2005-01-07",
+          "oj_date": "2004-04-23",
+          "title": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)",
+          "title_it": "Legge sulle misure volte a garantire un elevato livello di sicurezza informatica (Legge NIS 2)",
+          "url": "https://www.retsinformation.dk/eli/lta/2025/434"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/71ac3c6c-b402-4a4b-861a-a3d9fc3516fd",
+          "entry_into_force": "2023-09-01",
+          "notified": "2012-06-27",
+          "oj_date": "2012-06-13",
+          "title": "Bekendtgørelse om udpegning af kompetente myndigheder og digital kommunikation omfattet af NIS 2-loven",
+          "title_it": "Decreto relativo alla designazione delle autorità competenti e alle comunicazioni digitali disciplinate dalla legge NIS 2",
+          "url": "https://www.retsinformation.dk/eli/lta/2025/620"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/733dee47-214a-48dd-ad7f-ce05bd29872c",
+          "entry_into_force": "2018-06-15",
+          "notified": "2012-10-31",
+          "oj_date": "2012-05-30",
+          "title": "Bekendtgørelse om oplysnings- og underretningspligter vedrørende sikkerhed og beredskab i telesektoren",
+          "title_it": "Decreto relativo agli obblighi di informazione e comunicazione in materia di sicurezza e pronto intervento nel settore delle telecomunicazioni",
+          "url": "https://www.retsinformation.dk/eli/lta/2025/623"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ab959699-ac7c-42ee-8e08-408c4b940e55",
+          "entry_into_force": "2016-05-30",
+          "notified": "2015-05-19",
+          "oj_date": "2015-04-17",
+          "title": "Lov om sikkerhed og beredskab i telesektoren",
+          "title_it": "Legge sulla sicurezza e la preparazione alle emergenze nel settore delle telecomunicazioni",
+          "url": "https://www.retsinformation.dk/eli/lta/2025/435"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/9fe5dcf9-6590-4284-b8c6-3304b600e806",
+          "entry_into_force": "2025-07-15",
+          "notified": "2016-10-04",
+          "oj_date": "2016-06-13",
+          "title": "Bekendtgørelse om risikostyring og sikkerhed i telesektoren",
+          "title_it": "Decreto sulla gestione dei rischi e sulla sicurezza nel settore delle telecomunicazioni",
+          "url": "https://www.retsinformation.dk/eli/lta/2025/621"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d132acc0-d5fa-4e07-b3b4-d7896f7051ab",
+          "entry_into_force": null,
+          "notified": "2025-01-27",
+          "oj_date": "1001-01-01",
+          "title": "Lov nr. 481 af 22. maj 2024 om ændring af lov om finansiel virksomhed mv",
+          "title_it": "Legge n. 481 del 22 maggio 2024 che modifica la legge sulle attività finanziarie e simili",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1162b17b-a751-4f71-904d-d3245d3ad740",
+          "entry_into_force": null,
+          "notified": "2025-01-27",
+          "oj_date": "1001-01-01",
+          "title": "Lov om finansiel virksomhed LBK nr. 1731 af 5. december 2023",
+          "title_it": "Legge sulle attività finanziarie, Raccolta delle leggi (LBK) n. 1731 del 5 dicembre 2023",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/03495cfd-0b3c-4340-ab92-ba31094e92d5",
+          "entry_into_force": "2025-03-07",
+          "notified": "2025-07-04",
+          "oj_date": "1001-01-01",
+          "title": "Bekendtgørelse nr. 260 af 6. marts 2025 om modstandsdygtighed og beredskab i energisektoren",
+          "title_it": "Decreto n. 260 del 6 marzo 2025 in materia di resilienza e preparazione nel settore energetico",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/03ed7489-0bc9-418d-bb3b-e66ef4c01bcb",
+          "entry_into_force": "2025-03-07",
+          "notified": "2025-07-04",
+          "oj_date": "1001-01-01",
+          "title": "Lov nr. 258 af 6. marts 2025 om styrket beredskab i energisektoren.",
+          "title_it": "Legge n. 258 del 6 marzo 2025 sul rafforzamento della preparazione alle emergenze nel settore energetico.",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 4,
+      "name": "Danimarca",
+      "status": "notified"
+    },
+    "ee": {
+      "declared_complete": false,
+      "first_notification": "2004-02-05",
+      "iso": "ee",
+      "iso3": "EST",
+      "last_notification": "2020-04-08",
+      "measure_count": 28,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5cb0e753-c9e5-4914-9458-176468c5b81f",
+          "entry_into_force": "2024-11-01",
+          "notified": "2004-02-05",
+          "oj_date": "2000-08-11",
+          "title": "Elutähtsa teenuse kirjeldus ja toimepidevuse nõuded maagaasiga varustamisel",
+          "title_it": "Descrizione del servizio essenziale e requisiti di continuità operativa per la fornitura di gas naturale",
+          "url": "https://www.riigiteataja.ee/akt/105072023305"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a33ad208-7cb3-4774-95e6-e86a3eadf748",
+          "entry_into_force": "2025-03-07",
+          "notified": "2004-02-18",
+          "oj_date": "2000-03-28",
+          "title": "Elutähtsa teenuse kirjeldus ja toimepidevuse nõuded elektroonilise isikutuvastamise ja digitaalse allkirjastamise tagamisel",
+          "title_it": "Descrizione del servizio essenziale e requisiti di continuità operativa per garantire l'identificazione elettronica e la firma digitale",
+          "url": "https://www.riigiteataja.ee/akt/115012019011"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4b65af65-c640-4f5d-a1a5-a574132369db",
+          "entry_into_force": "2024-10-30",
+          "notified": "2004-02-27",
+          "oj_date": "2003-11-27",
+          "title": "Asendustäitmise ja sunniraha seadus",
+          "title_it": "Legge sull'esecuzione sostitutiva e sulle penali",
+          "url": "https://www.riigiteataja.ee/akt/120022024002"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/54086d79-8876-48e0-b597-ff4a72017a19",
+          "entry_into_force": "2024-12-24",
+          "notified": "2004-08-30",
+          "oj_date": "2004-04-30",
+          "title": "Töölepingu seadus",
+          "title_it": "Legge sul contratto di lavoro",
+          "url": "https://www.riigiteataja.ee/akt/102052024028"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/762ed5d6-6044-454a-9b09-faa990766ca2",
+          "entry_into_force": "2025-06-28",
+          "notified": "2004-11-23",
+          "oj_date": "2004-09-07",
+          "title": "Makseteenuse ja sularaharingluse kirjeldus ja toimepidevuse nõuded",
+          "title_it": "Descrizione dei servizi di pagamento e della circolazione del contante e requisiti di continuità operativa",
+          "url": "https://www.riigiteataja.ee/akt/128062024010"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/accf1bf0-fe13-4058-b43e-810de6ce60fc",
+          "entry_into_force": "2025-09-01",
+          "notified": "2004-11-30",
+          "oj_date": "2004-09-24",
+          "title": "Justiits- ja Digiministeeriumi põhimääruse kinnitamine",
+          "title_it": "Approvazione dello statuto del Ministero della Giustizia e del Digitale",
+          "url": "https://www.riigiteataja.ee/akt/129122024046"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/523dbf16-00e5-4e83-ba43-aaaa3675d71c",
+          "entry_into_force": "2005-01-07",
+          "notified": "2006-09-25",
+          "oj_date": "1001-01-01",
+          "title": "Elutähtsa teenuse kirjeldus ja toimepidevuse nõuded elektriga varustamisel",
+          "title_it": "Descrizione del servizio essenziale e requisiti di continuità operativa nella fornitura di energia elettrica",
+          "url": "https://www.riigiteataja.ee/akt/108122023003"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4a812bbc-a339-45eb-8d96-5adc1cce571b",
+          "entry_into_force": "2025-01-15",
+          "notified": "2008-07-07",
+          "oj_date": "2008-06-30",
+          "title": "Hädaolukorra seadus",
+          "title_it": "Legge sulle emergenze",
+          "url": "https://www.riigiteataja.ee/akt/122052025004"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a6f0000b-2c8e-4ac6-822d-528ccb159c28",
+          "entry_into_force": "2025-03-07",
+          "notified": "2009-06-11",
+          "oj_date": "2009-06-04",
+          "title": "Eesti infoturbestandard",
+          "title_it": "Standard estone sulla sicurezza delle informazioni",
+          "url": "https://www.riigiteataja.ee/akt/130012024007"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b01c33fb-2b6a-4c7f-90d7-dbcb325cc583",
+          "entry_into_force": "2026-01-15",
+          "notified": "2011-06-24",
+          "oj_date": "2011-06-06",
+          "title": "Haldusmenetluse seadus",
+          "title_it": "Legge sul procedimento amministrativo",
+          "url": "https://www.riigiteataja.ee/akt/106072023031"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/0173205c-171c-4944-bc2c-e17a78bd0f03",
+          "entry_into_force": "2019-07-18",
+          "notified": "2012-01-02",
+          "oj_date": "2011-12-08",
+          "title": "Elektroonilise side seadus",
+          "title_it": "Legge sulle comunicazioni elettroniche",
+          "url": "https://www.riigiteataja.ee/akt/130122024010?leiaKehtiv"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5c78692f-dfdd-4a5e-9419-5c35e89b8586",
+          "entry_into_force": "2025-01-01",
+          "notified": "2012-02-01",
+          "oj_date": "2011-12-22",
+          "title": "Vabariigi Valitsuse seadus",
+          "title_it": "Legge sul Governo della Repubblica",
+          "url": "https://www.riigiteataja.ee/akt/130122024004"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/23a4fd90-2a1c-4721-8abe-4f7af1a0c898",
+          "entry_into_force": "2022-01-03",
+          "notified": "2013-04-05",
+          "oj_date": "2012-03-22",
+          "title": "Korrakaitseseadus",
+          "title_it": "Legge sull'ordine pubblico",
+          "url": "https://www.riigiteataja.ee/akt/114032023029"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a47b0e54-e760-45f9-8435-1b463410cb67",
+          "entry_into_force": "2026-01-15",
+          "notified": "2013-12-13",
+          "oj_date": "2013-09-30",
+          "title": "Küberintsidentide registri põhimäärus",
+          "title_it": "Regolamento del Registro degli incidenti informatici",
+          "url": "https://www.riigiteataja.ee/akt/124082023003"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4051a49d-3454-4985-a130-8db5f27668dd",
+          "entry_into_force": "2025-01-01",
+          "notified": "2015-06-30",
+          "oj_date": "2015-06-05",
+          "title": "Väärteomenetluse seadustik",
+          "title_it": "Codice di procedura per le contravvenzioni",
+          "url": "https://www.riigiteataja.ee/akt/117042025012"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a88fba83-d75b-45a8-9f4d-6ebc63593321",
+          "entry_into_force": "2025-05-30",
+          "notified": "2015-09-17",
+          "oj_date": "2015-07-01",
+          "title": "Küberturvalisuse seadus",
+          "title_it": "Legge sulla sicurezza informatica",
+          "url": "https://www.riigiteataja.ee/akt/121062024015"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5973be9c-98d7-47e0-8caf-41b066977b2d",
+          "entry_into_force": "2009-07-31",
+          "notified": "2015-09-17",
+          "oj_date": "2014-08-29",
+          "title": "Elutähtsa telefoni-, mobiiltelefoni- ja andmesideteenuse kirjeldus ja toimepidevuse nõuded",
+          "title_it": "Descrizione dei servizi essenziali di telefonia fissa, telefonia mobile e trasmissione dati e requisiti di continuità operativa",
+          "url": "https://www.riigiteataja.ee/akt/127122024008"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/9b13e25b-0267-4de7-b326-d9b5503c5b7b",
+          "entry_into_force": "2025-04-25",
+          "notified": "2015-12-08",
+          "oj_date": "2015-10-14",
+          "title": "Avaliku teenistuse seadus",
+          "title_it": "Legge sul pubblico impiego",
+          "url": "https://www.riigiteataja.ee/akt/127092024003#"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/84cd4d4f-8251-49b5-b48b-65935b7d4dd8",
+          "entry_into_force": "2024-07-24",
+          "notified": "2016-09-07",
+          "oj_date": "1001-01-01",
+          "title": "Karistusseadustik",
+          "title_it": "Codice penale",
+          "url": "https://www.riigiteataja.ee/akt/117042025004"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/04dc93b3-da91-421e-96c9-558b0bd5502d",
+          "entry_into_force": "2022-07-09",
+          "notified": "2017-07-21",
+          "oj_date": "2017-07-14",
+          "title": "Riigi Infosüsteemi Ameti põhimäärus",
+          "title_it": "Statuto dell'Agenzia nazionale per i sistemi informativi",
+          "url": "https://www.riigiteataja.ee/akt/127122024010"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/425a85de-1ca4-4eac-9b50-b58225899c8e",
+          "entry_into_force": "2023-07-11",
+          "notified": "2017-07-24",
+          "oj_date": "2017-06-28",
+          "title": "Riigieelarve seadus",
+          "title_it": "Legge sul bilancio dello Stato",
+          "url": "https://www.riigiteataja.ee/akt/130042025004"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b1b9230d-f6c0-408e-b8ea-6b94ff804f26",
+          "entry_into_force": "2025-09-24",
+          "notified": "2018-02-07",
+          "oj_date": "2017-07-14",
+          "title": "Avaliku teabe seadus",
+          "title_it": "Legge sull'informazione pubblica",
+          "url": "https://www.riigiteataja.ee/akt/130122024005"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/cc213c24-da4b-4b48-a646-4aabc02f6f6d",
+          "entry_into_force": "2026-01-15",
+          "notified": "2018-05-31",
+          "oj_date": "2017-12-15",
+          "title": "Tsiviilseadustiku üldosa seadus",
+          "title_it": "Legge sulla parte generale del Codice civile",
+          "url": "https://www.riigiteataja.ee/akt/131122024048"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b363ea3d-3609-4bf5-b758-cdbf1f9ff343",
+          "entry_into_force": "2025-09-16",
+          "notified": "2018-05-31",
+          "oj_date": "2018-05-28",
+          "title": "Äriseadustik",
+          "title_it": "Codice commerciale",
+          "url": "https://www.riigiteataja.ee/akt/106072023131"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/bcc29ae6-8163-4053-b0c8-ac26c583e66a",
+          "entry_into_force": "2025-12-06",
+          "notified": "2018-05-31",
+          "oj_date": "2017-04-05",
+          "title": "Sihtasutuste seadus",
+          "title_it": "Legge sulle fondazioni",
+          "url": "https://www.riigiteataja.ee/akt/123122022031"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/cff3ba50-8428-4bd0-b1b1-10689fa4b2cf",
+          "entry_into_force": "2026-01-15",
+          "notified": "2018-05-31",
+          "oj_date": "2016-11-14",
+          "title": "Kriminaalmenetluse seadustik",
+          "title_it": "Codice di procedura penale",
+          "url": "https://www.riigiteataja.ee/akt/117042025006"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/34dedd3c-0420-4277-98ec-c1ac3909aadc",
+          "entry_into_force": "2026-01-10",
+          "notified": "2020-01-17",
+          "oj_date": "2019-12-31",
+          "title": "Küberturvalisuse seaduse ja teiste seaduste muutmise seadus (küberturvalisuse 2. direktiivi ülevõtmine)",
+          "title_it": "Legge che modifica la legge sulla sicurezza informatica e altre leggi (recepimento della seconda direttiva sulla sicurezza informatica)",
+          "url": "https://www.riigiteataja.ee/akt/130122025004"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ec998cfe-0672-4a6c-854a-1faf0df43e7a",
+          "entry_into_force": "2026-04-03",
+          "notified": "2020-04-08",
+          "oj_date": "2020-01-17",
+          "title": "Sotsiaalministeeriumi korraldatavate elutähtsate teenuste kirjeldus ja toimepidevuse nõuded",
+          "title_it": "Descrizione dei servizi essenziali gestiti dal Ministero degli Affari Sociali e requisiti di continuità operativa",
+          "url": "https://www.riigiteataja.ee/akt/126112020003"
+        }
+      ],
+      "measures_since_directive": 0,
+      "name": "Estonia",
+      "status": "not-notified"
+    },
+    "es": {
+      "declared_complete": false,
+      "first_notification": null,
+      "iso": "es",
+      "iso3": "ESP",
+      "last_notification": null,
+      "measure_count": 0,
+      "measures": [],
+      "measures_since_directive": 0,
+      "name": "Spagna",
+      "status": "not-notified"
+    },
+    "fi": {
+      "declared_complete": false,
+      "first_notification": "2025-06-04",
+      "iso": "fi",
+      "iso3": "FIN",
+      "last_notification": "2026-06-10",
+      "measure_count": 13,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ffdab8e5-4d50-415c-8601-cfe281e8ddcc",
+          "entry_into_force": null,
+          "notified": "2025-06-04",
+          "oj_date": "1001-01-01",
+          "title": "Laki sakon täytäntöönpanosta / Lag om verkställighet av böter (672/2002) 9.8.2002, viimeksi muutettuna /  ändrad senast genom (138/2025) 4.4.2025",
+          "title_it": "Legge sull'esecuzione delle ammende / Lag om verkställighet av böter (672/2002) del 9 agosto 2002, modificata da ultimo /  ändrad senast genom (138/2025) del 4 aprile 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/418c0012-3343-446f-9d92-89770b2bcd1a",
+          "entry_into_force": null,
+          "notified": "2025-06-04",
+          "oj_date": "1001-01-01",
+          "title": "Laki Energiavirastosta / Lag om Energimyndigheten (870/2013) 13.12.2013, viimeksi muutettuna / ändrad senast genom (135/2025) 4.4.2025",
+          "title_it": "Legge sull'Agenzia per l'energia (870/2013) del 13 dicembre 2013, modificata da ultimo dalla legge (135/2025) del 4 aprile 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d60d31f3-0459-4ee8-9eee-de8393685eba",
+          "entry_into_force": null,
+          "notified": "2025-06-04",
+          "oj_date": "1001-01-01",
+          "title": "Laki sähkö- ja maakaasumarkkinoiden valvonnasta / Lag om tillsyn över el- och naturgasmarknaden (590/2013) 9.8.2013, viimeksi muutettuna / ändrad senast genom (136/2025) 4.4.2025",
+          "title_it": "Legge sulla vigilanza dei mercati dell'energia elettrica e del gas naturale / Lag om tillsyn över el- och naturgasmarknaden (590/2013) 9 agosto 2013, modificata da ultimo con (136/2025) il 4 aprile 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/347d8791-b260-41da-9003-1dc674916e94",
+          "entry_into_force": null,
+          "notified": "2025-06-04",
+          "oj_date": "1001-01-01",
+          "title": "Laki maa-asemista ja eräistä tutkista / Lag om markstationer och vissa radaranläggningar (96/2023) 19.1.2023 viimeksi muutettuna / ändrad senast genom (139/2025) 4.4.2025",
+          "title_it": "Legge sulle stazioni terrestri e su alcuni impianti radar / Lag om markstationer och vissa radaranläggningar (96/2023) 19 gennaio 2023, modificata da ultimo con (139/2025) il 4 aprile 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/2ff2c324-3965-410f-b545-f54afaf6e6d3",
+          "entry_into_force": null,
+          "notified": "2025-06-04",
+          "oj_date": "1001-01-01",
+          "title": "Laki vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta / Lag om säkerhet vid hantering av farliga kemikalier och explosiva varor (390/2005) 3.6.2005, viimeksi muutettuna / ändrad senast genom (140/2025) 4.4.2025",
+          "title_it": "Legge sulla sicurezza nella manipolazione di sostanze chimiche pericolose ed esplosivi / Lag om säkerhet vid hantering av farliga kemikalier och explosiva varor (390/2005) 3 giugno 2005, modificata da ultimo con (140/2025) il 4 aprile 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4529f257-dcdf-4ae7-adeb-6b106ae10b4d",
+          "entry_into_force": null,
+          "notified": "2025-06-04",
+          "oj_date": "1001-01-01",
+          "title": "Vesihuoltolaki / Lag om vattentjänster (119/2001) 9.2.2001, viimeksi muutettuna / ändrad senast genom (137/2025) 4.4.2025",
+          "title_it": "Legge sui servizi idrici (119/2001) del 9 febbraio 2001, modificata da ultimo dalla legge (137/2025) del 4 aprile 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/38fbb97d-7bf0-4d8e-b966-b35951db15ae",
+          "entry_into_force": null,
+          "notified": "2025-06-04",
+          "oj_date": "1001-01-01",
+          "title": "Hallintolaki / Förvaltningslag (434/2003) 6.6.2003",
+          "title_it": "Legge sull'amministrazione (434/2003) 6 giugno 2003",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a02051ae-ce2d-4708-9843-e7cdeb28ae65",
+          "entry_into_force": null,
+          "notified": "2025-06-04",
+          "oj_date": "1001-01-01",
+          "title": "Laki sosiaali- ja terveydenhuollon asiakastietojen käsittelystä / Lag om behandling av kunduppgifter inom social- och hälsovården (703/2023) 14.4.2023, viimeksi muutettuna / ändrad senast genom (132/2025) 4.4.2025",
+          "title_it": "Legge sul trattamento dei dati dei clienti nel settore dei servizi sociali e sanitari / Lag om behandling av kunduppgifter inom social- och hälsovården (703/2023) 14 aprile 2023, modificata da ultimo con (132/2025) il 4 aprile 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/c5668eb1-7c11-4bd3-9daa-0a5b5d79dfe5",
+          "entry_into_force": null,
+          "notified": "2025-07-09",
+          "oj_date": "1001-01-01",
+          "title": "Kyberturvallisuuslaki / Cybersäkerhetslag (124/2025) 4.4.2025, viimeksi muutettuna / ändrad senast genom (369/2025) 27.6.2025",
+          "title_it": "Legge sulla sicurezza informatica / Cybersäkerhetslag (124/2025) del 4 aprile 2025, modificata da ultimo dalla legge (369/2025) del 27 giugno 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/911e6f42-2545-4af8-8ab0-9145c017137a",
+          "entry_into_force": null,
+          "notified": "2025-07-09",
+          "oj_date": "1001-01-01",
+          "title": "Laki julkisen hallinnon tiedonhallinnasta / Lag om informationshantering inom den offentliga förvaltningen (906/2019) 9.8.2019, viimeksi muutettuna / ändrad senast genom (370/2025) 27.6.2025",
+          "title_it": "Legge sulla gestione delle informazioni nella pubblica amministrazione (906/2019) 9 agosto 2019, modificata da ultimo con (370/2025) il 27 giugno 2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/70be9ed3-e103-4375-8f6e-662cb86db3fe",
+          "entry_into_force": "2025-09-01",
+          "notified": "2025-10-17",
+          "oj_date": "2025-08-29",
+          "title": "LANDSKAPSLAG (2025:57) om cybersäkerhet och motståndskraft 14/08/2025",
+          "title_it": "LEGGE REGIONALE (2025:57) sulla sicurezza informatica e la resilienza 14/08/2025",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/fc05c0d0-2ae1-4746-91a3-bd046dde2eb1",
+          "entry_into_force": null,
+          "notified": "2026-06-10",
+          "oj_date": "1001-01-01",
+          "title": "Laki sähköisen viestinnän palveluista / Lag om tjänster inom elektronisk kommunikation (917/2014) 7.11.2014, viimeksi muutettuna / ändrad senast genom (442/2026) 29.5.2026",
+          "title_it": "Legge sui servizi di comunicazione elettronica / Lag om tjänster inom elektronisk kommunikation (917/2014) del 7 novembre 2014, modificata da ultimo / ändrad senast genom (442/2026) 29 maggio 2026",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/9493015a-5439-4e0d-ad3b-eee0ecbb56ae",
+          "entry_into_force": null,
+          "notified": "2026-06-10",
+          "oj_date": "1001-01-01",
+          "title": "Laki Finanssivalvonnasta / Lag om Finansinspektionen (878/2008) 19.12.2008, viimeksi muutettuna / ändrad senast genom (180/2026) 20.3.2026",
+          "title_it": "Legge sull'Autorità di vigilanza finanziaria / Lag om Finansinspektionen (878/2008) del 19 dicembre 2008, modificata da ultimo / ändrad senast genom (180/2026) del 20 marzo 2026",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 13,
+      "name": "Finlandia",
+      "status": "notified"
+    },
+    "fr": {
+      "declared_complete": false,
+      "first_notification": "2026-07-19",
+      "iso": "fr",
+      "iso3": "FRA",
+      "last_notification": "2026-07-19",
+      "measure_count": 15,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/2b54e2b6-e0ad-47cb-a8f2-cbac3c47ab66",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2015-03-30",
+          "title": "Articles R1332-41-12 à R1332-41-17 du code de la défense",
+          "title_it": "Articoli da R1332-41-12 a R1332-41-17 del Codice della difesa",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/8217d653-638e-405a-8d3f-1e3077e3a952",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2022-10-30",
+          "title": "Arrêté du 26 octobre 2022 portant approbation de l'instruction générale interministérielle n° 1337/SGDSN/ANSSI sur l'organisation de la sécurité numérique du système d'information et de communication de l'Etat et de ses établissements publics",
+          "title_it": "Decreto del 26 ottobre 2022 recante approvazione della direttiva generale interministeriale n. 1337/SGDSN/ANSSI relativa all'organizzazione della sicurezza informatica del sistema informativo e di comunicazione dello Stato e dei suoi enti pubblici",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/be88941e-6bf1-4f63-82da-6f83888b307e",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2019-12-02",
+          "title": "Article R2311-6-1 du code de la défense",
+          "title_it": "Articolo R2311-6-1 del Codice della difesa",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/347e3a3f-c8e4-4ed0-9f6c-ebc3095e38b7",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2015-07-30",
+          "title": "Article L1332-6-1 du code de la défense",
+          "title_it": "Articolo L1332-6-1 del Codice della difesa",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/27fab2c2-f2cc-460a-bbfa-3b425c38e89e",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2014-07-17",
+          "title": "Circulaire relative à la politique de sécurité des systèmes d'information de l'Etat",
+          "title_it": "Circolare relativa alla politica di sicurezza dei sistemi informativi dello Stato",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ea6c89ce-b385-4928-b842-79700d08c373",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2018-02-27",
+          "title": "LOI n° 2018-133 du 26 février 2018 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité (1)",
+          "title_it": "LEGGE n. 2018-133 del 26 febbraio 2018 recante varie disposizioni di adeguamento al diritto dell'Unione europea in materia di sicurezza (1)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/c0f597a7-b300-4484-bb2d-7d421766e049",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2005-12-09",
+          "title": "Ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives",
+          "title_it": "Ordinanza n. 2005-1516 dell'8 dicembre 2005 relativa agli scambi elettronici tra gli utenti e le autorità amministrative e tra le autorità amministrative",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/69d8d105-f0a5-46b0-ae1a-8ae0257f408e",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2021-07-01",
+          "title": "Instruction générale interministérielle 1300  sur la protection du secret de la défense nationale (IGI 1300)",
+          "title_it": "Istruzione generale interministeriale n. 1300 sulla tutela del segreto di difesa nazionale (IGI 1300)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d7935128-dbc2-46d8-b208-cbb772e005a8",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2018-05-25",
+          "title": "Décret n° 2018-384 du 23 mai 2018 relatif à la sécurité des réseaux et systèmes d'information des opérateurs de services essentiels et des fournisseurs de service numérique",
+          "title_it": "Decreto n. 2018-384 del 23 maggio 2018 relativo alla sicurezza delle reti e dei sistemi informativi degli operatori di servizi essenziali e dei fornitori di servizi digitali",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/cf533d00-fd8b-4269-a2cb-09ce3158a84c",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2010-02-04",
+          "title": "Décret n° 2010-112 du 2 février 2010  pris pour l'application des articles 9, 10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives",
+          "title_it": "Decreto n. 2010-112 del 2 febbraio 2010  adottato ai fini dell’applicazione degli articoli 9, 10 e 12 dell’ordinanza n. 2005-1516 dell’8 dicembre 2005 relativa agli scambi elettronici tra gli utenti e le autorità amministrative e tra le autorità amministrative",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1ae1c720-0f5e-438e-ad6a-35dd7264f025",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2018-09-29",
+          "title": "Arrêté du 14 septembre 2018 fixant les règles de sécurité et les délais mentionnés à l'article 10 du décret n° 2018-384 du 23 mai 2018 relatif à la sécurité des réseaux et systèmes d'information des opérateurs de services essentiels et des fournisseurs de service numérique",
+          "title_it": "Decreto del 14 settembre 2018 che stabilisce le norme di sicurezza e i termini di cui all'articolo 10 del decreto n. 2018-384 del 23 maggio 2018 relativo alla sicurezza delle reti e dei sistemi informativi degli operatori di servizi essenziali e dei fornitori di servizi digitali",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/71774dc1-b57d-45cf-9e2d-2dfc672e56c7",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2020-12-20",
+          "title": "Article L1332-7 du code de la défense",
+          "title_it": "Articolo L1332-7 del Codice della difesa",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5c627791-7a17-40a4-976a-60a9e00e913d",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2015-02-11",
+          "title": "Instruction interministérielle relative à la protection des systèmes d'informations sensibles",
+          "title_it": "Circolare interministeriale relativa alla protezione dei sistemi informativi sensibili",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/370af955-a585-4043-b2c2-5c29b03fcda7",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2013-12-20",
+          "title": "Article L1332-6-3 du code de la défense",
+          "title_it": "Articolo L1332-6-3 del Codice della difesa",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/813cdfa4-02b8-446f-9255-5df8aa462897",
+          "entry_into_force": null,
+          "notified": "2026-07-19",
+          "oj_date": "2023-08-03",
+          "title": "Article L2321-4-1 du code de la défense",
+          "title_it": "Articolo L2321-4-1 del Codice della difesa",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 15,
+      "name": "Francia",
+      "status": "notified"
+    },
+    "gr": {
+      "declared_complete": true,
+      "first_notification": "2004-02-18",
+      "iso": "gr",
+      "iso3": "GRC",
+      "last_notification": "2025-08-09",
+      "measure_count": 3,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/6d854177-2b3c-4408-ad1f-5335983cdf90",
+          "entry_into_force": "2026-02-02",
+          "notified": "2004-02-18",
+          "oj_date": "1994-12-30",
+          "title": "Εθνική Αρχή Κυβερνοασφάλειας και λοιπές διατάξεις.",
+          "title_it": "Autorità nazionale per la sicurezza informatica e altre disposizioni.",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d3b4829a-d7ef-493a-84dc-92f3076317d3",
+          "entry_into_force": "2026-01-15",
+          "notified": "2013-12-13",
+          "oj_date": "2013-09-30",
+          "title": "Εθνική Υπηρεσία Πληροφοριών και άλλες διατάξεις.",
+          "title_it": "Servizio nazionale di intelligence e altre disposizioni.",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1404a8ee-8062-492c-9555-44907490af9a",
+          "entry_into_force": "2026-01-15",
+          "notified": "2025-08-09",
+          "oj_date": "2025-08-05",
+          "title": "Ενσωμάτωση της Οδηγίας (ΕΕ) 2022/2555 του Ευ-\nρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της\n14ης Δεκεμβρίου 2022, σχετικά με μέτρα για υψη-\nλό κοινό επίπεδο κυβερνοασφάλειας σε ολόκλη-\nρη την Ένωση, την τροποποίηση του Κανονισμού\n(ΕΕ) 910/2014 και της Οδηγίας (ΕΕ) 2018/1972, και\nτην κατάργηση της Οδηγίας (ΕΕ) 2016/1148 (Οδη-\nγία NIS 2) και άλλες διατάξεις.",
+          "title_it": "Recepimento della Direttiva (UE) 2022/2555 del\nParlamento europeo e del Consiglio, del\n14 dicembre 2022, relativa a misure volte a garantire un\nelevato livello comune di sicurezza informatica in tutta\nl’Unione, la modifica del regolamento\n(UE) n. 910/2014 e della direttiva (UE) 2018/1972, nonché\nl’abrogazione della direttiva (UE) 2016/1148 (direttiva\nNIS 2) e altre disposizioni.",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 1,
+      "name": "Grecia",
+      "status": "declared-complete"
+    },
+    "hr": {
+      "declared_complete": false,
+      "first_notification": "2024-02-20",
+      "iso": "hr",
+      "iso3": "HRV",
+      "last_notification": "2024-11-22",
+      "measure_count": 2,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/17a8f83d-14cd-4272-abc8-d4b8ab414722",
+          "entry_into_force": null,
+          "notified": "2024-02-20",
+          "oj_date": "2024-02-07",
+          "title": "Zakon o kibernetičkoj sigurnosti",
+          "title_it": "Legge sulla sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d0731991-2eaf-4a51-b98e-694cac24acbb",
+          "entry_into_force": "2024-11-30",
+          "notified": "2024-11-22",
+          "oj_date": "2024-11-22",
+          "title": "Uredba o kibernetičkoj sigurnosti",
+          "title_it": "Normativa in materia di sicurezza informatica",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 2,
+      "name": "Croazia",
+      "status": "notified"
+    },
+    "hu": {
+      "declared_complete": false,
+      "first_notification": "2004-02-27",
+      "iso": "hu",
+      "iso3": "HUN",
+      "last_notification": "2026-04-10",
+      "measure_count": 39,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/60bc3fad-1626-4ace-af83-caceb832b138",
+          "entry_into_force": "2004-01-01",
+          "notified": "2004-02-27",
+          "oj_date": "2003-11-27",
+          "title": "2003. évi C. törvény az elektronikus hírközlésről",
+          "title_it": "Legge n. C del 2003 sulle comunicazioni elettroniche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/6422789e-c618-42fc-add3-56c86ffd7919",
+          "entry_into_force": null,
+          "notified": "2006-09-25",
+          "oj_date": "1001-01-01",
+          "title": "2006. évi V. törvény a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról",
+          "title_it": "Legge n. V del 2006 sulla trasparenza societaria, sul procedimento giudiziario in materia societaria e sulla liquidazione",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/e99313cc-51a9-4415-bd50-9d9c0c8f2c6e",
+          "entry_into_force": null,
+          "notified": "2016-09-07",
+          "oj_date": "1001-01-01",
+          "title": "A nemzetgazdasági miniszter 31/2016. (IX.2.) NGM rendelete az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról",
+          "title_it": "Decreto n. 31/2016 (2 settembre) NGM del 2 settembre 2016 relativo ai requisiti tecnici dei distributori automatici di prodotti alimentari senza personale addetto alla vendita, al loro funzionamento e alla loro manutenzione, nonché alla trasmissione dei dati registrati nei distributori automatici all’autorità fiscale e doganale statale",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/1160c3b1-de59-4ab3-84f3-d9251524e278",
+          "entry_into_force": null,
+          "notified": "2020-12-04",
+          "oj_date": "1001-01-01",
+          "title": "A Kormány 214/2020. (V. 18.) Korm. rendelete az elektronikus információbiztonsági korai figyelmeztető rendszerről",
+          "title_it": "Decreto governativo n. 214/2020 (18 maggio) relativo al sistema di allerta precoce per la sicurezza delle informazioni elettroniche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/dbc0a2de-9bf7-45ae-bb45-31b2eb639396",
+          "entry_into_force": null,
+          "notified": "2021-01-18",
+          "oj_date": "1001-01-01",
+          "title": "2020. évi LXXXV. törvény az elektronikus hírközlésről szóló 2003. évi C. törvénynek az Európai Elektronikus Hírközlési Kódex  létrehozásáról szóló irányelv átültetésének kötelezettségével összefüggő módosításáról",
+          "title_it": "Legge LXXXV del 2020 recante modifiche alla legge C del 2003 sulle comunicazioni elettroniche, in relazione all’obbligo di recepimento della direttiva che istituisce il Codice europeo delle comunicazioni elettroniche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/3cdb3c91-fbc4-4496-9bee-124625705005",
+          "entry_into_force": null,
+          "notified": "2022-02-08",
+          "oj_date": "1001-01-01",
+          "title": "2021. évi XXXII. törvény a Szabályozott Tevékenységek Felügyeleti Hatóságáról",
+          "title_it": "Legge n. XXXII del 2021 sull’Autorità di vigilanza sulle attività regolamentate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a86f1a88-90b0-11ec-b4e4-01aa75ed71a1",
+          "entry_into_force": null,
+          "notified": "2022-02-17",
+          "oj_date": "1001-01-01",
+          "title": "A Kormány 789/2021. (XII. 27.) Korm. rendelete a közlekedési hatósági jogalkalmazással összefüggő egyes közlekedési tárgyú kormányrendeletek módosításáról",
+          "title_it": "Decreto governativo n. 789/2021 (27 dicembre) relativo alla modifica di alcuni decreti governativi in materia di trasporti in relazione all'applicazione della normativa da parte delle autorità competenti in materia di trasporti",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ecc0058d-70ab-4603-aba4-91c989bebacd",
+          "entry_into_force": null,
+          "notified": "2022-02-23",
+          "oj_date": "1001-01-01",
+          "title": "2021. évi CXXXVI. törvény az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról",
+          "title_it": "Legge n. CXXXVI del 2021 recante modifiche ad alcune leggi in materia di energia e trasporti, nonché alle leggi correlate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/c74f172e-5ce1-49ba-a479-94d33081f095",
+          "entry_into_force": null,
+          "notified": "2023-09-25",
+          "oj_date": "1001-01-01",
+          "title": "A Kormány 409/2023. (VIII. 30.) Korm. rendelete a közlekedési tárgyú törvények módosításával összefüggő közlekedési tárgyú kormányrendeletek módosításáról",
+          "title_it": "Decreto governativo n. 409/2023 (30 agosto) relativo alla modifica dei decreti governativi in materia di trasporti, in relazione alla modifica delle leggi in materia di trasporti",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/46a0f9f3-5dc0-44ec-88ca-a585163c2e12",
+          "entry_into_force": null,
+          "notified": "2025-01-10",
+          "oj_date": "2024-12-20",
+          "title": "2024. évi LXXXIV. törvény a kritikus szervezetek ellenálló képességéről",
+          "title_it": "Legge LXXXIV del 2024 sulla resilienza delle organizzazioni critiche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/03f3bfc6-e877-4d07-884a-89dc4b267b17",
+          "entry_into_force": null,
+          "notified": "2025-01-27",
+          "oj_date": "1001-01-01",
+          "title": "A Kormány 474/2024. (XII. 31.) Korm. rendelete a kritikus szervezetek ellenálló képességéről szóló törvény végrehajtásáról",
+          "title_it": "Decreto governativo n. 474/2024 (31 dicembre) relativo all'attuazione della legge sulla resilienza delle organizzazioni critiche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/22553483-34b8-4463-853e-85bd50d29176",
+          "entry_into_force": null,
+          "notified": "2025-01-27",
+          "oj_date": "1001-01-01",
+          "title": "A Kormány 418/2024. (XII. 23.) Korm. rendelete Magyarország kiberbiztonságáról szóló törvény végrehajtásáról",
+          "title_it": "Decreto governativo n. 418/2024 (23 dicembre) relativo all'attuazione della legge sulla sicurezza informatica dell'Ungheria",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/bead816b-a0a8-4223-8c4c-e83cffbe9cad",
+          "entry_into_force": null,
+          "notified": "2025-01-27",
+          "oj_date": "1001-01-01",
+          "title": "2021. évi XCIII. törvény a védelmi és biztonsági tevékenységek összehangolásáról",
+          "title_it": "Legge XCIII del 2021 sul coordinamento delle attività di difesa e sicurezza",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/358a33bb-4392-4349-ac07-3f07a0921945",
+          "entry_into_force": null,
+          "notified": "2025-01-27",
+          "oj_date": "1001-01-01",
+          "title": "2024. évi LXIX. törvény Magyarország kiberbiztonságáról",
+          "title_it": "Legge LXIX del 2024 sulla sicurezza informatica dell'Ungheria",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a51b6bcc-d3f2-40e3-b299-2a94a9639670",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "2022. évi XXI. törvény a honvédelmi adatkezelésekről",
+          "title_it": "Legge XXI del 2022 sul trattamento dei dati in materia di difesa nazionale",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/2b0dab0b-88b7-45e4-9ff7-3e6a2fbe3f2f",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "2024. évi LXV. törvény honvédelmi és adatkezelési tárgyú törvények módosításáról",
+          "title_it": "Legge LXV del 2024 recante modifiche alle leggi in materia di difesa nazionale e trattamento dei dati",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4a7b708c-8231-4381-bb46-41b159f6f473",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "A Miniszterelnöki Kabinetirodát vezető miniszter 7/2024. (VI. 24.) MK rendelete a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről",
+          "title_it": "Decreto n. 7/2024 (24 giugno) del Ministro responsabile dell’Ufficio di Gabinetto del Primo Ministro sui requisiti per l’assegnazione alle classi di sicurezza e sulle misure di protezione specifiche applicabili alle singole classi di sicurezza",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4c4aac69-29b5-46c4-a5d1-7ca8259f7774",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 2/2025. (I. 31.) SZTFH rendelete a kiberbiztonsági felügyeleti díjról",
+          "title_it": "Decreto n. 2/2025 (31 gennaio) SZTFH del presidente dell’Autorità di vigilanza sulle attività regolamentate relativo alla tassa di vigilanza in materia di sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/fd74d5b5-2e07-4a9f-9d1e-8624575fdb17",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 23/2023. (XII. 19.) SZTFH rendelete az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásáról",
+          "title_it": "Decreto n. 23/2023 (19 dicembre) SZTFH del presidente dell’Autorità di vigilanza sulle attività regolamentate relativo al registro delle autorità di vigilanza in materia di sicurezza informatica degli organismi interessati",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/2339eb7f-ca38-4214-9721-6e68da219fc1",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "2023. évi XXIII. törvény a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről",
+          "title_it": "Legge n. XXIII del 2023 sulla certificazione e la vigilanza in materia di sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4cd3d248-d2ac-4121-9d53-13f4b357e20d",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "A közigazgatási és igazságügyi miniszter 26/2013. (X. 21.) KIM rendelete az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben meghatározott vezetői és az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmáról",
+          "title_it": "Il decreto n. 26/2013. (21 ottobre 2013) KIM relativo al contenuto della formazione e dell’aggiornamento professionale dei dirigenti e dei responsabili della sicurezza dei sistemi informativi elettronici, come definito nella legge sulla sicurezza delle informazioni elettroniche degli enti statali e locali",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d22e95ed-e17b-4481-afbf-d9502f97d255",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 7/2024. (VI. 24.) SZTFH rendelete a kiberbiztonsági audit végrehajtására jogosult auditorok nyilvántartásáról és az auditorral szemben támasztott követelményekről",
+          "title_it": "Decreto n. 7/2024 (24 giugno) SZTFH del presidente dell’Autorità di vigilanza sulle attività regolamentate relativo al registro degli auditor autorizzati a svolgere audit di sicurezza informatica e ai requisiti richiesti agli auditor",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/6bc76499-0909-437e-8d85-e869f8a60565",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "A Miniszterelnöki Kabinetirodát vezető miniszter 18/2024. (XII. 30.) MK rendelete a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről szóló 7/2024. (VI. 24.) MK rendelet módosításáról",
+          "title_it": "Il ministro a capo dell’Ufficio di Gabinetto del Primo Ministro, con decreto n. 18/2024. (30 dicembre) MK sui requisiti per l’assegnazione alle classi di sicurezza e sulla modifica del decreto n. 7/2024 (24 giugno) MK relativo alle misure di protezione specifiche applicabili alle singole classi di sicurezza",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4e0e3f49-6049-4f48-ac09-776bd196cb28",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "A Kormány 169/2010. (V. 11.) Korm. rendelete a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogkörérõl, feladatairól és mûködésének rendjérõl",
+          "title_it": "Decreto governativo n. 169/2010 (11 maggio) sulle norme relative alla sicurezza del trasporto aereo civile e sulle competenze, i compiti e le modalità di funzionamento della Commissione per la sicurezza del trasporto aereo",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/98cc6c9e-afcc-4b50-bc73-6bf7b167652e",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 1/2025. (I. 31.) SZTFH rendelete a kiberbiztonsági audit lefolytatásának rendjéről és a kiberbiztonsági audit legmagasabb díjáról",
+          "title_it": "Decreto n. 1/2025 (31 gennaio) SZTFH del presidente dell’Autorità di vigilanza sulle attività regolamentate relativo alle modalità di svolgimento dell’audit sulla sicurezza informatica e all’importo massimo della tariffa per l’audit sulla sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b05da375-46de-4fb5-90b5-ca90d3346c8c",
+          "entry_into_force": null,
+          "notified": "2025-03-21",
+          "oj_date": "1001-01-01",
+          "title": "2022. évi LXIII. törvény a Magyar Honvédség működésével kapcsolatos egyes törvények módosításáról",
+          "title_it": "Legge LXIII del 2022 recante modifiche ad alcune leggi relative al funzionamento delle Forze Armate ungheresi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/65eee92b-ecbf-43be-a9cf-3706fc44a553",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "A Kormány 189/2025. (VII. 3.) Korm. rendelete a Magyarország kiberbiztonságáról szóló törvény végrehajtásáról szóló 418/2024. (XII. 23.) Korm. rendelet módosításáról",
+          "title_it": "Decreto governativo n. 189/2025 (3 luglio) relativo alla modifica del decreto governativo n. 418/2024 (23 dicembre) sull’attuazione della legge sulla sicurezza informatica dell’Ungheria",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/17c4ba7e-3dcf-4cc5-9361-07e21eff940e",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "A Kormány 1089/2025. (III. 31.) Korm. határozata Magyarország Kiberbiztonsági Stratégiájáról",
+          "title_it": "Decisione del Governo n. 1089/2025 (31 marzo) sulla strategia di sicurezza informatica dell’Ungheria",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5fc1346f-b1d9-49a9-bc55-c41b4e2b82cf",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "A nemzetgazdasági miniszter 21/2025. (VII. 7.) NGM rendelete az egyes adózással kapcsolatos, valamint azzal összefüggő hatósági feladatokat érintő miniszteri rendeletek módosításáról",
+          "title_it": "Decreto del Ministro dell’Economia Nazionale n. 21/2025 (7 luglio) NGM recante modifiche ai decreti ministeriali relativi a determinati aspetti fiscali e ai compiti delle autorità pubbliche ad essi connessi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/28926941-1a4e-46ec-ab9f-797f52e2f5ae",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "A Miniszterelnöki Kabinetirodát vezető miniszter 2/2025. (II. 6.) MK utasítása kiberbiztonságért felelős biztos kinevezéséről",
+          "title_it": "Direttiva n. 2/2025 (6 febbraio) del Ministro a capo dell’Ufficio di Gabinetto del Primo Ministro relativa alla nomina del commissario responsabile della sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/eb25b900-a137-474a-a8c6-8112fd9a95be",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 3/2025. (IV. 17.) SZTFH rendelete a kiberbiztonsági felügyelet és feladatellátás és a hatósági ellenőrzés lefolytatásának részletes szabályairól, valamint az információbiztonsági felügyelőről",
+          "title_it": "Decreto n. 3/2025. (17 aprile 2025) del presidente dell’Autorità di vigilanza sulle attività regolamentate (SZTFH) relativo alle norme dettagliate in materia di vigilanza e svolgimento dei compiti in materia di sicurezza informatica, nonché allo svolgimento dei controlli da parte dell’Autorità, e al responsabile della sicurezza delle informazioni",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/15959f86-1cf2-461b-9127-f14cf528ceb0",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 8/2025. (VIII. 21.) SZTFH rendelete egyes kiberbiztonsági tárgyú és fenntarthatósági célú átvilágítási kötelezettségekkel összefüggő rendeletek módosításáról",
+          "title_it": "Decreto n. 8/2025 (21 agosto) SZTFH del presidente dell’Autorità di vigilanza sulle attività regolamentate, recante modifiche ad alcuni decreti relativi agli obblighi di verifica in materia di sicurezza informatica e di sostenibilità",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d354d941-ff3b-4946-9a22-853348c991c8",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 4/2025. (IV. 17.) SZTFH rendelete egyes, a Szabályozott Tevékenységek Felügyeleti Hatósága feladatkörét érintő rendeletek módosításáról",
+          "title_it": "Decreto n. 4/2025 (17 aprile) SZTFH del presidente dell’Autorità di vigilanza sulle attività regolamentate, recante modifiche a taluni decreti relativi alle competenze dell’Autorità di vigilanza sulle attività regolamentate",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/55252e10-4615-4e0d-87ea-61c463c6ff6f",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "2025. évi XXXII. törvény a digitális államhoz kapcsolódó egyes törvények módosításáról",
+          "title_it": "Legge n. XXXII del 2025 recante modifiche ad alcune leggi relative allo Stato digitale",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d0a28767-1fd7-48ea-8d8e-c1805a0d8b77",
+          "entry_into_force": null,
+          "notified": "2025-09-26",
+          "oj_date": "1001-01-01",
+          "title": "Az energiaügyi miniszter 17/2025. (VII. 24.) EM rendelete a Magyarország kiberbiztonságáról szóló törvény szerinti végzettségekre, szakképzettségekre, valamint képzésekre és továbbképzésekre vonatkozó követelményekről",
+          "title_it": "Decreto n. 17/2025 (24 luglio) del Ministro dell’Energia relativo ai requisiti in materia di titoli di studio, qualifiche professionali, formazione iniziale e formazione continua ai sensi della legge sulla sicurezza informatica dell’Ungheria",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/075b494e-258a-4299-8556-58182c74f140",
+          "entry_into_force": null,
+          "notified": "2026-04-10",
+          "oj_date": "1001-01-01",
+          "title": "2025. évi LXXX. törvény a közhitelességről és a közhiteles nyilvántartások egységes vezetéséről szóló 2024. évi LXXXII. törvénnyel összefüggő törvények módosításáról",
+          "title_it": "Legge LXXX del 2025 relativa alla modifica delle leggi connesse alla legge LXXXII del 2024 sull’autenticità pubblica e sulla gestione unificata dei registri pubblici",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/085e74dd-29b9-408e-ad49-508442ec70c9",
+          "entry_into_force": null,
+          "notified": "2026-04-10",
+          "oj_date": "1001-01-01",
+          "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 5/2025. (VI. 20.) SZTFH rendelete a sérülékenységvizsgálat lefolytatására jogosult gazdálkodó szervezetek és természetes személyek nyilvántartásáról és a velük szemben támasztott követelményekről",
+          "title_it": "Decreto n. 5/2025. (20 giugno 2025) del presidente dell’Autorità di vigilanza sulle attività regolamentate (SZTFH) relativo al registro degli enti economici e delle persone fisiche autorizzati a svolgere la valutazione della vulnerabilità e ai requisiti a loro applicabili",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/dfb71670-a818-4c89-8a68-f3d188dd40cf",
+          "entry_into_force": null,
+          "notified": "2026-04-10",
+          "oj_date": "1001-01-01",
+          "title": "2025. évi LX. törvény a jogi személyekkel kapcsolatos egyes bírósági eljárásokról és a végelszámolásról",
+          "title_it": "Legge LX del 2025 relativa a determinati procedimenti giudiziari riguardanti le persone giuridiche e alla liquidazione",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f8ddd65f-e8df-4007-a508-24159bd835b5",
+          "entry_into_force": null,
+          "notified": "2026-04-10",
+          "oj_date": "1001-01-01",
+          "title": "2025. évi CXXXV. törvény az Európai Unió kiberrezilienciáról szóló rendeletének magyarországi végrehajtásáról és egyes kiberbiztonsági rendelkezések módosításáról",
+          "title_it": "Legge CXXXV del 2025 sull’attuazione in Ungheria del regolamento dell’Unione europea sulla resilienza informatica e sulla modifica di alcune disposizioni in materia di sicurezza informatica",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 31,
+      "name": "Ungheria",
+      "status": "notified"
+    },
+    "ie": {
+      "declared_complete": false,
+      "first_notification": null,
+      "iso": "ie",
+      "iso3": "IRL",
+      "last_notification": null,
+      "measure_count": 0,
+      "measures": [],
+      "measures_since_directive": 0,
+      "name": "Irlanda",
+      "status": "not-notified"
+    },
+    "it": {
+      "declared_complete": false,
+      "first_notification": "2024-10-11",
+      "iso": "it",
+      "iso3": "ITA",
+      "last_notification": "2024-10-11",
+      "measure_count": 1,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d3a324cf-82b0-4554-b646-e85804ae1796",
+          "entry_into_force": null,
+          "notified": "2024-10-11",
+          "oj_date": "1001-01-01",
+          "title": "Decreto legislativo 4 settembre 2024, n. 138, di recepimento nell’ordinamento italiano della direttiva 2022/2555.\nNotifica provvediemento di attuazione.",
+          "title_it": "Decreto legislativo 4 settembre 2024, n. 138, di recepimento nell’ordinamento italiano della direttiva 2022/2555.\nNotifica provvediemento di attuazione.",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 1,
+      "name": "Italia",
+      "status": "notified"
+    },
+    "lt": {
+      "declared_complete": false,
+      "first_notification": "2004-01-19",
+      "iso": "lt",
+      "iso3": "LTU",
+      "last_notification": "2026-02-13",
+      "measure_count": 22,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/414d570d-97c9-4614-99ad-6a80d9931c59",
+          "entry_into_force": "2023-03-18",
+          "notified": "2004-01-19",
+          "oj_date": "1992-01-20",
+          "title": "Lietuvos Respublikos Vyriausybės 2024 m. lapkričio 6 d. nutarimas Nr. 945 „Dėl Lietuvos Respublikos Vyriausybės  2018 m. rugpjūčio 13 d. nutarimo Nr. 818 „Dėl Lietuvos Respublikos kibernetinio saugumo įstatymo įgyvendinimo“",
+          "title_it": "Decreto n. 945 del Governo della Repubblica di Lituania del 6 novembre 2024 «In merito alla delibera n. 818 del Governo della Repubblica di Lituania del 13 agosto 2018 “Sull’attuazione della legge sulla sicurezza informatica della Repubblica di Lituania”»",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/c8e268a0a00011efa605b9842742bf37"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/8d20ce6f-4a1f-4da0-8c71-57ede25fa9dc",
+          "entry_into_force": "2024-09-19",
+          "notified": "2004-01-22",
+          "oj_date": "1992-12-31",
+          "title": "Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo Nr. XIII-1120 4 straipsnio pakeitimo įstatymas Nr. XIV-2907",
+          "title_it": "Legge n. XIV-2907 che modifica l'articolo 4 della Legge n. XIII-1120 della Repubblica di Lituania sui servizi di identificazione elettronica e di garanzia dell'autenticità delle operazioni elettroniche",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/b96395e049be11efbdaea558de59136c"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/dbb62cb8-a144-4522-9c0f-aa2ccb7fb929",
+          "entry_into_force": "2025-10-18",
+          "notified": "2004-02-18",
+          "oj_date": "2000-02-21",
+          "title": "Lietuvos Respublikos elektroninių ryšių įstatymas Nr. IX-2135 (suvestinė redakcija nuo 2022-05-01 iki 2023-12-31)",
+          "title_it": "Legge n. IX-2135 della Repubblica di Lituania sulle comunicazioni elettroniche (testo unico in vigore dal 1° maggio 2022 al 31 dicembre 2023)",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049/gjMtAAvwRn"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/75135d54-ded2-484f-b68e-039a34b4b3d8",
+          "entry_into_force": "2022-01-10",
+          "notified": "2004-04-01",
+          "oj_date": "1997-03-28",
+          "title": "Lietuvos Respublikos krašto apsaugos ministro 2024 m. vasario 5 d. įsakymas Nr. V-98 „Dėl 2023–2030 metų plėtros programos valdytojos Lietuvos Respublikos krašto apsaugos ministerijos nacionalinės kibernetinio saugumo plėtros programos pažangos priemonės Nr. 06-007-10-05-07 „Stiprinti kibernetinį atsparumą“ aprašo patvirtinimo”",
+          "title_it": "Decreto n. V-98 del 5 febbraio 2024 del Ministro della Difesa della Repubblica di Lituania «In merito all’approvazione del documento descrittivo n. 06-007-10-05-07 “Rafforzare la resilienza informatica” del Ministero della Difesa Nazionale della Repubblica di Lituania, responsabile della Programma di sviluppo 2023–2030”",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/5ed44430c3f411eea5a28c81c82193a8"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d5e43f3a-611d-4bb2-83d6-57d01815a19d",
+          "entry_into_force": "2004-07-31",
+          "notified": "2004-04-01",
+          "oj_date": "2000-02-22",
+          "title": "Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 1, 2, 7, 9, 11, 12, 13, 18, 21, 22, 23, 28, 36, 52 straipsnių, priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi ir nauju 1 priedu įstatymas Nr. XIV-3048",
+          "title_it": "Legge n. VIII-971 della Repubblica di Lituania sulla gestione delle crisi e la protezione civile, articoli 1, 2, 7, 9, 11, 12, 13, 18, 21, 22, 23, 28, 36, 52, nonché dell’allegato, e che integra la legge con il capitolo VI-1 e un nuovo allegato n. 1, legge n. XIV-3048",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/94aa4950a26111efa605b9842742bf37"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f973d7c5-5d23-4599-8678-81033435ec18",
+          "entry_into_force": "2001-08-25",
+          "notified": "2004-04-20",
+          "oj_date": "2003-08-27",
+          "title": "Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 pakeitimo įstatymas Nr. XIV-1640",
+          "title_it": "Legge n. XIV-1640 che modifica la legge n. VIII-971 sulla protezione civile della Repubblica di Lituania",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/29ccd900828711ed8df094f359a60216"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/573544f4-af83-4c97-b68e-8f80576d211d",
+          "entry_into_force": "2022-12-21",
+          "notified": "2005-01-07",
+          "oj_date": "2000-05-17",
+          "title": "Lietuvos Respublikos krašto apsaugos ministro 2023 m lapkričio 23 d. įsakymas Nr. V-945 „Dėl Lietuvos Respublikos krašto apsaugos ministro 2013 m. gruodžio 31 d. įsakymo Nr. V-1200 „Dėl Nacionalinio kibernetinio saugumo centro prie Krašto apsaugos ministerijos nuostatų ir struktūros patvirtinimo“ pakeitimo“",
+          "title_it": "Decreto n. V-945 del Ministro della Difesa Nazionale della Repubblica di Lituania del 23 novembre 2023 «In merito alla modifica del decreto n. V-1200 del Ministro della Difesa Nazionale della Repubblica di Lituania del 31 dicembre 2013 «Relativo all’approvazione dello statuto e della struttura del Centro nazionale per la sicurezza informatica presso il Ministero della Difesa»»",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/4af4b6a08a1211eea5a28c81c82193a8"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f09e35cd-5801-4dff-ac4e-c9fa6a6d44b1",
+          "entry_into_force": "2021-09-24",
+          "notified": "2005-04-19",
+          "oj_date": "2005-03-31",
+          "title": "Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 5, 7, 34 ir 40 straipsnių pakeitimo įstatymas Nr. XIV-2377",
+          "title_it": "Legge n. XIV-2377 che modifica gli articoli 5, 7, 34 e 40 della Legge n. VIII-971 della Repubblica di Lituania sulla gestione delle crisi e la protezione civile",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/abac6c20a54e11eea5a28c81c82193a8"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/8b81fba8-e35b-409f-8dcd-4a6186f4cf43",
+          "entry_into_force": "2024-07-05",
+          "notified": "2006-06-21",
+          "oj_date": "2006-05-05",
+          "title": "Lietuvos Respublikos viešojo administravimo įstatymas Nr. VIII-1234 (suvestinė redakcija nuo 2022-01-29 iki 2022-12-31).",
+          "title_it": "Legge n. VIII-1234 della Repubblica di Lituania sulla pubblica amministrazione (testo consolidato dal 29 gennaio 2022 al 31 dicembre 2022).",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66/tyVLCmBuAQ"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ee33fa97-9515-4930-bca4-e259530da5b1",
+          "entry_into_force": "2022-01-03",
+          "notified": "2008-10-13",
+          "oj_date": "2008-08-21",
+          "title": "Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas Nr. IX-1132 (suvestinė redakcija nuo 2022-03-24 iki 2023-12-31)",
+          "title_it": "Legge n. IX-1132 sulla protezione degli oggetti di importanza strategica per la sicurezza nazionale della Repubblica di Lituania (testo consolidato dal 24 marzo 2022 al 31 dicembre 2023)",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108/QocunXowuc"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/82043737-cf7b-4f80-8e40-7d97bcb02dc1",
+          "entry_into_force": "2024-10-01",
+          "notified": "2009-07-10",
+          "oj_date": "2009-02-09",
+          "title": "Lietuvos Respublikos krašto apsaugos ministro 2013 m. gruodžio 31 d. įsakymas Nr. V-1200 „Dėl Nacionalinio kibernetinio saugumo centro prie krašto apsaugos ministerijos nuostatų ir struktūros patvirtinimo“(suvestinė redakcija nuo 2022-04-15 iki 2023-11-24)",
+          "title_it": "Decreto n. V-1200 del 31 dicembre 2013 del Ministro della Difesa della Repubblica di Lituania «In merito all’approvazione dello statuto e della struttura del Centro nazionale per la sicurezza informatica presso il Ministero della Difesa» (versione consolidata dal 15 aprile 2022 al 24 novembre 2023)",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/11387120877211e3a6508050c26bd4c8/ouSBCnknNo"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/6de32beb-f4a9-4b6a-9878-2d9430ae959f",
+          "entry_into_force": "2011-12-27",
+          "notified": "2013-04-26",
+          "oj_date": "2012-07-19",
+          "title": "Lietuvos Respublikos strateginio valdymo įstatymas Nr. XIII-3096 (suvestinė redakcija nuo 2024-01-01)",
+          "title_it": "Legge n. XIII-3096 della Repubblica di Lituania sulla gestione strategica (testo unico a partire dal 1° gennaio 2024)",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/13ecbb50c1be11ea9815f635b9c0dcef/ZraPTVFhbO"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/66ea9d48-d9da-4f03-b308-e81a94c6fe18",
+          "entry_into_force": "2024-11-30",
+          "notified": "2016-10-31",
+          "oj_date": "2016-10-03",
+          "title": "Lietuvos Respublikos Vyriausybės 2023 m. rugsėjo 20 d. nutarimas Nr. 746 „Dėl 2023–2030 metų plėtros programos valdytojos Lietuvos Respublikos krašto apsaugos ministerijos nacionalinės kibernetinio saugumo plėtros programos patvirtinimo“",
+          "title_it": "Decreto n. 746 del Governo della Repubblica di Lituania del 20 settembre 2023 «In merito all’approvazione del programma nazionale di sviluppo della sicurezza informatica del Ministero della Difesa Nazionale della Repubblica di Lituania, responsabile del programma di sviluppo per il periodo 2023-2030»",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/72b43e10591e11ee81b8b446907f594f"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/e40fad45-8c3e-4985-9293-bf4cffb5662a",
+          "entry_into_force": "2024-09-01",
+          "notified": "2017-03-13",
+          "oj_date": "2016-12-30",
+          "title": "Lietuvos Respublikos mokslo ir studijų įstatymas Nr. XI-242 (suvestinė redakcija nuo 2022-12-01 iki 2022-12-31)",
+          "title_it": "Legge n. XI-242 della Repubblica di Lituania sulla scienza e gli studi (testo consolidato dal 1° dicembre 2022 al 31 dicembre 2022)",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869/fneVJmJAwu"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/c2a1bc57-acdd-457f-be61-00b8267de79a",
+          "entry_into_force": "2026-01-15",
+          "notified": "2025-08-09",
+          "oj_date": "2025-08-05",
+          "title": "Lietuvos Respublikos Vyriausybės 2020 m. rugsėjo 9 d. nutarimas Nr. 998 „Dėl 2021–2030 metų nacionalinio pažangos plano patvirtinimo“",
+          "title_it": "Decreto n. 998 del Governo della Repubblica di Lituania del 9 settembre 2020 «Relativo all’approvazione del Piano nazionale di progresso per il periodo 2021-2030»",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/d492e050f7dd11eaa12ad7c04a383ca0"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/18192f04-ffca-4f98-8c7b-fc098d0b427f",
+          "entry_into_force": "2024-10-17",
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas Nr. VIII-1864 (suvestinė redakcija nuo 2022-11-01 iki 2022-12-31)",
+          "title_it": "Legge sull'approvazione, l'entrata in vigore e l'attuazione del Codice civile della Repubblica di Lituania. Codice civile n. VIII-1864 (versione consolidata dal 1° novembre 2022 al 31 dicembre 2022)",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/lZxtUsPAqF"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/45a611b5-a040-4eed-9f48-82b73e33bc3b",
+          "entry_into_force": "2024-06-01",
+          "notified": "2026-02-13",
+          "oj_date": "2025-12-17",
+          "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-2904",
+          "title_it": "Legge n. XIV-2904 che modifica gli articoli 479, 480 e 589 e l'allegato del Codice dei reati amministrativi della Repubblica di Lituania",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/c6afa0a049bd11efbdaea558de59136c"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/82b9f4cb-7eda-4a37-b79f-d2fcdbcbad74",
+          "entry_into_force": "2024-10-18",
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 8, 23, 36, 44, 45, 51, 74, 82, 98 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-2905",
+          "title_it": "Legge n. XIV-2905 della Repubblica di Lituania che modifica gli articoli 3, 8, 23, 36, 44, 45, 51, 74, 82, 98 e dell’allegato della Repubblica di Lituania n. XIV-2905",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/28bb929049be11efbdaea558de59136c"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/3d463a0d-fc19-4ebd-8a5a-d50eb258524d",
+          "entry_into_force": "2003-10-29",
+          "notified": "2026-02-13",
+          "oj_date": "2026-01-09",
+          "title": "Lietuvos Respublikos Vyriausybės 2023 m. gruodžio 13 d. nutarimas Nr. 971 „Dėl Lietuvos Respublikos Vyriausybės 2022 m. gruodžio 29 d. nutarimo Nr. 1317 „Dėl Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo įgyvendinimo“ pakeitimo“",
+          "title_it": "Decreto n. 971 del Governo della Repubblica di Lituania del 13 dicembre 2023 «In merito alla modifica del decreto n. 1317 del Governo della Repubblica di Lituania del 29 dicembre 2022 “relativo all’attuazione della legge della Repubblica di Lituania sulla gestione delle crisi e sulla protezione civile”»",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/014196609d8911eea5a28c81c82193a8"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/04e3b325-6afc-4bac-9e2d-f6e2dec04956",
+          "entry_into_force": "2004-01-01",
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas Nr. XIV-2902",
+          "title_it": "Legge n. XIV-2902 che modifica la legge n. XII-1428 sulla sicurezza informatica della Repubblica di Lituania",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/1261a35049bd11efbdaea558de59136c"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4875d272-b32a-42d0-81bf-6cc248b33de5",
+          "entry_into_force": "2025-01-20",
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Lietuvos Respublikos Vyriausybės 2023 m. liepos 31 d. nutarimas Nr. 638 „Dėl Lietuvos Respublikos Vyriausybės 2022 m. gruodžio 29 d. nutarimo Nr. 1317 „Dėl Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo įgyvendinimo“ pakeitimo“",
+          "title_it": "Decreto n. 638 del Governo della Repubblica di Lituania del 31 luglio 2023 «In merito alla modifica del decreto n. 1317 del Governo della Repubblica di Lituania del 29 dicembre 2022 “relativo all’attuazione della legge della Repubblica di Lituania sulla gestione delle crisi e sulla protezione civile”»",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/445d8f6031e811ee9de9e7e0fd363afc"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/78a7b78a-1a84-4903-9dc0-8a8586a7018e",
+          "entry_into_force": "2024-10-18",
+          "notified": "2026-02-13",
+          "oj_date": "2025-12-17",
+          "title": "Lietuvos Respublikos Vyriausybės 2022 m. gruodžio 29 d. nutarimas Nr. 1317 „Dėl Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo įgyvendinimo“",
+          "title_it": "Decreto n. 1317 del Governo della Repubblica di Lituania del 29 dicembre 2022 «Relativo all’attuazione della legge della Repubblica di Lituania sulla gestione delle crisi e sulla protezione civile»",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/1c420e00875e11ed8df094f359a60216"
+        }
+      ],
+      "measures_since_directive": 8,
+      "name": "Lituania",
+      "status": "notified"
+    },
+    "lu": {
+      "declared_complete": false,
+      "first_notification": "2026-05-06",
+      "iso": "lu",
+      "iso3": "LUX",
+      "last_notification": "2026-05-06",
+      "measure_count": 1,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/38d5b05e-ef31-48d9-8e8a-1c0753ea57ca",
+          "entry_into_force": "2026-05-10",
+          "notified": "2026-05-06",
+          "oj_date": "2026-05-06",
+          "title": "Loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité et portant modification de :\n1°\t\nla loi modifiée du 14 août 2000 relative au commerce électronique ;\n2°\t\nla loi modifiée du 23 juillet 2016 portant création d’un Haut-Commissariat à la Protection nationale ;\n3°\t\nla loi du 17 décembre 2021 sur les réseaux et les services de communications électroniques.",
+          "title_it": "Legge del 5 maggio 2026 recante misure volte a garantire un elevato livello di sicurezza informatica e che modifica:\n1°  \nla legge modificata del 14 agosto 2000 relativa al commercio elettronico;\n2°\t\nla legge modificata del 23 luglio 2016 che istituisce un Alto Commissariato per la Protezione nazionale;\n3°  \nla legge del 17 dicembre 2021 sulle reti e i servizi di comunicazione elettronica.",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 1,
+      "name": "Lussemburgo",
+      "status": "notified"
+    },
+    "lv": {
+      "declared_complete": false,
+      "first_notification": "2004-04-14",
+      "iso": "lv",
+      "iso3": "LVA",
+      "last_notification": "2024-10-11",
+      "measure_count": 2,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ae851165-9046-4d3d-8e3e-bbcba6e8a5e7",
+          "entry_into_force": "2025-01-01",
+          "notified": "2004-04-14",
+          "oj_date": "2002-07-18",
+          "title": "Ministru kabineta 2025. gada 25. jūnija noteikumi Nr. 397 \"Minimālās kiberdrošības prasības\"",
+          "title_it": "Regolamento n. 397 del Consiglio dei ministri del 25 giugno 2025 «Requisiti minimi di sicurezza informatica»",
+          "url": "https://likumi.lv/ta/id/361481"
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b8ec6a5d-3d6d-4646-9852-7f57c8d725fa",
+          "entry_into_force": "2024-09-01",
+          "notified": "2024-10-11",
+          "oj_date": "2024-07-04",
+          "title": "Nacionālās kiberdrošības likums",
+          "title_it": "Legge sulla sicurezza informatica nazionale",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 1,
+      "name": "Lettonia",
+      "status": "notified"
+    },
+    "mt": {
+      "declared_complete": false,
+      "first_notification": "2004-01-19",
+      "iso": "mt",
+      "iso3": "MLT",
+      "last_notification": "2004-01-19",
+      "measure_count": 1,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/84ccd285-90b1-4589-b430-976bf9da3a0a",
+          "entry_into_force": "2019-07-05",
+          "notified": "2004-01-19",
+          "oj_date": "1995-05-29",
+          "title": "Measures for a High Common Level of Cybersecurity across the European Union (Malta) Order, 2025",
+          "title_it": "Decreto del 2025 relativo alle misure per un elevato livello comune di sicurezza informatica in tutta l’Unione europea (Malta)",
+          "url": "https://legislation.mt/eli/ln/2025/71/eng"
+        }
+      ],
+      "measures_since_directive": 0,
+      "name": "Malta",
+      "status": "not-notified"
+    },
+    "nl": {
+      "declared_complete": false,
+      "first_notification": "2026-07-10",
+      "iso": "nl",
+      "iso3": "NLD",
+      "last_notification": "2026-07-16",
+      "measure_count": 3,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b33a9e1a-107a-43c3-a1b8-e1dfefa84339",
+          "entry_into_force": "2026-08-15",
+          "notified": "2026-07-10",
+          "oj_date": "2026-07-10",
+          "title": "Besluit van 8 juli 2026, houdende regels ter uitvoering van de Cyberbeveiligingswet en tot vaststelling van het tijdstip van inwerkingtreding van de Cyberbeveiligingswet(Cyberbeveiligingsbesluit)",
+          "title_it": "Decreto dell'8 luglio 2026, recante norme di attuazione della Legge sulla sicurezza informatica e che stabilisce la data di entrata in vigore della stessa (Decreto sulla sicurezza informatica)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/32ec7d95-e182-4b83-93ec-8d79390db85a",
+          "entry_into_force": "2026-08-15",
+          "notified": "2026-07-10",
+          "oj_date": "2026-07-10",
+          "title": "Wet van 8 juli 2026, houdende regels terimplementatie van Richtlijn (EU) 2022/2555 vanhet Europees Parlement en de Raad van14 december 2022 betreffende maatregelenvoor een hoog gezamenlijk niveau vancyberbeveiliging in de Unie, tot wijziging vanVerordening (EU) nr. 910/2014 en Richtlijn (EU)2018/1972 en tot intrekking van Richtlijn (EU)2016/1148 (PbEU 2022, L 333)(Cyberbeveiligingswet)",
+          "title_it": "Legge dell'8 luglio 2026, recante norme di attuazione della direttiva (UE) 2022/2555 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, relativa alle misure volte a garantire un elevato livello comune di sicurezza informatica nell'Unione, che modifica il regolamento (UE) n. 910/2014 e la direttiva (UE) 2018/1972 e che abroga la direttiva (UE) 2016/1148 (GU UE 2022, L 333) (Legge sulla sicurezza informatica)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5e7f2f53-a88c-41d2-a9d7-e519be0beeb1",
+          "entry_into_force": "2026-07-16",
+          "notified": "2026-07-16",
+          "oj_date": "2026-07-16",
+          "title": "Mededeling over de implementatie van de Richtlijn (EU) 2022/2555 van het Europees Parlement en de Raad van 14 december 2022 betreffende maatregelen voor een hoog gezamenlijk niveau van cyberbeveiliging in de Unie, tot wijziging van Verordening (EU) nr. 910/2014 en Richtlijn (EU)2018/1972 en tot intrekking van Richtlijn (EU) 2016/1148 (PbEU 2022, L 333),van het Ministerie van Justitie en Veiligheid",
+          "title_it": "Comunicazione sull'attuazione della direttiva (UE) 2022/2555 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, relativa a misure volte a garantire un elevato livello comune di sicurezza informatica nell'Unione, che modifica il regolamento (UE) n. 910/2014 e della direttiva (UE) 2018/1972 e che abroga la direttiva (UE) 2016/1148 (GUUE 2022, L 333), del Ministero della Giustizia e della Sicurezza",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 3,
+      "name": "Paesi Bassi",
+      "status": "notified"
+    },
+    "pl": {
+      "declared_complete": false,
+      "first_notification": "2025-02-04",
+      "iso": "pl",
+      "iso3": "POL",
+      "last_notification": "2026-03-24",
+      "measure_count": 7,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/8a64ea66-2eae-42d6-9811-62ce44fbd3e5",
+          "entry_into_force": null,
+          "notified": "2025-02-04",
+          "oj_date": "2024-08-09",
+          "title": "USTAWA z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej",
+          "title_it": "LEGGE del 12 luglio 2024. Disposizioni di attuazione della legge – Diritto delle comunicazioni elettroniche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/804b5d11-9028-4625-ac26-e48e617fd491",
+          "entry_into_force": null,
+          "notified": "2025-02-04",
+          "oj_date": "2024-07-19",
+          "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o krajowym systemie cyberbezpieczeństwa",
+          "title_it": "Provvedimento del Presidente del Sejm della Repubblica di Polonia del 10 luglio 2024 relativo alla pubblicazione del testo unico della legge sul sistema nazionale di sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/d5f0a396-8cba-407c-80d2-b2dd28dae9a9",
+          "entry_into_force": "2026-04-03",
+          "notified": "2026-03-24",
+          "oj_date": "2026-03-02",
+          "title": "Ustawa z dnia 23 stycznia 2026 roku o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw",
+          "title_it": "Legge del 23 gennaio 2026 che modifica la legge sul sistema nazionale di sicurezza informatica e alcune altre leggi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/249b4cfe-3b83-43ed-a3cf-d0dc6de78d05",
+          "entry_into_force": "2026-03-24",
+          "notified": "2026-03-24",
+          "oj_date": "2026-03-23",
+          "title": "Uchwała nr 92 Rady Ministrów z dnia 10 marca 2026 r. w sprawie Strategii Cyberbezpieczeństwa Rzeczypospolitej Polskiej",
+          "title_it": "Delibera n. 92 del Consiglio dei Ministri del 10 marzo 2026 relativa alla Strategia di sicurezza informatica della Repubblica di Polonia",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/3fa56a2c-9736-4b5b-8a27-c2bf7622893a",
+          "entry_into_force": "2026-01-10",
+          "notified": "2026-03-24",
+          "oj_date": "2026-01-09",
+          "title": "Ustawa z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz.U. z 2026 r. poz. 20)",
+          "title_it": "Legge del 5 luglio 2018 sul sistema nazionale di sicurezza informatica (Gazzetta Ufficiale del 2026, n. 20)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/fe5890b2-8c39-49b8-866d-0f1ed4252fa2",
+          "entry_into_force": "2023-04-17",
+          "notified": "2026-03-24",
+          "oj_date": "2023-01-16",
+          "title": "Ustawa z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz.U. z 2023 r. poz. 122 z póżn. zm.)",
+          "title_it": "Legge del 26 aprile 2007 sulla gestione delle crisi (Gazzetta Ufficiale del 2023, n. 122 e successive modifiche)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/54e626ed-4ed0-468a-a6b7-ed4013eb0f7e",
+          "entry_into_force": "2024-11-10",
+          "notified": "2026-03-24",
+          "oj_date": "2024-08-09",
+          "title": "Ustawa z dnia 12 lipca 2024 r. - Prawo komunikacji elektronicznej (Dz.U. z 2024 r. poz. 1221 z póżn. zm.)",
+          "title_it": "Legge del 12 luglio 2024 - Legge sulle comunicazioni elettroniche (Gazzetta Ufficiale del 2024, n. 1221 e successive modifiche)",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 7,
+      "name": "Polonia",
+      "status": "notified"
+    },
+    "pt": {
+      "declared_complete": false,
+      "first_notification": "2025-12-04",
+      "iso": "pt",
+      "iso3": "PRT",
+      "last_notification": "2026-06-22",
+      "measure_count": 2,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ce892cad-8e0f-4e89-9a92-3eb5612269a8",
+          "entry_into_force": null,
+          "notified": "2025-12-04",
+          "oj_date": "1001-01-01",
+          "title": "Decreto-Lei n.º 125/2025, de 4 de dezembro, Diário da República n.º 234/2025, Série I de 2025-12-04, Transpõe a Diretiva (UE) 2022/2555, relativa a medidas destinadas a garantir um elevado nível comum de cibersegurança na União",
+          "title_it": "Decreto-legge n. 125/2025, del 4 dicembre, Gazzetta Ufficiale n. 234/2025, Serie I del 4 dicembre 2025, che recepisce la direttiva (UE) 2022/2555 relativa alle misure volte a garantire un elevato livello comune di sicurezza informatica nell'Unione",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/e0b84c6d-ffcb-47a2-88a7-c49b074a3127",
+          "entry_into_force": null,
+          "notified": "2026-06-22",
+          "oj_date": "1001-01-01",
+          "title": "Regulamento n.º 756/2026, de 22 de junho, Diário da República n.º 118/2026, Série II de 2026-06-22, Regulamento de execução do Regime Jurídico da Cibersegurança, aprovado pelo Decreto-Lei n.º 125/2025, de 4 de dezembro.",
+          "title_it": "Regolamento n. 756/2026, del 22 giugno, Gazzetta Ufficiale n. 118/2026, Serie II del 22-06-2026, Regolamento di attuazione del regime giuridico in materia di sicurezza informatica, approvato con decreto-legge n. 125/2025, del 4 dicembre.",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 2,
+      "name": "Portogallo",
+      "status": "notified"
+    },
+    "ro": {
+      "declared_complete": false,
+      "first_notification": "2024-10-01",
+      "iso": "ro",
+      "iso3": "ROU",
+      "last_notification": "2025-01-14",
+      "measure_count": 16,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/6a35440c-a0a4-4800-b2ef-90c0e3bfbb6f",
+          "entry_into_force": "2003-10-29",
+          "notified": "2024-10-01",
+          "oj_date": "2003-10-31",
+          "title": "Constituția României",
+          "title_it": "La Costituzione della Romania",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/3724be95-d107-4623-b0aa-7bd68bd2df11",
+          "entry_into_force": "2023-03-18",
+          "notified": "2024-11-26",
+          "oj_date": "2023-03-15",
+          "title": "Lege nr. 58/2023 privind securitatea și apărarea cibernetică a României, precum și pentru modificarea și completarea unor acte normative",
+          "title_it": "Legge n. 58/2023 in materia di sicurezza e difesa informatica della Romania, nonché per la modifica e l'integrazione di alcuni atti normativi",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/5a5629a1-cdbc-40d9-ab49-f4c5c3818b4d",
+          "entry_into_force": "2021-09-24",
+          "notified": "2024-11-26",
+          "oj_date": "2021-09-24",
+          "title": "Ordonanţa de urgenţă nr. 104/2021 privind înființarea Directoratului Național de Securitate Cibernetică",
+          "title_it": "Ordinanza d'urgenza n. 104/2021 relativa all'istituzione della Direzione nazionale per la sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b5687a6a-937d-4c61-9d66-a304b8e6f88a",
+          "entry_into_force": "2019-07-05",
+          "notified": "2024-11-26",
+          "oj_date": "2019-07-05",
+          "title": "Ordonanţa de urgenţă nr. 57/2019 privind Codul administrativ",
+          "title_it": "Ordinanza d'urgenza n. 57/2019 relativa al Codice amministrativo",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/b353e7a7-b0fc-4e7a-8657-5f41dd6b627b",
+          "entry_into_force": "2022-12-21",
+          "notified": "2024-11-26",
+          "oj_date": "2022-12-21",
+          "title": "Lege nr. 366/2022 pentru modificarea Ordonanței de urgență a Guvernului nr. 104/2021 privind înființarea Directoratului Național de Securitate Cibernetică, precum și pentru completarea anexei nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+          "title_it": "Legge n. 366/2022 che modifica l’Ordinanza d’urgenza del Governo n. 104/2021 relativa all’istituzione della Direzione nazionale per la sicurezza informatica, nonché che integra l’allegato n. VIII alla Leggequadro n. 153/2017 relativa alla retribuzione del personale retribuito con fondi pubblici",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f03f74b4-ee1e-4026-82cc-4507e754970c",
+          "entry_into_force": "2011-12-27",
+          "notified": "2024-11-26",
+          "oj_date": "2011-12-27",
+          "title": "Ordonanţa de urgenţă nr. 111/2011 privind comunicațiile electronice",
+          "title_it": "Ordinanza d'urgenza n. 111/2011 in materia di comunicazioni elettroniche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/07f97464-bd70-4803-b0ac-b36a858fac5b",
+          "entry_into_force": "2004-07-31",
+          "notified": "2024-11-26",
+          "oj_date": "2004-07-29",
+          "title": "Lege  nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii",
+          "title_it": "Legge n. 346/2004 relativa alla promozione della creazione e dello sviluppo delle piccole e medie imprese",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/f176fc41-2bf8-4c81-b372-45088eae4476",
+          "entry_into_force": "2005-01-07",
+          "notified": "2024-11-26",
+          "oj_date": "2004-12-07",
+          "title": "Legea contenciosului administrativ nr. 554/2004",
+          "title_it": "Legge n. 554/2004 sul contenzioso amministrativo",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/3572edbe-2b5e-49f2-ac75-5f528de2bd99",
+          "entry_into_force": "2001-08-25",
+          "notified": "2024-11-26",
+          "oj_date": "2001-07-25",
+          "title": "Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravențiilor",
+          "title_it": "Ordinanza del Governo n. 2/2001 relativa al regime giuridico delle contravvenzioni",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/a8342552-c242-47b4-bf3f-83823dae5362",
+          "entry_into_force": "2022-07-09",
+          "notified": "2024-11-26",
+          "oj_date": "2022-07-07",
+          "title": "Lege  nr. 198/2022 pentru modificarea și completarea unor acte normative în domeniul comunicațiilor electronice și pentru stabilirea unor măsuri de facilitare a dezvoltării rețelelor de comunicații electronice",
+          "title_it": "Legge n. 198/2022 recante modifiche e integrazioni ad alcuni atti normativi nel settore delle comunicazioni elettroniche e recante misure volte a favorire lo sviluppo delle reti di comunicazioni elettroniche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/72c10cdb-9711-4972-8241-7ad11b0a47ff",
+          "entry_into_force": "2022-01-10",
+          "notified": "2024-11-26",
+          "oj_date": "2022-01-07",
+          "title": "Lege nr. 11/2022 pentru aprobarea Ordonanței de urgență a Guvernului nr. 104/2021 privind înființarea Directoratului Național de Securitate Cibernetică",
+          "title_it": "Legge n. 11/2022 che approva l'Ordinanza d'urgenza del Governo n. 104/2021 relativa all'istituzione della Direzione nazionale per la sicurezza informatica",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/03582b7a-48a3-49d8-9892-8efdbaf038a8",
+          "entry_into_force": "2022-01-03",
+          "notified": "2024-11-26",
+          "oj_date": "2021-01-03",
+          "title": "Hotărârea Guvernului nr. 1321/2021 privind aprobarea Strategiei de securitate cibernetică a României, pentru perioada 2022-2027, precum și a Planului de acțiune pentru implementarea Strategiei de securitate cibernetică a României, pentru perioada 2022-2027",
+          "title_it": "Decreto del Governo n. 1321/2021 relativo all’approvazione della Strategia di sicurezza informatica della Romania per il periodo 2022-2027, nonché del Piano d’azione per l’attuazione della Strategia di sicurezza informatica della Romania per il periodo 2022-2027",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/ce6391bf-bd41-4894-b7b1-39b1922ad5ac",
+          "entry_into_force": null,
+          "notified": "2024-12-23",
+          "oj_date": "2006-05-22",
+          "title": "Legea nr. 175 din 16 mai 2006 privind aprobarea Ordonanţei Guvernului nr. 27/2006 pentru modificarea şi completarea Legii nr. 346/2004 privind stimularea înfiinţării şi dezvoltării întreprinderilor mici şi mijlocii",
+          "title_it": "Legge n. 175 del 16 maggio 2006 relativa all'approvazione dell'Ordinanza del Governo n. 27/2006 che modifica e integra la Legge n. 346/2004 relativa alla promozione della costituzione e dello sviluppo delle piccole e medie imprese",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/772d13a3-b304-49dd-ab15-e2df970d38ba",
+          "entry_into_force": null,
+          "notified": "2024-12-23",
+          "oj_date": "2006-01-31",
+          "title": "Ordonanta Guvernului nr. 27 din 26 ianuarie 2006 pentru modificarea şi completarea Legii nr. 346/2004 privind stimularea înfiinţării şi dezvoltării întreprinderilor mici şi mijlocii",
+          "title_it": "Ordinanza del Governo n. 27 del 26 gennaio 2006 recante modifiche e integrazioni alla Legge n. 346/2004 in materia di incentivazione della costituzione e dello sviluppo delle piccole e medie imprese",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/24b9477c-2b68-43d6-a45f-43686a29d5ee",
+          "entry_into_force": "2022-01-03",
+          "notified": "2025-01-14",
+          "oj_date": "2022-01-03",
+          "title": "Anexele nr. 1 și 2 la Hotărârea nr. 1.321/2021 privind aprobarea\nStrategiei de securitate cibernetică a României, pentru\nperioada 2022—2027, precum și a Planului de acțiune\npentru implementarea Strategiei de securitate cibernetică\na României, pentru perioada 2022—2027",
+          "title_it": "Allegati n. 1 e 2 alla Delibera n. 1.321/2021 relativa all’approvazione\nStrategia di sicurezza informatica della Romania, per il\nperiodo 2022-2027, nonché del Piano d’azione\nper l’attuazione della Strategia di sicurezza informatica\ndella Romania, per il periodo 2022-2027",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/33830ef6-60b0-41ca-948d-fd929cda83eb",
+          "entry_into_force": "2024-12-31",
+          "notified": "2025-01-14",
+          "oj_date": "2024-12-31",
+          "title": "Ordonanță de urgență privind instituirea unui cadru\npentru securitatea cibernetică a rețelelor și sistemelor\ninformatice din spațiul cibernetic național civil",
+          "title_it": "Ordinanza d’urgenza relativa all’istituzione di un quadro\nper la sicurezza informatica delle reti e dei sistemi\ninformatici nello spazio cibernetico civile nazionale",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 16,
+      "name": "Romania",
+      "status": "notified"
+    },
+    "se": {
+      "declared_complete": false,
+      "first_notification": "2026-02-13",
+      "iso": "se",
+      "iso3": "SWE",
+      "last_notification": "2026-02-13",
+      "measure_count": 13,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/701a50ad-7701-406b-a8e8-7092d52cc89d",
+          "entry_into_force": "2026-01-15",
+          "notified": "2026-02-13",
+          "oj_date": "2025-12-17",
+          "title": "Cybersäkerhetslag (2025:1506)",
+          "title_it": "Legge sulla sicurezza informatica (2025:1506)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/61b18b47-bac7-4346-a5d8-74c95a8abb8b",
+          "entry_into_force": "2026-01-15",
+          "notified": "2026-02-13",
+          "oj_date": "2025-12-17",
+          "title": "Lag om ändring i lagen (2006:24) om nationella toppdomäner för Sverige på internet",
+          "title_it": "Legge che modifica la legge (2006:24) sui domini di primo livello nazionali per la Svezia su Internet",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4db15ff6-870c-44b0-87eb-dad451d47afd",
+          "entry_into_force": null,
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Aktiebolagslag (2005:551)",
+          "title_it": "Legge sulle società per azioni (2005:551)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/19c50b29-0adc-4c9e-9186-3a1673c72787",
+          "entry_into_force": "2026-02-02",
+          "notified": "2026-02-13",
+          "oj_date": "2026-01-09",
+          "title": "Myndigheten för civilt försvars föreskrifter (MCFFS 2026:1) om anmälan och identifiering av väsentliga och viktiga verksamhetsutövare",
+          "title_it": "Regolamento dell’Autorità per la protezione civile (MCFFS 2026:1) relativo alla notifica e all’identificazione dei soggetti che svolgono attività essenziali e importanti",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/085dbb5b-82fe-4625-990b-dc0edb8afba7",
+          "entry_into_force": null,
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Myndighetsförordning (2007:515)",
+          "title_it": "Decreto ministeriale (2007:515)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4e9438f8-8fd4-4f44-a024-e5b479ffa923",
+          "entry_into_force": null,
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Lag (2006:24) om nationella toppdomäner för Sverige på internet",
+          "title_it": "Legge (2006:24) sui domini di primo livello nazionali per la Svezia su Internet",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/26a21ed6-6625-4e60-adf9-7bffb4f37689",
+          "entry_into_force": null,
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Kommunallag (2017:725)",
+          "title_it": "Legge sugli enti locali (2017:725)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/13b03d11-2d28-4bd2-a603-e92524ae4b0d",
+          "entry_into_force": null,
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Lag (2018:672) om ekonomiska föreningar",
+          "title_it": "Legge (2018:672) sulle associazioni economiche",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/3dfceedc-5d93-4727-963e-aacb14538333",
+          "entry_into_force": null,
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Lag (1980:1102) om handelsbolag och enkla bolag",
+          "title_it": "Legge (1980:1102) sulle società di persone e sulle società semplici",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/4d97ea50-ccde-47e4-bb95-72753a079c1d",
+          "entry_into_force": "2026-01-15",
+          "notified": "2026-02-13",
+          "oj_date": "2025-12-17",
+          "title": "Cybersäkerhetsförordning (2025:1507)",
+          "title_it": "Regolamento sulla sicurezza informatica (2025:1507)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/89ae29c6-3d6d-4453-98f2-842619f00284",
+          "entry_into_force": null,
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Förvaltningslag (2017:900)",
+          "title_it": "Legge sull'amministrazione (2017:900)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/81db14f8-5783-47b7-8bf9-3aa48ee37bdf",
+          "entry_into_force": null,
+          "notified": "2026-02-13",
+          "oj_date": "1001-01-01",
+          "title": "Offentlighets- och sekretesslag (2009:400)",
+          "title_it": "Legge sulla trasparenza e sulla riservatezza (2009:400)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/3020e1d0-aa65-40fb-88bc-bf283296eb06",
+          "entry_into_force": "2026-01-15",
+          "notified": "2026-02-13",
+          "oj_date": "2025-12-17",
+          "title": "Lag om ändring i offentlighets- och sekretesslagen (2009:400)",
+          "title_it": "Legge che modifica la legge sulla trasparenza e sulla riservatezza (2009:400)",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 13,
+      "name": "Svezia",
+      "status": "notified"
+    },
+    "si": {
+      "declared_complete": false,
+      "first_notification": "2011-08-02",
+      "iso": "si",
+      "iso3": "SVN",
+      "last_notification": "2011-08-02",
+      "measure_count": 1,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/cc0327b6-374e-47bd-af6c-c278dec354a6",
+          "entry_into_force": "2024-10-29",
+          "notified": "2011-08-02",
+          "oj_date": "2011-07-19",
+          "title": "Zakon o informacijski varnosti (ZInfV-1)",
+          "title_it": "Legge sulla sicurezza informatica (ZInfV-1)",
+          "url": "http://www.pisrs.si/Pis.web/pregledPredpisa?sop=2025-01-1571"
+        }
+      ],
+      "measures_since_directive": 0,
+      "name": "Slovenia",
+      "status": "not-notified"
+    },
+    "sk": {
+      "declared_complete": false,
+      "first_notification": "2024-06-04",
+      "iso": "sk",
+      "iso3": "SVK",
+      "last_notification": "2025-02-12",
+      "measure_count": 9,
+      "measures": [
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/0f7269e0-f74e-4cf1-b53b-6a635da67b85",
+          "entry_into_force": "2024-06-01",
+          "notified": "2024-06-04",
+          "oj_date": "1991-12-18",
+          "title": "Zákon č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov (consolidated version as amended by 105/2024 Z. z.)",
+          "title_it": "Legge n. 513/1991 Raccolta delle leggi – Codice commerciale, nella versione aggiornata (versione consolidata modificata dalla legge n. 105/2024)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/67ec5a6d-1b8b-46b4-a6a9-d2413175ae90",
+          "entry_into_force": "2024-10-01",
+          "notified": "2024-11-20",
+          "oj_date": "2001-12-29",
+          "title": "Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy v znení neskorších predpisov (consolidated version as amended by 201/2024)",
+          "title_it": "Legge n. 575/2001 Z. z. sull'organizzazione dell'attività del governo e dell'amministrazione statale centrale, come modificata da norme successive (versione consolidata modificata dalla legge n. 201/2024)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/e4037657-cc3f-4774-b334-555ca0841d90",
+          "entry_into_force": "2025-01-01",
+          "notified": "2025-01-10",
+          "oj_date": "2018-03-09",
+          "title": "Zákon č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ktorým sa menia a dopĺňajú niektoré zákony (consolidated version as amended by zákon č. 366/2024 Z. z., ktorým sa mení a dopĺňa zákon č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ktorým sa menia a dopĺňajú niektoré zákony)",
+          "title_it": "Legge n. 69/2018 Z. z. sulla sicurezza informatica e sulla modifica e integrazione di alcune leggi, come modificata da disposizioni successive, e che modifica e integra alcune leggi (versione consolidata modificata dalla legge n. 366/2024 Z. z., che modifica la legge n. 69/2018 Z. z. sulla sicurezza informatica e che modifica e integra alcune leggi, come modificata da disposizioni successive, e che modifica e integra alcune leggi)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/01e516cd-0f7c-4188-9e9c-8e25ded305b3",
+          "entry_into_force": "2025-01-01",
+          "notified": "2025-01-10",
+          "oj_date": "2016-10-18",
+          "title": "Zákon 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách) (consolidated version as amended by zákon č. 365/2024 Z. z., ktorým sa mení a dopĺňa zákon č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách) v znení zákona č. 211/2019 Z. z. a ktorým sa mení zákon č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente) v znení neskorších predpisov)",
+          "title_it": "Legge n. 272/2016 Z. z. sui servizi di fiducia per le transazioni elettroniche nel mercato interno e che modifica alcune leggi (legge sui servizi di fiducia) (versione consolidata modificata dalla legge n. 365/2024 Z. z., che modifica la legge n. 272/2016 Z. z. sui servizi di fiducia per le transazioni elettroniche nel mercato interno e che modifica e integra alcune leggi (legge sui servizi di fiducia) nella versione risultante dalla legge n. 211/2019 Z. z. e che modifica la legge n. 305/2013 Z. z. sull’esercizio delle funzioni delle autorità pubbliche in forma elettronica e sulla modifica e integrazione di alcune leggi (legge sull’e-Government) nella versione risultante da successive disposizioni)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/413057ac-f87d-4773-a780-23c6e72b4044",
+          "entry_into_force": "2024-11-01",
+          "notified": "2025-02-12",
+          "oj_date": "1964-03-05",
+          "title": "Zákon č. 40/1964 Zb. Občiansky zákonník v platnom znení (consolidated version as amended by zákon č. 254/2024 Z. z., ktorým sa mení a dopĺňa zákon č. 40/1964 Zb. Občiansky zákonník v znení neskorších predpisov)",
+          "title_it": "Legge n. 40/1964 Raccolta, Codice civile, nella versione vigente (versione consolidata modificata dalla legge n. 254/2024 Z. z., che modifica e integra la legge n. 40/1964 Raccolta Codice civile, come modificato da successive disposizioni)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/57329eee-ec9e-4f86-b51c-7756a5e14e10",
+          "entry_into_force": "2023-09-01",
+          "notified": "2025-02-12",
+          "oj_date": "2018-03-07",
+          "title": "Zákon č. 60/2018 Z. z. o technickej normalizácii v znení neskorších predpisov (consolidated version as amended by 297/2023 Z. z.)",
+          "title_it": "Legge n. 60/2018 Z. z. sulla normazione tecnica, come modificata da atti successivi (versione consolidata modificata dalla legge n. 297/2023 Z. z.)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/18b6a61a-f53b-4c7b-903e-c5f7ea2fcba9",
+          "entry_into_force": "2025-01-01",
+          "notified": "2025-02-12",
+          "oj_date": "2004-09-30",
+          "title": "Zákon č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (consolidated version as amended by 201/2024 Z. z.)",
+          "title_it": "Legge n. 523/2004 Z. z. sulle norme di bilancio della pubblica amministrazione e sulla modifica e integrazione di alcune leggi, come modificata da normative successive (versione consolidata modificata dalla legge n. 201/2024 Z. z.)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/7ef32599-ba39-4041-8c63-18e7177cc50e",
+          "entry_into_force": "2025-06-28",
+          "notified": "2025-02-12",
+          "oj_date": "2022-07-23",
+          "title": "Zákon č. 264/2022 Z. z. o mediálnych službách a o zmene a doplnení niektorých zákonov (zákon o mediálnych službách) v znení neskorších predpisov (consolidated version as amended by 203/2024 Z .z.)",
+          "title_it": "Legge n. 264/2022 Z. z. sui servizi mediatici e recante modifiche e integrazioni ad alcune leggi (legge sui servizi mediatici), come modificata da disposizioni successive (versione consolidata modificata dalla legge n. 203/2024 Z. z.)",
+          "url": null
+        },
+        {
+          "celex_uri": "http://publications.europa.eu/resource/cellar/c021809f-d84e-4aec-b8cd-124fa7094ee6",
+          "entry_into_force": "2024-07-24",
+          "notified": "2025-02-12",
+          "oj_date": "2021-12-02",
+          "title": "Zákon č. 452/2021 Z. z. o elektronických komunikáciách v znení neskorších predpisov (consolidated version as amended by zákon č. 366/2024 Z. z.)",
+          "title_it": "Legge n. 452/2021 Z. z. sulle comunicazioni elettroniche, come modificata da norme successive (versione consolidata modificata dalla legge n. 366/2024 Z. z.)",
+          "url": null
+        }
+      ],
+      "measures_since_directive": 9,
+      "name": "Slovacchia",
+      "status": "notified"
+    }
+  },
+  "directive": "Directive (EU) 2022/2555 (NIS2)",
+  "fetched_at": "2026-08-05T11:41:17Z",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "source_note": "Derived solely from national implementing measures notified to the European Commission. Absence of a completion declaration does not mean transposition is incomplete."
+}

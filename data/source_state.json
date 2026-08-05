@@ -1,0 +1,115 @@
+{
+  "https://ccb.belgium.be/": {
+    "checked": "2026-08-05",
+    "hash": "972b16d3d1d751fca91b5184e8064866718cbca7c4ef7f65a66637f52b568c76"
+  },
+  "https://cert.lv/lv/": {
+    "checked": "2026-08-05",
+    "hash": "e1ad937be79e8ca9424108428c256e16d5cb97d89f2f9c27255732429022b804"
+  },
+  "https://cert.pl/": {
+    "checked": "2026-08-05",
+    "hash": "66842705e30358be6c2cf877b22b2a979b436fa0a48fbd4dd5e3afca49fba585"
+  },
+  "https://csirt.gov.pl/": {
+    "checked": "2026-08-05",
+    "hash": "8aeea23ca602e6da2b8d9f980b3815ede063765ff736350bbd9bcb67ad2629a9"
+  },
+  "https://cyber.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/directive-nis-2/": {
+    "checked": "2026-08-05",
+    "hash": "f6d8b3686d3a1da82ec4255714abe8c55a55ce4d2dbd09510b42c85737c4c9a6"
+  },
+  "https://dsa.cy/": {
+    "checked": "2026-08-05",
+    "hash": "4dd21e854501f9516d3d399fbad5595f164c1f16202e6498f1ce26e416dcd63e"
+  },
+  "https://egov.government.bg/": {
+    "checked": "2026-08-05",
+    "hash": "f8235168b6ec3cd925cf081d1370ce4b1378f018ca7f5c2e42c9b5743ae2ce07"
+  },
+  "https://mdia.gov.mt/": {
+    "checked": "2026-08-05",
+    "hash": "d873d24bcab24abc6d0e97a24905797743740197953f0aedf9a3aad353ac4d8c"
+  },
+  "https://nbsz.gov.hu/": {
+    "checked": "2026-08-05",
+    "hash": "d9b5bbcd0aad1b1d9c5dfea91a681ad091abdd361bd58bb833af583384801704"
+  },
+  "https://nukib.gov.cz/": {
+    "checked": "2026-08-05",
+    "hash": "1b31de70b1318df0407a5935ebba1299b53108224f7e82614c5f746c39ad3b3e"
+  },
+  "https://samsik.dk/": {
+    "checked": "2026-08-05",
+    "hash": "939b58f5c7a83c63baad1f04e54ec4cd8875d89c860007578d00d15453128e2e"
+  },
+  "https://www.acn.gov.it/portale/nis": {
+    "checked": "2026-08-05",
+    "hash": "0aebf1a4f93a2f6763dc3619118ee0a369a75725ec8d1bebbdc7a1ae61bee57c"
+  },
+  "https://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/nis-2-regulierte-unternehmen_node.html": {
+    "checked": "2026-08-05",
+    "hash": "ffda329d238ffb9ed79df8a1b82edbcc074701278c6c34f09040ed6d8dff9276"
+  },
+  "https://www.cert.hr/": {
+    "checked": "2026-08-05",
+    "hash": "45c650de961172aec6d436e457a8fe18095e3747abe6b7f43af1f93fb975370c"
+  },
+  "https://www.cert.ssi.gouv.fr/feed/": {
+    "checked": "2026-08-05",
+    "hash": "876a8122fad4b9cdcf04602f249a0a3b7372975d288f8f26ba4f7e2c11de7880"
+  },
+  "https://www.cncs.gov.pt/": null,
+  "https://www.cyber.gov.gr/": {
+    "checked": "2026-08-05",
+    "hash": "2584f259c716787c304e8dc266aad702fc803024a9a1cc9cc805d2a4d939cd3e"
+  },
+  "https://www.dnsc.ro/": {
+    "checked": "2026-08-05",
+    "hash": "cf6667a7f1c14a0981c3298f41340fd1f01b1d7601f5a180e723b929b0aab762"
+  },
+  "https://www.gov.si/drzavni-organi/vladne-sluzbe/urad-vlade-za-informacijsko-varnost/": {
+    "checked": "2026-08-05",
+    "hash": "fe1ffe421eebb2b04c9b581c43ab9e697bd2b38f74ce00dde09fadcdfca32010"
+  },
+  "https://www.ilr.lu/": {
+    "checked": "2026-08-05",
+    "hash": "1462f5e5ef6bca5814fd6787c38c59ee2de0de1c48e415e188188fd56ff28271"
+  },
+  "https://www.incibe.es/": {
+    "checked": "2026-08-05",
+    "hash": "e4c2daa58d9f4c25bb7dda11a1d5f60bdcfd420925be693c12cca9bd520c6770"
+  },
+  "https://www.kyberturvallisuuskeskus.fi/fi": {
+    "checked": "2026-08-05",
+    "hash": "464af183f5e1f6cf94b3fb36423a1c43d6aa90b9828b70ce4783270a646e5ebb"
+  },
+  "https://www.nbu.gov.sk/": {
+    "checked": "2026-08-05",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "https://www.ncsc.gov.ie/nis2/": {
+    "checked": "2026-08-05",
+    "hash": "08a2935f94605773fc3fdb14fb3368bb0e346dd8e2522bdc4a45bbdaefc52a76"
+  },
+  "https://www.ncsc.nl/cyberbeveiligingswet-nis2": {
+    "checked": "2026-08-05",
+    "hash": "4be9c8e8a719825445941e2d19009aed11e11a4aea92620ac9819d5d4428f89e"
+  },
+  "https://www.ncsc.se/": {
+    "checked": "2026-08-05",
+    "hash": "935ef4deebe27c198596dab9e3ad224eaae43f16f11e47aed242ce9a8d491970"
+  },
+  "https://www.nis.gv.at/": {
+    "checked": "2026-08-05",
+    "hash": "57d439b1acf010bc1a840a32275ae52473463ae5401b9992ffed0a3db4d698c5"
+  },
+  "https://www.nksc.lt/": {
+    "checked": "2026-08-05",
+    "hash": "ae0b26c68939e8214056c2517af3b5091f1c674c8aef5f1e1fbab7804a78829b"
+  },
+  "https://www.ria.ee/": {
+    "checked": "2026-08-05",
+    "hash": "3e25121cd9acd2022358b5438d49dfcfe48e1657bb85376129769512f531e560"
+  }
+}

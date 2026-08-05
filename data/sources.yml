@@ -1,0 +1,137 @@
+# Fonti ufficiali delle autorità nazionali di cybersicurezza.
+
+at:
+  authority: "Bundesministerium für Inneres — NIS-Büro"
+  urls: [https://www.nis.gv.at/]
+  check: 200
+
+be:
+  authority: "CCB — Centre for Cybersecurity Belgium"
+  urls: [https://ccb.belgium.be/]
+  check: 403
+
+bg:
+  authority: "Ministerstvo na elektronnoto upravlenie"
+  urls: [https://egov.government.bg/]
+  check: 200
+
+hr:
+  authority: "CERT.hr / SOA"
+  urls: [https://www.cert.hr/]
+  check: 200
+
+cy:
+  authority: "Digital Security Authority"
+  urls: [https://dsa.cy/]
+  check: 200
+
+cz:
+  authority: "NÚKIB — Národní úřad pro kybernetickou a informační bezpečnost"
+  urls: [https://nukib.gov.cz/]
+  check: 200
+
+dk:
+  authority: "Samfundssikkerhedsstyrelsen (ex Center for Cybersikkerhed)"
+  urls: [https://samsik.dk/]
+  check: 200
+
+ee:
+  authority: "RIA — Riigi Infosüsteemi Amet"
+  urls: [https://www.ria.ee/]
+  check: 200
+
+fi:
+  authority: "Kyberturvallisuuskeskus (Traficom)"
+  urls: [https://www.kyberturvallisuuskeskus.fi/fi]
+  check: 200
+
+fr:
+  authority: "ANSSI"
+  urls: [https://cyber.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/directive-nis-2/]
+  feed: https://www.cert.ssi.gouv.fr/feed/
+  check: 200
+
+de:
+  authority: "BSI — Bundesamt für Sicherheit in der Informationstechnik"
+  urls: [https://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/nis-2-regulierte-unternehmen_node.html]
+  check: 200
+
+gr:
+  authority: "Εθνική Αρχή Κυβερνοασφάλειας"
+  urls: [https://www.cyber.gov.gr/]
+  check: 200
+
+hu:
+  authority: "NBSZ — Nemzetbiztonsági Szakszolgálat"
+  urls: [https://nbsz.gov.hu/]
+  check: 200
+
+ie:
+  authority: "NCSC Ireland"
+  urls: [https://www.ncsc.gov.ie/nis2/]
+  check: 200
+
+it:
+  authority: "ACN — Agenzia per la Cybersicurezza Nazionale"
+  urls: [https://www.acn.gov.it/portale/nis]
+  check: 200
+
+lv:
+  authority: "CERT.LV"
+  urls: [https://cert.lv/lv/]
+  check: 200
+
+lt:
+  authority: "NKSC — Nacionalinis kibernetinio saugumo centras"
+  urls: [https://www.nksc.lt/]
+  check: 403
+
+lu:
+  authority: "ILR — Institut Luxembourgeois de Régulation"
+  urls: [https://www.ilr.lu/]
+  check: 200
+
+mt:
+  authority: "MDIA — Malta Digital Innovation Authority"
+  urls: [https://mdia.gov.mt/]
+  check: 403
+
+nl:
+  authority: "NCSC-NL"
+  urls: [https://www.ncsc.nl/cyberbeveiligingswet-nis2]
+  check: 200
+
+pl:
+  authority: "CSIRT NASK / CERT Polska"
+  urls: [https://csirt.gov.pl/, https://cert.pl/]
+  check: 200
+
+pt:
+  authority: "CNCS — Centro Nacional de Cibersegurança"
+  urls: [https://www.cncs.gov.pt/]
+  check: 307
+
+ro:
+  authority: "DNSC — Directoratul Național de Securitate Cibernetică"
+  urls: [https://www.dnsc.ro/]
+  check: 403
+
+sk:
+  authority: "NBÚ — Národný bezpečnostný úrad"
+  urls: [https://www.nbu.gov.sk/]
+  check: 200
+
+si:
+  authority: "Urad Vlade za informacijsko varnost"
+  urls: [https://www.gov.si/drzavni-organi/vladne-sluzbe/urad-vlade-za-informacijsko-varnost/]
+  check: 200
+
+es:
+  authority: "INCIBE"
+  urls: [https://www.incibe.es/]
+  check: 503
+
+se:
+  authority: "NCSC — Nationellt cybersäkerhetscenter"
+  urls: [https://www.ncsc.se/]
+  check: 200
