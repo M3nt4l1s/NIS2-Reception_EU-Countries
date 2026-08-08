@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import html, json, re, sys
 import yaml
+from datetime import date
 
 def load_profiles():
     try:
@@ -16,11 +17,37 @@ def todo(v):
 
 START, END = "<!-- CARDS:START -->", "<!-- CARDS:END -->"
 
+
+DIRECTIVE_IN_FORCE = "2023-01-17"
+
+
+def _in_window(v, today):
+    """True se la data cade fra l'entrata in vigore della direttiva e oggi.
+    Scarta anche il sentinella '1001-01-01' che EUR-Lex usa per 'data ignota'."""
+    return bool(v) and DIRECTIVE_IN_FORCE <= str(v)[:10] <= today
+
+
+def is_transposed(c, today):
+    """Stato di trasposizione, derivato SOLO dai dati EUR-Lex: nessun campo
+    compilato a mano. Vero se lo Stato ha dichiarato completa la trasposizione,
+    oppure se almeno una misura notificata porta una data (entrata in vigore,
+    pubblicazione in gazzetta o notifica) successiva alla direttiva.
+
+    L'OR sui tre campi e' necessario: Italia e Portogallo hanno oj_date
+    sentinella ed entry_into_force assente, e si riconoscono solo dalla data di
+    notifica; Bulgaria, Estonia e Slovenia hanno notifiche del 2004-2020 perche'
+    sono leggi preesistenti emendate, e si riconoscono dall'entrata in vigore."""
+    if c.get("declared_complete"):
+        return True
+    return any(_in_window(m.get("entry_into_force"), today)
+               or _in_window(m.get("oj_date"), today)
+               or _in_window(m.get("notified"), today)
+               for m in c["measures"])
+
 STATUS_LABEL = {
-    "declared-complete": "Trasposizione dichiarata completa",
-    "notified": "Misure notificate",
-    "not-notified": "Nessuna misura dalla direttiva",
-    "non-eu": "Paese terzo - fuori dall'ambito NIS2",
+    "trasposta": "Trasposta",
+    "non-trasposta": "Non trasposta",
+    "fuori-ue": "Fuori dall'UE",
 }
 
 def flag(iso):
@@ -56,9 +83,15 @@ def card(c, prof, dflt):
     fw = p.get("framework") or {}
     desc = todo(p.get("description"))
 
-    # newest API-reported entry into force, used only if you haven't curated one
     api_eif = next((m["entry_into_force"] for m in reversed(c["measures"])
                     if m.get("entry_into_force")), None)
+
+    if p.get("non_eu"):
+        stato = "fuori-ue"
+    elif is_transposed(c, date.today().isoformat()):
+        stato = "trasposta"
+    else:
+        stato = "non-trasposta"
 
     metas = "".join([
         meta("Entrata in vigore", fmt(eif or api_eif) if (eif or api_eif) else None,
@@ -92,7 +125,7 @@ def card(c, prof, dflt):
     if not rows:
         rows = ['<li class="measure todo">%s</li>' % (
             "Paese terzo: nessuna misura di recepimento NIS2, per definizione."
-            if c["status"] == "non-eu" else
+            if stato == "fuori-ue" else
             "Nessuna misura notificata dall'entrata in vigore della direttiva.")]
 
     pre = c["measure_count"] - c["measures_since_directive"]
@@ -117,8 +150,8 @@ def card(c, prof, dflt):
           %s%s
         </div></div>
       </div>""" % (
-        c["iso"], c["status"], c["measures_since_directive"], c["last_notification"] or "",
-        flag(c["iso"]), e(c["name"]), c["status"], STATUS_LABEL[c["status"]],
+        c["iso"], stato, c["measures_since_directive"], c["last_notification"] or "",
+        flag(c["iso"]), e(c["name"]), stato, STATUS_LABEL[stato],
         desc_html, metas, basis_html, "".join(rows), pre_html, rev_html)
 
 def main():
@@ -134,17 +167,9 @@ def main():
                 "first_notification": None, "last_notification": None,
                 "measures": [],
             })
-    
+
     cards = "\n".join(card(c, profiles, defaults) for c in countries)
-    for iso, p in sorted(profiles.items()):
-        if (p or {}).get("non_eu"):
-            countries.append({
-                "iso": iso, "name": p.get("name_it", iso.upper()),
-                "status": "non-eu", "declared_complete": False,
-                "measure_count": 0, "measures_since_directive": 0,
-                "first_notification": None, "last_notification": None,
-                "measures": [],
-            })
+
     src = open("index.html", encoding="utf-8").read()
     if START not in src or END not in src:
         sys.exit("markers not found in index.html")

@@ -231,16 +231,28 @@ body {
     stroke-width: 1.2;
 }
 
-.eu-country.status-not-notified {
-    fill: var(--lvl-none);
+.eu-country.status-trasposta {
+    fill: #0ca30c;
 }
 
-.eu-country.status-notified {
-    fill: var(--lvl-notified);
+.eu-country.status-non-trasposta {
+    fill: #fab219;
 }
 
-.eu-country.status-declared-complete {
-    fill: var(--lvl-complete);
+.eu-country.status-fuori-ue {
+    fill: var(--grid);
+}
+
+.sw-trasposta {
+    background: #0ca30c;
+}
+
+.sw-non-trasposta {
+    background: #fab219;
+}
+
+.sw-fuori-ue {
+    background: var(--grid);
 }
 
 .eu-hit-target {

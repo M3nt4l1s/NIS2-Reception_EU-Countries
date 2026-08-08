@@ -13,6 +13,15 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!card) return;
         path.classList.add("status-" + card.dataset.status);
     });
+
+    const conta = s => cards.filter(c => c.dataset.status === s).length;
+    const scrivi = (id, n) => {
+        const el = document.getElementById(id);
+        if (el) el.textContent = String(n);
+    };
+    scrivi("stat-trasposte", conta("trasposta"));
+    scrivi("stat-non-trasposte", conta("non-trasposta"));
+    scrivi("stat-fuori-ue", conta("fuori-ue"));
    
     const hitsLayer = document.getElementById("eu-map-hits");
     mapSvg.querySelectorAll(".eu-country").forEach(path => {

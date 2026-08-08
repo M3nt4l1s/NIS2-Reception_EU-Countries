@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 
 ENDPOINT = "https://publications.europa.eu/webapi/rdf/sparql"
 CELEX = "32022L2555"
-DIRECTIVE_IN_FORCE = "2023-01-16"   # measures notified before this are pre-existing law
+DIRECTIVE_IN_FORCE = "2023-01-17"
 
 EU27 = {
     "AUT": ("at", "Austria"),     "BEL": ("be", "Belgio"),      "BGR": ("bg", "Bulgaria"),
@@ -84,7 +84,7 @@ def main():
     for b in rows:
         a3 = val(b, "country").rsplit("/", 1)[-1]
         if a3 not in EU27:
-            continue                      # non-EU27 or historic entries
+            continue                     
         c = countries[EU27[a3][0]]
         notified = day(val(b, "notif"))
         decl = val(b, "declaration")

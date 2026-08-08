@@ -2,192 +2,185 @@
 <html lang="it">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Stato di recepimento NIS2</title>
-    <link rel="stylesheet" href="css/styles.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stato di recepimento NIS2</title>
+  <link rel="stylesheet" href="css/styles.css?v=2">
 </head>
 
 <body>
 
-    <header class="hero">
-        <h1>Stato di recepimento NIS2</h1>
-        <p class="hero-sub">Direttiva (UE) 2022/2555 nei 27 Stati membri</p>
-        <p class="hero-meta">Dati EUR-Lex aggiornati al <span id="last-updated">2026-08-05</span></p>
-    </header>
+  <header class="hero">
+    <h1>Stato di recepimento NIS2</h1>
+    <p class="hero-sub">Direttiva (UE) 2022/2555 nei 27 Stati membri</p>
+    <p class="hero-meta">Dati EUR-Lex aggiornati al <span id="last-updated">2026-08-08</span></p>
+  </header>
 
-    <section class="stats">
-        <div class="stat"><span class="stat-num" id="stat-total">27</span><span class="stat-lbl">Stati membri</span>
-        </div>
-        <div class="stat"><span class="stat-num" id="stat-notified">—</span><span class="stat-lbl">Con misure
-                notificate</span></div>
-        <div class="stat"><span class="stat-num" id="stat-complete">—</span><span class="stat-lbl">Trasposizione
-                dichiarata completa</span></div>
-        <div class="stat"><span class="stat-num" id="stat-none">—</span><span class="stat-lbl">Nessuna misura dalla
-                direttiva</span></div>
-    </section>
+  <section class="stats">
+    <div class="stat"><span class="stat-num" id="stat-total">27</span><span class="stat-lbl">Stati membri</span>
+    </div>
+    <div class="stat"><span class="stat-num" id="stat-trasposte">—</span><span class="stat-lbl">Trasposta</span>
+    </div>
+    <div class="stat"><span class="stat-num" id="stat-non-trasposte">—</span><span class="stat-lbl">Non
+        trasposta</span></div>
+    <div class="stat"><span class="stat-num" id="stat-fuori-ue">—</span><span class="stat-lbl">Fuori
+        dall'UE</span></div>
+  </section>
 
-    <section class="layout">
-        <div class="map-card">
-            <div class="map-canvas">
-                <svg id="eu-map" viewBox="376 316 117 134" role="img" aria-label="Mappa degli Stati membri UE">
-                    <title>Stato di recepimento NIS2 per Stato membro</title>
-                    <g class="eu-map-countries">
-                        <path class="eu-country" data-iso="at"
-                            d="M430.46,403.459l-0.562,1.167l0.483,0.83l2.015-0.415h1.711l1.857,1.572l3.95-0.717l2.904-1.729l0.743-1.167l-0.112-1.504l-2.611-1.954l-3.501,0.035l-0.294,1.988l-3.683,1.797L430.46,403.459L430.46,403.459z">
-                            <title>Austria</title>
-                        </path>
-                        <path class="eu-country" data-iso="be"
-                            d="M414.019,391.704l-0.554,1.383l5.947,3.925l0.4,0.051l0.375-1.094l0.837-0.588l-1.336-1.499h-0.916l-1.255-1.426L414.019,391.704L414.019,391.704z">
-                            <title>Belgium</title>
-                        </path>
-                        <path class="eu-country" data-iso="bg"
-                            d="M457.092,414.066l0.139,4.305l1.452,3.025l5.454,0.095l2.455-1.737l2.412-0.959l-0.588-2.75l0.545-1.469l-1.228-0.641l-1.687,0.139l-1.323,1.332l-5.549,0.043L457.092,414.066L457.092,414.066z">
-                            <title>Bulgaria</title>
-                        </path>
-                        <path class="eu-country" data-iso="hr"
-                            d="M443.417,407.816l-3.051,2.515h-3.095l-0.372,2.178l1.418,0.372l0.709-1.055l1.114,0.977l0.891,3.112l6.109,2.853l0.605-0.691l-6.197-6.396l0.631-1.166l5.888-0.226l0.596-1.876l-3.838,0.111L443.417,407.816L443.417,407.816z">
-                            <title>Croatia</title>
-                        </path>
-                        <path class="eu-country" data-iso="cy"
-                            d="M484.555,437.794l1.062,0.771l-3.294,3.119l-1.573-0.052l-1.167-0.821l0.156-1.529l2.386-0.155L484.555,437.794L484.555,437.794z">
-                            <title>Cyprus</title>
-                        </path>
-                        <path class="eu-country" data-iso="cz"
-                            d="M437.202,398.921h2.567h1.263l2.049,1.461l3.795-3.155l-3.683-2.627l-3.648-1.765l-2.498,0.45l-3.389,2.178L437.202,398.921L437.202,398.921z">
-                            <title>Czech Republic</title>
-                        </path>
-                        <path class="eu-country" data-iso="dk"
-                            d="M427.123,370.076l-3.586,3.968l-0.13,2.584l1.635,4.263l2.559-0.484l-0.319-3.483l1.764-1.971l-0.034-1.548l-1.245-3.223L427.123,370.076L427.123,370.076z M428.979,377.354l-1.062,0.229v1.583l1.128,0.875l0.997-0.25l-0.243-1.503L428.979,377.354z M432.306,375.848l-0.949,0.23l-1.056,0.968l0.448,1.954l1.292,0.507l-1.334,0.535l-0.255,0.685h2.005l0.602-1.099l-0.768-0.378l0.25-0.962l0.916-1.205l-0.25-1.042L432.306,375.848z">
-                            <title>Denmark</title>
-                        </path>
-                        <path class="eu-country" data-iso="ee"
-                            d="M462.562,363.299l-4.84-0.173l-3.068,1.875l-0.043,1.392l1.987,1.875l6.182,1.047L462.562,363.299L462.562,363.299z M452.236,364.042l-1.308,0.44l1.308,0.226l0.595,0.69l0.711-0.852l-0.709-1.215L452.236,364.042z M452.792,365.792l-1.862,0.833l-0.643,1.111l0.643,0.722l2.362-0.875l1.137-0.752L452.792,365.792z">
-                            <title>Estonia</title>
-                        </path>
-                        <path class="eu-country" data-iso="fi"
-                            d="M453.072,340.202l1.79,0.786l1.104,2.074l-1.104,1.436l-5.55,6.068l-0.952,3.199l1.271,4.633l4.278,3.199l5.706-2.715l4.598-0.64l4.279-6.872l-3.173-7.512l-3.018-7.192l0.477-4.633l-1.901-0.32l-0.492-3.38l-2.559-4.175l-2.836,1.962l-1.114,4.556l-3.008-1.807l-4.185-1.021l-0.934,1.09l1.607,1.453l2.931-0.053l2.359,3.812L453.072,340.202L453.072,340.202z">
-                            <title>Finland</title>
-                        </path>
-                        <path class="eu-country" data-iso="fr"
-                            d="M412.973,393.588l-1.91,0.467l-3.82,4.158l-1.149,0.078l-1.53-1.081l-0.993,0.233l-0.762,2.386l-5.584,0.155l0.156,1.236l3.82,2.543l4.435,3.543l-0.077,4.236l-2.368,4.157l5.126,2.464l5.204,0.154l1.606-1.85l3.286,0.078l0.916,0.848l3.285-0.233l1.686-2.162l-2.145-2.541l-0.155-1.616l0.458-1.771l-1.071-1.539l-1.833,0.535l-0.232-1.383l4.054-4.469v-2.697l-2.348-0.767l-1.432-0.987L412.973,393.588L412.973,393.588z M276.163,517.285l5.058,3.154l-2.646,5.255l-0.959,1.21l-2.809-1.615l0.079-5.663L276.163,517.285L276.163,517.285z M540.023,586.93l-1.972,0.129l-0.129,1.722l1.313,0.269l1.972-0.925L540.023,586.93L540.023,586.93z M516.857,562.666l0.656,1.461h1.055l0.526-1.857L516.857,562.666L516.857,562.666z M258.823,489.822l-0.917,0.847l0.683,1.383l1.296-0.38L258.823,489.822L258.823,489.822z M428.039,418.016l-1.687,1.695l-0.154,1.538l1.374,0.847l0.536-0.076l0.303-2.24L428.039,418.016L428.039,418.016z M254.095,484.065l-1.296,0.535l0.458,1.149l1.521-0.994l-0.303-0.311L254.095,484.065L254.095,484.065z">
-                            <title>France</title>
-                        </path>
-                        <path class="eu-country" data-iso="de"
-                            d="M422.257,384.234l3.086-0.5v-2.178l2.584-0.425l1.418,1.427l1.495,0.164l2.334-1.012l2.083,0.588l1.832,1.592l0.251,5.955l1.832,2.438l-2.411,0.337l-4.003,2.515l0.338,0.839l3.579,3.354l-0.251,1.677l-3.328,1.677l-3.085,0.086l-0.753,1.59h-1.581l-0.752-1.676l-2.749-0.675l-0.088-2.767l-1.39-0.77l0.114-1.861l-0.406-1.328l-1.982-1.824l0.414-2.854l2.161-1.011L422.257,384.234L422.257,384.234z">
-                            <title>Germany</title>
-                        </path>
-                        <path class="eu-country" data-iso="gr"
-                            d="M453.004,427.213l-0.096,1.15l4.003,2.014l1.911,0.734l-1.003,1.055l-2.23,0.227l-0.319,1.01l0.771,1.738l2.498,1.33l1.09,0.096l0.138-2.981l1.635-1.972l-4.46-5.272l0.589-1.789l1.046-0.043l1.591,1.279l1.002-0.501l0.319-1.79l3.732,0.534l1.134-3.239l-1.953,1.375l-5.731-0.14l-3.726,1.929L453.004,427.213L453.004,427.213z M461.69,438.442l1.408,0.043l0.589,0.873h2.05l1.363-0.501l0.459,0.553l-0.907,1.192l-4.002,0.139l-0.728-0.959l-0.77-0.458L461.69,438.442L461.69,438.442z">
-                            <title>Greece</title>
-                        </path>
-                        <path class="eu-country" data-iso="hu"
-                            d="M444.386,403.01l-1.003,1.573l0.078,2.403l1.599,0.82l4.919,0.147l6.854-5.774l0.034-1.279l-0.742-0.371l-4.953,2.248L444.386,403.01L444.386,403.01z">
-                            <title>Hungary</title>
-                        </path>
-                        <path class="eu-country" data-iso="ie"
-                            d="M394.915,383.085l-0.786,5.187l-6.975,2.56h-2.223l-1.582-1.115v-0.96l3.492-2.238l-0.951-1.92l0.156-2.714l3.018,0.155l1.383-3.25l-0.183,2.887l2.344,1.858L394.915,383.085L394.915,383.085z">
-                            <title>Ireland</title>
-                        </path>
-                        <path class="eu-country" data-iso="it"
-                            d="M423.233,409.391l-0.535,1.356l0.146,1.478l2.065,2.412l3.25-0.113l7.175,8.334l4.479,1.297l2.646,2.498l0.631,5.695l1.417-0.828l1.229-3.104l-0.303-2.229l2.101-0.19l0.304-1.263l-5.922-2.834l-5.619-5.523l-2.238-3.303l-0.545-3.137l2.861-0.684l-0.734-2.066l-1.755-1.478l-1.513-0.069l-2.108,0.58l-1.99,2.781l-1.201,0.795l-1.858-1.141L423.233,409.391L423.233,409.391z M440.668,431.898l-1.253-0.674l-4.278,0.674l0.146,1.158l3.847,1.937l0.579,0.631l1.012,0.147L440.668,431.898L440.668,431.898z M427.806,423.566l-2.289,1.158l0.303,4.469l1.833,0.311l1.374-1.312v-4.235L427.806,423.566L427.806,423.566z">
-                            <title>Italy</title>
-                        </path>
-                        <path class="eu-country" data-iso="lv"
-                            d="M462.823,369.964l-6.362-1.037l-1.086,2.823l-1.833,0.548l-0.959-1.173l-0.962-1.811l-1.038,0.762l-0.589,3.132v1.708l2.242-0.375l4.665,0.083l5.617,1.044l2.249-0.657l-0.13-2.524L462.823,369.964L462.823,369.964z">
-                            <title>Latvia</title>
-                        </path>
-                        <path class="eu-country" data-iso="lt"
-                            d="M452.14,375.236l-2.146,0.363l0.173,2.025l3.355,0.25l1.27,1.042l0.333,1.81l1.034,1.443l3.069-0.13l2.938-3.743l-0.172-2.222l-5.533-0.867L452.14,375.236z">
-                            <title>Lithuania</title>
-                        </path>
-                        <path class="eu-country" data-iso="lu"
-                            d="M420.424,397.582l0.76,0.679l0.88,0.083l0.194-1.734l-0.253-0.974l-1.224,0.583L420.424,397.582z">
-                            <title>Luxembourg</title>
-                        </path>
-                        <path class="eu-country" data-iso="mt"
-                            d="M440.815,438.339l-1.443,0.294l0.052,1.6l1.297,0.433l0.579-0.484L440.815,438.339L440.815,438.339z">
-                            <title>Malta</title>
-                        </path>
-                        <path class="eu-country" data-iso="nl"
-                            d="M421.349,384.572l-3.915,1.928l0.829,0.752l0.088,1.928l-0.829-0.164l-0.917-1.426l-2.188,3.467l3.363,0.699l1.253,1.323l0.666,0.017l0.44-2.99l2.117-0.891L421.349,384.572L421.349,384.572z">
-                            <title>Netherlands</title>
-                        </path>
-                        <path class="eu-country" data-iso="pl"
-                            d="M457.109,390.184l0.733,1.348l0.174,1.435l-0.604,1.392l-1.383,2.664l-1.167,0.526l-1.514-0.657l-0.908,0.043l-2.204,0.83l-2.506-0.742l-4.062-2.879l-3.978-2.135l-1.6-2.438l-0.303-5.75l3.112-2.705l4.062-1.35l1.328-0.138l0.315,1.007l1.725,0.692l4.766,0.09l1.47-0.043l2.421,3.708l-0.604,1.521l0.259,1.789L457.109,390.184L457.109,390.184z">
-                            <title>Poland</title>
-                        </path>
-                        <path class="eu-country" data-iso="pt"
-                            d="M387.499,421.716l-0.536,7.478l-1.53,1.384l0.156,0.846l1.071,1.772l-0.691,2.16l1.149,0.39l2.68-0.312l-0.155-2.16l1.756-10.02l-0.382-1.383L387.499,421.716L387.499,421.716z M367.834,443.481l-0.934,1.185l0.934,1.185l1.408-0.709L367.834,443.481L367.834,443.481z M337.112,426.713l-1.175,1.184l2.107,1.185l0.234-1.649L337.112,426.713L337.112,426.713z M343.448,426.004l-1.408,0.941l1.175,0.941l1.876-0.476L343.448,426.004L343.448,426.004z M344.382,429.314l-0.7,1.892l0.935,1.185l1.175-0.941L344.382,429.314L344.382,429.314z M350.01,433.092l-0.467,1.184l0.701,0.709l1.875-1.184L350.01,433.092L350.01,433.092z">
-                            <title>Portugal</title>
-                        </path>
-                        <path class="eu-country" data-iso="ro"
-                            d="M457.731,401.281l-0.226,1.279l-5.005,4.166l4.184,6.137l2.682,1.877h4.823l1.591-1.331l2.135-0.276l1.591,0.959l2.818-3.207l-0.545-1.607l-2.861-0.734l-1.953-0.095l0.094-2.749l-2.593-4.08L457.731,401.281L457.731,401.281z">
-                            <title>Romania</title>
-                        </path>
-                        <path class="eu-country" data-iso="sk"
-                            d="M443.607,400.875l0.597,0.527l0.077,0.898l6.596-0.146l4.875-2.102l-0.077-2.135l-0.934,0.415l-1.34-0.718l-0.821-0.035l-2.161,0.865l-2.938-0.709L443.607,400.875L443.607,400.875z">
-                            <title>Slovakia</title>
-                        </path>
-                        <path class="eu-country" data-iso="si"
-                            d="M442.708,405.076l-2.195,1.314l-4.097,0.898l0.82,2.368l2.87,0.034l2.646-2.213L442.708,405.076L442.708,405.076z">
-                            <title>Slovenia</title>
-                        </path>
-                        <path class="eu-country" data-iso="es"
-                            d="M402.565,416.322h-11.014l-2.222-1.004l-1.071,0.078l-1.297,2.696l0.458,2.775l4.21,0.389l0.536,1.771l-1.833,10.33l0.078,1.851l2.981,1.617l3.439,0.232l6.881-1.694l3.363-4.233l0.077-4.313l5.965-5.395l0.302-2.386l-5.428-0.078L402.565,416.322L402.565,416.322z M374.265,458.444l-1.513,0.873l0.7,0.709L374.265,458.444L374.265,458.444z M369.009,458.608l-1.875,0.476l0.935,1.418h1.407L369.009,458.608L369.009,458.608z M364.549,457.191l-1.176,1.184l1.643,1.418l0.935-2.126L364.549,457.191L364.549,457.191z M413.578,426.877l-1.375,0.467l0.304,1.235h1.988l0.839-0.925L413.578,426.877L413.578,426.877z">
-                            <title>Spain</title>
-                        </path>
-                        <path class="eu-country" data-iso="se"
-                            d="M445.232,329.52l1.693,1.563h3.173l1.746,3.354l0.477,5.748l-4.278,3.035v3.033l-3.017,4.158l-1.746,0.154l-2.378,3.994l0.155,3.838l4.124,3.035l-0.319,1.754l-1.582,2.396l-2.377,2.074l0.155,6.872l-3.647,1.279l-1.271,2.713h-1.747l-0.949-4.789l-3.969-6.084l3.26-5.455l0.225-13.477l2.248-1.236l0.545-7.709l6.405-9.172L445.232,329.52L445.232,329.52z M445.898,368.927l-1.824,1.443l0.917,2.118l1.616-1.573L445.898,368.927L445.898,368.927z">
-                            <title>Sweden</title>
-                        </path>
-                        <path class="eu-country" data-iso="ch"
-                            d="M423.787,402.82l-3.771,4.011l0.078,0.405l1.547-0.483l1.393,1.937l2.352-0.83l1.625,1.263l0.667-0.38l2.005-3.146l-0.511-0.484l-1.979-0.051l-0.959-1.963L423.787,402.82L423.787,402.82z">
-                            <title>Svizzera</title>
-                        </path>
-                    </g>
-                    <g id="eu-map-markers"></g>
-                    <g id="eu-map-hits"></g>
-                </svg>
-            </div>
-        </div>
-
-        <aside class="side">
-            <div class="legend">
-                <h2>Legenda</h2>
-                <p class="legend-row"><span class="sw sw-complete"></span> ✓ Trasposizione dichiarata completa</p>
-                <p class="legend-row"><span class="sw sw-notified"></span> ● Misure notificate</p>
-                <p class="legend-row"><span class="sw sw-none"></span> ! Nessuna misura dalla direttiva</p>
-            </div>
-            <div class="provenance">
-                <h2>Provenienza dei dati</h2>
-                <p><span class="dot verified"></span> Verificato — misure notificate alla Commissione (EUR-Lex/CELLAR).
-                </p>
-                <p><span class="dot curated"></span> Analisi propria — scadenze, framework e obblighi, con fonte per
-                    campo.</p>
-                <p class="caveat">L'assenza di una dichiarazione di trasposizione completa <strong>non</strong>
-                    significa che il recepimento sia incompleto: il campo è compilato di rado.</p>
-            </div>
-        </aside>
-    </section>
-
-    <div class="country-modal-backdrop" id="country-modal-backdrop" hidden>
-        <div class="country-modal" role="dialog" aria-modal="true" aria-label="Dettaglio paese">
-            <button class="modal-close" id="country-modal-close" aria-label="Chiudi">×</button>
-            <div id="country-modal-content"></div>
-        </div>
+  <section class="layout">
+    <div class="map-card">
+      <div class="map-canvas">
+        <svg id="eu-map" viewBox="376 316 117 134" role="img" aria-label="Mappa degli Stati membri UE">
+          <title>Stato di recepimento NIS2 per Stato membro</title>
+          <g class="eu-map-countries">
+            <path class="eu-country" data-iso="at"
+              d="M430.46,403.459l-0.562,1.167l0.483,0.83l2.015-0.415h1.711l1.857,1.572l3.95-0.717l2.904-1.729l0.743-1.167l-0.112-1.504l-2.611-1.954l-3.501,0.035l-0.294,1.988l-3.683,1.797L430.46,403.459L430.46,403.459z">
+              <title>Austria</title>
+            </path>
+            <path class="eu-country" data-iso="be"
+              d="M414.019,391.704l-0.554,1.383l5.947,3.925l0.4,0.051l0.375-1.094l0.837-0.588l-1.336-1.499h-0.916l-1.255-1.426L414.019,391.704L414.019,391.704z">
+              <title>Belgium</title>
+            </path>
+            <path class="eu-country" data-iso="bg"
+              d="M457.092,414.066l0.139,4.305l1.452,3.025l5.454,0.095l2.455-1.737l2.412-0.959l-0.588-2.75l0.545-1.469l-1.228-0.641l-1.687,0.139l-1.323,1.332l-5.549,0.043L457.092,414.066L457.092,414.066z">
+              <title>Bulgaria</title>
+            </path>
+            <path class="eu-country" data-iso="hr"
+              d="M443.417,407.816l-3.051,2.515h-3.095l-0.372,2.178l1.418,0.372l0.709-1.055l1.114,0.977l0.891,3.112l6.109,2.853l0.605-0.691l-6.197-6.396l0.631-1.166l5.888-0.226l0.596-1.876l-3.838,0.111L443.417,407.816L443.417,407.816z">
+              <title>Croatia</title>
+            </path>
+            <path class="eu-country" data-iso="cy"
+              d="M484.555,437.794l1.062,0.771l-3.294,3.119l-1.573-0.052l-1.167-0.821l0.156-1.529l2.386-0.155L484.555,437.794L484.555,437.794z">
+              <title>Cyprus</title>
+            </path>
+            <path class="eu-country" data-iso="cz"
+              d="M437.202,398.921h2.567h1.263l2.049,1.461l3.795-3.155l-3.683-2.627l-3.648-1.765l-2.498,0.45l-3.389,2.178L437.202,398.921L437.202,398.921z">
+              <title>Czech Republic</title>
+            </path>
+            <path class="eu-country" data-iso="dk"
+              d="M427.123,370.076l-3.586,3.968l-0.13,2.584l1.635,4.263l2.559-0.484l-0.319-3.483l1.764-1.971l-0.034-1.548l-1.245-3.223L427.123,370.076L427.123,370.076z M428.979,377.354l-1.062,0.229v1.583l1.128,0.875l0.997-0.25l-0.243-1.503L428.979,377.354z M432.306,375.848l-0.949,0.23l-1.056,0.968l0.448,1.954l1.292,0.507l-1.334,0.535l-0.255,0.685h2.005l0.602-1.099l-0.768-0.378l0.25-0.962l0.916-1.205l-0.25-1.042L432.306,375.848z">
+              <title>Denmark</title>
+            </path>
+            <path class="eu-country" data-iso="ee"
+              d="M462.562,363.299l-4.84-0.173l-3.068,1.875l-0.043,1.392l1.987,1.875l6.182,1.047L462.562,363.299L462.562,363.299z M452.236,364.042l-1.308,0.44l1.308,0.226l0.595,0.69l0.711-0.852l-0.709-1.215L452.236,364.042z M452.792,365.792l-1.862,0.833l-0.643,1.111l0.643,0.722l2.362-0.875l1.137-0.752L452.792,365.792z">
+              <title>Estonia</title>
+            </path>
+            <path class="eu-country" data-iso="fi"
+              d="M453.072,340.202l1.79,0.786l1.104,2.074l-1.104,1.436l-5.55,6.068l-0.952,3.199l1.271,4.633l4.278,3.199l5.706-2.715l4.598-0.64l4.279-6.872l-3.173-7.512l-3.018-7.192l0.477-4.633l-1.901-0.32l-0.492-3.38l-2.559-4.175l-2.836,1.962l-1.114,4.556l-3.008-1.807l-4.185-1.021l-0.934,1.09l1.607,1.453l2.931-0.053l2.359,3.812L453.072,340.202L453.072,340.202z">
+              <title>Finland</title>
+            </path>
+            <path class="eu-country" data-iso="fr"
+              d="M412.973,393.588l-1.91,0.467l-3.82,4.158l-1.149,0.078l-1.53-1.081l-0.993,0.233l-0.762,2.386l-5.584,0.155l0.156,1.236l3.82,2.543l4.435,3.543l-0.077,4.236l-2.368,4.157l5.126,2.464l5.204,0.154l1.606-1.85l3.286,0.078l0.916,0.848l3.285-0.233l1.686-2.162l-2.145-2.541l-0.155-1.616l0.458-1.771l-1.071-1.539l-1.833,0.535l-0.232-1.383l4.054-4.469v-2.697l-2.348-0.767l-1.432-0.987L412.973,393.588L412.973,393.588z M276.163,517.285l5.058,3.154l-2.646,5.255l-0.959,1.21l-2.809-1.615l0.079-5.663L276.163,517.285L276.163,517.285z M540.023,586.93l-1.972,0.129l-0.129,1.722l1.313,0.269l1.972-0.925L540.023,586.93L540.023,586.93z M516.857,562.666l0.656,1.461h1.055l0.526-1.857L516.857,562.666L516.857,562.666z M258.823,489.822l-0.917,0.847l0.683,1.383l1.296-0.38L258.823,489.822L258.823,489.822z M428.039,418.016l-1.687,1.695l-0.154,1.538l1.374,0.847l0.536-0.076l0.303-2.24L428.039,418.016L428.039,418.016z M254.095,484.065l-1.296,0.535l0.458,1.149l1.521-0.994l-0.303-0.311L254.095,484.065L254.095,484.065z">
+              <title>France</title>
+            </path>
+            <path class="eu-country" data-iso="de"
+              d="M422.257,384.234l3.086-0.5v-2.178l2.584-0.425l1.418,1.427l1.495,0.164l2.334-1.012l2.083,0.588l1.832,1.592l0.251,5.955l1.832,2.438l-2.411,0.337l-4.003,2.515l0.338,0.839l3.579,3.354l-0.251,1.677l-3.328,1.677l-3.085,0.086l-0.753,1.59h-1.581l-0.752-1.676l-2.749-0.675l-0.088-2.767l-1.39-0.77l0.114-1.861l-0.406-1.328l-1.982-1.824l0.414-2.854l2.161-1.011L422.257,384.234L422.257,384.234z">
+              <title>Germany</title>
+            </path>
+            <path class="eu-country" data-iso="gr"
+              d="M453.004,427.213l-0.096,1.15l4.003,2.014l1.911,0.734l-1.003,1.055l-2.23,0.227l-0.319,1.01l0.771,1.738l2.498,1.33l1.09,0.096l0.138-2.981l1.635-1.972l-4.46-5.272l0.589-1.789l1.046-0.043l1.591,1.279l1.002-0.501l0.319-1.79l3.732,0.534l1.134-3.239l-1.953,1.375l-5.731-0.14l-3.726,1.929L453.004,427.213L453.004,427.213z M461.69,438.442l1.408,0.043l0.589,0.873h2.05l1.363-0.501l0.459,0.553l-0.907,1.192l-4.002,0.139l-0.728-0.959l-0.77-0.458L461.69,438.442L461.69,438.442z">
+              <title>Greece</title>
+            </path>
+            <path class="eu-country" data-iso="hu"
+              d="M444.386,403.01l-1.003,1.573l0.078,2.403l1.599,0.82l4.919,0.147l6.854-5.774l0.034-1.279l-0.742-0.371l-4.953,2.248L444.386,403.01L444.386,403.01z">
+              <title>Hungary</title>
+            </path>
+            <path class="eu-country" data-iso="ie"
+              d="M394.915,383.085l-0.786,5.187l-6.975,2.56h-2.223l-1.582-1.115v-0.96l3.492-2.238l-0.951-1.92l0.156-2.714l3.018,0.155l1.383-3.25l-0.183,2.887l2.344,1.858L394.915,383.085L394.915,383.085z">
+              <title>Ireland</title>
+            </path>
+            <path class="eu-country" data-iso="it"
+              d="M423.233,409.391l-0.535,1.356l0.146,1.478l2.065,2.412l3.25-0.113l7.175,8.334l4.479,1.297l2.646,2.498l0.631,5.695l1.417-0.828l1.229-3.104l-0.303-2.229l2.101-0.19l0.304-1.263l-5.922-2.834l-5.619-5.523l-2.238-3.303l-0.545-3.137l2.861-0.684l-0.734-2.066l-1.755-1.478l-1.513-0.069l-2.108,0.58l-1.99,2.781l-1.201,0.795l-1.858-1.141L423.233,409.391L423.233,409.391z M440.668,431.898l-1.253-0.674l-4.278,0.674l0.146,1.158l3.847,1.937l0.579,0.631l1.012,0.147L440.668,431.898L440.668,431.898z M427.806,423.566l-2.289,1.158l0.303,4.469l1.833,0.311l1.374-1.312v-4.235L427.806,423.566L427.806,423.566z">
+              <title>Italy</title>
+            </path>
+            <path class="eu-country" data-iso="lv"
+              d="M462.823,369.964l-6.362-1.037l-1.086,2.823l-1.833,0.548l-0.959-1.173l-0.962-1.811l-1.038,0.762l-0.589,3.132v1.708l2.242-0.375l4.665,0.083l5.617,1.044l2.249-0.657l-0.13-2.524L462.823,369.964L462.823,369.964z">
+              <title>Latvia</title>
+            </path>
+            <path class="eu-country" data-iso="lt"
+              d="M452.14,375.236l-2.146,0.363l0.173,2.025l3.355,0.25l1.27,1.042l0.333,1.81l1.034,1.443l3.069-0.13l2.938-3.743l-0.172-2.222l-5.533-0.867L452.14,375.236z">
+              <title>Lithuania</title>
+            </path>
+            <path class="eu-country" data-iso="lu"
+              d="M420.424,397.582l0.76,0.679l0.88,0.083l0.194-1.734l-0.253-0.974l-1.224,0.583L420.424,397.582z">
+              <title>Luxembourg</title>
+            </path>
+            <path class="eu-country" data-iso="mt"
+              d="M440.815,438.339l-1.443,0.294l0.052,1.6l1.297,0.433l0.579-0.484L440.815,438.339L440.815,438.339z">
+              <title>Malta</title>
+            </path>
+            <path class="eu-country" data-iso="nl"
+              d="M421.349,384.572l-3.915,1.928l0.829,0.752l0.088,1.928l-0.829-0.164l-0.917-1.426l-2.188,3.467l3.363,0.699l1.253,1.323l0.666,0.017l0.44-2.99l2.117-0.891L421.349,384.572L421.349,384.572z">
+              <title>Netherlands</title>
+            </path>
+            <path class="eu-country" data-iso="pl"
+              d="M457.109,390.184l0.733,1.348l0.174,1.435l-0.604,1.392l-1.383,2.664l-1.167,0.526l-1.514-0.657l-0.908,0.043l-2.204,0.83l-2.506-0.742l-4.062-2.879l-3.978-2.135l-1.6-2.438l-0.303-5.75l3.112-2.705l4.062-1.35l1.328-0.138l0.315,1.007l1.725,0.692l4.766,0.09l1.47-0.043l2.421,3.708l-0.604,1.521l0.259,1.789L457.109,390.184L457.109,390.184z">
+              <title>Poland</title>
+            </path>
+            <path class="eu-country" data-iso="pt"
+              d="M387.499,421.716l-0.536,7.478l-1.53,1.384l0.156,0.846l1.071,1.772l-0.691,2.16l1.149,0.39l2.68-0.312l-0.155-2.16l1.756-10.02l-0.382-1.383L387.499,421.716L387.499,421.716z M367.834,443.481l-0.934,1.185l0.934,1.185l1.408-0.709L367.834,443.481L367.834,443.481z M337.112,426.713l-1.175,1.184l2.107,1.185l0.234-1.649L337.112,426.713L337.112,426.713z M343.448,426.004l-1.408,0.941l1.175,0.941l1.876-0.476L343.448,426.004L343.448,426.004z M344.382,429.314l-0.7,1.892l0.935,1.185l1.175-0.941L344.382,429.314L344.382,429.314z M350.01,433.092l-0.467,1.184l0.701,0.709l1.875-1.184L350.01,433.092L350.01,433.092z">
+              <title>Portugal</title>
+            </path>
+            <path class="eu-country" data-iso="ro"
+              d="M457.731,401.281l-0.226,1.279l-5.005,4.166l4.184,6.137l2.682,1.877h4.823l1.591-1.331l2.135-0.276l1.591,0.959l2.818-3.207l-0.545-1.607l-2.861-0.734l-1.953-0.095l0.094-2.749l-2.593-4.08L457.731,401.281L457.731,401.281z">
+              <title>Romania</title>
+            </path>
+            <path class="eu-country" data-iso="sk"
+              d="M443.607,400.875l0.597,0.527l0.077,0.898l6.596-0.146l4.875-2.102l-0.077-2.135l-0.934,0.415l-1.34-0.718l-0.821-0.035l-2.161,0.865l-2.938-0.709L443.607,400.875L443.607,400.875z">
+              <title>Slovakia</title>
+            </path>
+            <path class="eu-country" data-iso="si"
+              d="M442.708,405.076l-2.195,1.314l-4.097,0.898l0.82,2.368l2.87,0.034l2.646-2.213L442.708,405.076L442.708,405.076z">
+              <title>Slovenia</title>
+            </path>
+            <path class="eu-country" data-iso="es"
+              d="M402.565,416.322h-11.014l-2.222-1.004l-1.071,0.078l-1.297,2.696l0.458,2.775l4.21,0.389l0.536,1.771l-1.833,10.33l0.078,1.851l2.981,1.617l3.439,0.232l6.881-1.694l3.363-4.233l0.077-4.313l5.965-5.395l0.302-2.386l-5.428-0.078L402.565,416.322L402.565,416.322z M374.265,458.444l-1.513,0.873l0.7,0.709L374.265,458.444L374.265,458.444z M369.009,458.608l-1.875,0.476l0.935,1.418h1.407L369.009,458.608L369.009,458.608z M364.549,457.191l-1.176,1.184l1.643,1.418l0.935-2.126L364.549,457.191L364.549,457.191z M413.578,426.877l-1.375,0.467l0.304,1.235h1.988l0.839-0.925L413.578,426.877L413.578,426.877z">
+              <title>Spain</title>
+            </path>
+            <path class="eu-country" data-iso="se"
+              d="M445.232,329.52l1.693,1.563h3.173l1.746,3.354l0.477,5.748l-4.278,3.035v3.033l-3.017,4.158l-1.746,0.154l-2.378,3.994l0.155,3.838l4.124,3.035l-0.319,1.754l-1.582,2.396l-2.377,2.074l0.155,6.872l-3.647,1.279l-1.271,2.713h-1.747l-0.949-4.789l-3.969-6.084l3.26-5.455l0.225-13.477l2.248-1.236l0.545-7.709l6.405-9.172L445.232,329.52L445.232,329.52z M445.898,368.927l-1.824,1.443l0.917,2.118l1.616-1.573L445.898,368.927L445.898,368.927z">
+              <title>Sweden</title>
+            </path>
+            <path class="eu-country" data-iso="ch"
+              d="M423.787,402.82l-3.771,4.011l0.078,0.405l1.547-0.483l1.393,1.937l2.352-0.83l1.625,1.263l0.667-0.38l2.005-3.146l-0.511-0.484l-1.979-0.051l-0.959-1.963L423.787,402.82L423.787,402.82z">
+              <title>Svizzera</title>
+            </path>
+          </g>
+          <g id="eu-map-markers"></g>
+          <g id="eu-map-hits"></g>
+        </svg>
+      </div>
     </div>
 
-    <div class="country-popup" id="country-popup" hidden></div>
+    <aside class="side">
+      <div class="legend">
+        <h2>Legenda</h2>
+        <p class="legend-row"><span class="sw sw-trasposta"></span> ✓ Trasposta</p>
+        <p class="legend-row"><span class="sw sw-non-trasposta"></span> ● Non trasposta</p>
+        <p class="legend-row"><span class="sw sw-fuori-ue"></span> ◇ Fuori dall'UE</p>
+        <p class="caveat">Lo stato di trasposizione della Direttiva Europea nei 27 stati membri è derivato automaticamente dai dati <strong> EUR-Lex/CELLAR </strong>: la Direttiva risulta «Trasposta» se è avvenuta dichiarazione di completa trasposizione
+          alla Commissione Europea successiva al 16.01.2023, giorno precedente all'entrata in vigore della direttiva a livello comunitario.</p>
+      </div>
+    </aside>
+  </section>
 
-    <div id="country-grid">
-        <!-- CARDS:START -->
-      <div class="country-card" data-iso="at" data-status="notified"
+  <div class="country-modal-backdrop" id="country-modal-backdrop" hidden>
+    <div class="country-modal" role="dialog" aria-modal="true" aria-label="Dettaglio paese">
+      <button class="modal-close" id="country-modal-close" aria-label="Chiudi">×</button>
+      <div id="country-modal-content"></div>
+    </div>
+  </div>
+
+  <div class="country-popup" id="country-popup" hidden></div>
+
+  <div id="country-grid">
+    <!-- CARDS:START -->
+      <div class="country-card" data-iso="at" data-status="trasposta"
            data-measures="3" data-date="2025-12-23">
         <div class="card-header">
           <span class="country-flag">🇦🇹</span>
           <div class="country-info"><span class="country-name">Austria</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">29.12.2018</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -197,12 +190,12 @@
           <p class="pre-existing">Altre 5 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="be" data-status="notified"
+      <div class="country-card" data-iso="be" data-status="trasposta"
            data-measures="2" data-date="2024-10-04">
         <div class="card-header">
           <span class="country-flag">🇧🇪</span>
           <div class="country-info"><span class="country-name">Belgio</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">18.10.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -212,12 +205,12 @@
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="bg" data-status="not-notified"
+      <div class="country-card" data-iso="bg" data-status="trasposta"
            data-measures="0" data-date="2004-02-18">
         <div class="card-header">
           <span class="country-flag">🇧🇬</span>
           <div class="country-info"><span class="country-name">Bulgaria</span></div>
-          <span class="status-badge not-notified">Nessuna misura dalla direttiva</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">02.02.2026</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -227,12 +220,12 @@
           <p class="pre-existing">Altre 1 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="cz" data-status="notified"
+      <div class="country-card" data-iso="cz" data-status="trasposta"
            data-measures="13" data-date="2025-10-29">
         <div class="card-header">
           <span class="country-flag">🇨🇿</span>
           <div class="country-info"><span class="country-name">Cechia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -242,12 +235,12 @@
           <p class="pre-existing">Altre 70 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="cy" data-status="notified"
+      <div class="country-card" data-iso="cy" data-status="trasposta"
            data-measures="1" data-date="2025-05-05">
         <div class="card-header">
           <span class="country-flag">🇨🇾</span>
           <div class="country-info"><span class="country-name">Cipro</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">25.04.2025</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -257,12 +250,12 @@
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="hr" data-status="notified"
+      <div class="country-card" data-iso="hr" data-status="trasposta"
            data-measures="2" data-date="2024-11-22">
         <div class="card-header">
           <span class="country-flag">🇭🇷</span>
           <div class="country-info"><span class="country-name">Croazia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">30.11.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -272,12 +265,12 @@
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="dk" data-status="notified"
+      <div class="country-card" data-iso="dk" data-status="trasposta"
            data-measures="4" data-date="2025-07-04">
         <div class="card-header">
           <span class="country-flag">🇩🇰</span>
           <div class="country-info"><span class="country-name">Danimarca</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">07.03.2025</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -287,12 +280,12 @@
           <p class="pre-existing">Altre 6 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="ee" data-status="not-notified"
+      <div class="country-card" data-iso="ee" data-status="trasposta"
            data-measures="0" data-date="2020-04-08">
         <div class="card-header">
           <span class="country-flag">🇪🇪</span>
           <div class="country-info"><span class="country-name">Estonia</span></div>
-          <span class="status-badge not-notified">Nessuna misura dalla direttiva</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">03.04.2026</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -302,12 +295,12 @@
           <p class="pre-existing">Altre 28 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="fi" data-status="notified"
+      <div class="country-card" data-iso="fi" data-status="trasposta"
            data-measures="13" data-date="2026-06-10">
         <div class="card-header">
           <span class="country-flag">🇫🇮</span>
           <div class="country-info"><span class="country-name">Finlandia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">01.09.2025</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -317,12 +310,12 @@
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="fr" data-status="notified"
+      <div class="country-card" data-iso="fr" data-status="trasposta"
            data-measures="15" data-date="2026-07-19">
         <div class="card-header">
           <span class="country-flag">🇫🇷</span>
           <div class="country-info"><span class="country-name">Francia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -332,12 +325,12 @@
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="de" data-status="notified"
+      <div class="country-card" data-iso="de" data-status="trasposta"
            data-measures="20" data-date="2026-06-04">
         <div class="card-header">
           <span class="country-flag">🇩🇪</span>
           <div class="country-info"><span class="country-name">Germania</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">08.05.2026</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -357,12 +350,12 @@ für Mecklenburg-Vorpommern</span> </li></ul>
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="gr" data-status="declared-complete"
+      <div class="country-card" data-iso="gr" data-status="trasposta"
            data-measures="1" data-date="2025-08-09">
         <div class="card-header">
           <span class="country-flag">🇬🇷</span>
           <div class="country-info"><span class="country-name">Grecia</span></div>
-          <span class="status-badge declared-complete">Trasposizione dichiarata completa</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">15.01.2026</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -386,12 +379,12 @@ NIS 2) e altre disposizioni.</span><span class="m-orig">Ενσωμάτωση τ�
           <p class="pre-existing">Altre 2 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="ie" data-status="not-notified"
+      <div class="country-card" data-iso="ie" data-status="non-trasposta"
            data-measures="0" data-date="">
         <div class="card-header">
           <span class="country-flag">🇮🇪</span>
           <div class="country-info"><span class="country-name">Irlanda</span></div>
-          <span class="status-badge not-notified">Nessuna misura dalla direttiva</span>
+          <span class="status-badge non-trasposta">Non ancora trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -401,12 +394,12 @@ NIS 2) e altre disposizioni.</span><span class="m-orig">Ενσωμάτωση τ�
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="it" data-status="notified"
+      <div class="country-card" data-iso="it" data-status="trasposta"
            data-measures="1" data-date="2024-10-11">
         <div class="card-header">
           <span class="country-flag">🇮🇹</span>
           <div class="country-info"><span class="country-name">Italia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">Il D.lgs. 138/2024 recepisce la direttiva NIS2 in Italia.<br>L&#x27;Agenzia per la Cybersicurezza Nazionale (ACN) è l&#x27;autorità competente.<br>TODO: completare con analisi propria e fonti ufficiali.<br></p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value curated">16.10.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -418,12 +411,12 @@ Notifica provvediemento di attuazione.</span> </li></ul>
           <p class="reviewed">Analisi verificata il 2026-08-05</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="lv" data-status="notified"
+      <div class="country-card" data-iso="lv" data-status="trasposta"
            data-measures="1" data-date="2024-10-11">
         <div class="card-header">
           <span class="country-flag">🇱🇻</span>
           <div class="country-info"><span class="country-name">Lettonia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">01.09.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -433,12 +426,12 @@ Notifica provvediemento di attuazione.</span> </li></ul>
           <p class="pre-existing">Altre 1 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="lt" data-status="notified"
+      <div class="country-card" data-iso="lt" data-status="trasposta"
            data-measures="8" data-date="2026-02-13">
         <div class="card-header">
           <span class="country-flag">🇱🇹</span>
           <div class="country-info"><span class="country-name">Lituania</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">18.10.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -448,12 +441,12 @@ Notifica provvediemento di attuazione.</span> </li></ul>
           <p class="pre-existing">Altre 14 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="lu" data-status="notified"
+      <div class="country-card" data-iso="lu" data-status="trasposta"
            data-measures="1" data-date="2026-05-06">
         <div class="card-header">
           <span class="country-flag">🇱🇺</span>
           <div class="country-info"><span class="country-name">Lussemburgo</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">10.05.2026</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -475,12 +468,12 @@ la loi du 17 décembre 2021 sur les réseaux et les services de communications �
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="mt" data-status="not-notified"
+      <div class="country-card" data-iso="mt" data-status="non-trasposta"
            data-measures="0" data-date="2004-01-19">
         <div class="card-header">
           <span class="country-flag">🇲🇹</span>
           <div class="country-info"><span class="country-name">Malta</span></div>
-          <span class="status-badge not-notified">Nessuna misura dalla direttiva</span>
+          <span class="status-badge non-trasposta">Non ancora trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">05.07.2019</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -490,12 +483,12 @@ la loi du 17 décembre 2021 sur les réseaux et les services de communications �
           <p class="pre-existing">Altre 1 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="nl" data-status="notified"
+      <div class="country-card" data-iso="nl" data-status="trasposta"
            data-measures="3" data-date="2026-07-16">
         <div class="card-header">
           <span class="country-flag">🇳🇱</span>
           <div class="country-info"><span class="country-name">Paesi Bassi</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">16.07.2026</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -505,12 +498,12 @@ la loi du 17 décembre 2021 sur les réseaux et les services de communications �
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="pl" data-status="notified"
+      <div class="country-card" data-iso="pl" data-status="trasposta"
            data-measures="7" data-date="2026-03-24">
         <div class="card-header">
           <span class="country-flag">🇵🇱</span>
           <div class="country-info"><span class="country-name">Polonia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">10.11.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -520,12 +513,12 @@ la loi du 17 décembre 2021 sur les réseaux et les services de communications �
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="pt" data-status="notified"
+      <div class="country-card" data-iso="pt" data-status="trasposta"
            data-measures="2" data-date="2026-06-22">
         <div class="card-header">
           <span class="country-flag">🇵🇹</span>
           <div class="country-info"><span class="country-name">Portogallo</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -535,12 +528,12 @@ la loi du 17 décembre 2021 sur les réseaux et les services de communications �
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="ro" data-status="notified"
+      <div class="country-card" data-iso="ro" data-status="trasposta"
            data-measures="16" data-date="2025-01-14">
         <div class="card-header">
           <span class="country-flag">🇷🇴</span>
           <div class="country-info"><span class="country-name">Romania</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">31.12.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -562,12 +555,12 @@ informatice din spațiul cibernetic național civil</span> </li></ul>
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="sk" data-status="notified"
+      <div class="country-card" data-iso="sk" data-status="trasposta"
            data-measures="9" data-date="2025-02-12">
         <div class="card-header">
           <span class="country-flag">🇸🇰</span>
           <div class="country-info"><span class="country-name">Slovacchia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">24.07.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -577,12 +570,12 @@ informatice din spațiul cibernetic național civil</span> </li></ul>
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="si" data-status="not-notified"
+      <div class="country-card" data-iso="si" data-status="trasposta"
            data-measures="0" data-date="2011-08-02">
         <div class="card-header">
           <span class="country-flag">🇸🇮</span>
           <div class="country-info"><span class="country-name">Slovenia</span></div>
-          <span class="status-badge not-notified">Nessuna misura dalla direttiva</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">29.10.2024</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -592,12 +585,12 @@ informatice din spațiul cibernetic național civil</span> </li></ul>
           <p class="pre-existing">Altre 1 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="es" data-status="not-notified"
+      <div class="country-card" data-iso="es" data-status="non-trasposta"
            data-measures="0" data-date="">
         <div class="card-header">
           <span class="country-flag">🇪🇸</span>
           <div class="country-info"><span class="country-name">Spagna</span></div>
-          <span class="status-badge not-notified">Nessuna misura dalla direttiva</span>
+          <span class="status-badge non-trasposta">Non ancora trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -607,12 +600,12 @@ informatice din spațiul cibernetic național civil</span> </li></ul>
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="se" data-status="notified"
+      <div class="country-card" data-iso="se" data-status="trasposta"
            data-measures="13" data-date="2026-02-13">
         <div class="card-header">
           <span class="country-flag">🇸🇪</span>
           <div class="country-info"><span class="country-name">Svezia</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">15.01.2026</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -622,12 +615,12 @@ informatice din spațiul cibernetic național civil</span> </li></ul>
           
         </div></div>
       </div>
-      <div class="country-card" data-iso="hu" data-status="notified"
+      <div class="country-card" data-iso="hu" data-status="trasposta"
            data-measures="31" data-date="2026-04-10">
         <div class="card-header">
           <span class="country-flag">🇭🇺</span>
           <div class="country-info"><span class="country-name">Ungheria</span></div>
-          <span class="status-badge notified">Misure notificate</span>
+          <span class="status-badge trasposta">Trasposta</span>
         </div>
         <p class="descrizione">TODO — redigere in italiano con fonti proprie.</p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value verified">01.01.2004</span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">24h / 72h / 30g</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -637,12 +630,12 @@ informatice din spațiul cibernetic național civil</span> </li></ul>
           <p class="pre-existing">Altre 8 misura/e precedono la direttiva, notificate come trasposizione parziale.</p>
         </div></div>
       </div>
-      <div class="country-card" data-iso="ch" data-status="non-eu"
+      <div class="country-card" data-iso="ch" data-status="fuori-ue"
            data-measures="0" data-date="">
         <div class="card-header">
           <span class="country-flag">🇨🇭</span>
           <div class="country-info"><span class="country-name">Svizzera</span></div>
-          <span class="status-badge non-eu">Paese terzo - fuori dall'ambito NIS2</span>
+          <span class="status-badge fuori-ue">Fuori dall'UE</span>
         </div>
         <p class="descrizione">La Svizzera non è uno Stato membro dell&#x27;UE e non recepisce la direttiva NIS2.<br>TODO: descrivere la normativa nazionale (LSI/ISG) e le differenze rispetto a NIS2.<br></p>
         <div class="card-meta"><div class="meta-item"><span class="meta-label">Entrata in vigore</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Scadenza registrazione</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Notifica incidenti</span><span class="meta-value curated">TODOh / TODOh / TODOg</span></div><div class="meta-item"><span class="meta-label">Framework</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi essenziali</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div><div class="meta-item"><span class="meta-label">Obblighi importanti</span><span class="meta-value curated"><span class="todo">Da verificare</span></span></div></div>
@@ -653,9 +646,9 @@ informatice din spațiul cibernetic național civil</span> </li></ul>
         </div></div>
       </div>
       <!-- CARDS:END -->
-    </div>
+  </div>
 
-    <script src="js/app.js"></script>
+  <script src="js/app.js?v=2"></script>
 </body>
 
 </html>

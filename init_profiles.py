@@ -6,9 +6,9 @@ OUT = "data/profiles.yml"
 
 DEFAULTS = {
     "incident_notification": {
-        "early_warning_hours": 24,      # Art. 23(4)(a)
-        "notification_hours": 72,       # Art. 23(4)(b)
-        "final_report_days": 30,        # Art. 23(4)(d)
+        "early_warning_hours": 24,      
+        "notification_hours": 72,       
+        "final_report_days": 30,       
         "source": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
         "note": "Termini della direttiva; gli Stati membri possono essere piu' severi.",
     }
